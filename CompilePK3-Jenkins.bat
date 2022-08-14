@@ -1,7 +1,7 @@
 @echo off
 
-set FileName=Lexicon
-set MusFileName=Lexicon-miscdata
+set FileName=LexiconDM
+set MusFileName=LexiconDM-miscdata
 
 if "%PROCESSOR_ARCHITECTURE%" == "x86" (
 

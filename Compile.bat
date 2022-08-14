@@ -3,8 +3,8 @@
 
 :Init
 
-set FileName=Lexicon
-set MusFileName=Lexicon-miscdata
+set FileName=LexiconDM
+set MusFileName=LexiconDM-miscdata
 
 set Compression=9
 
