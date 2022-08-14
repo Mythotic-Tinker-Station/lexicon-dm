@@ -1,0 +1,136 @@
+// DWANGO3 Mapinfo
+
+map DWAN301 "DWANGO3 Map 1"
+{
+	titlepatch = "CWILV00"
+	next = "DWAN302"
+	secretnext = "DWAN302"
+	sky1 = "DWAN3SKY"
+	music = "D_DWG301"
+}
+
+map DWAN302 "DWANGO3 Map 2"
+{
+	titlepatch = "CWILV01"
+	next = "DWAN303"
+	secretnext = "DWAN303"
+	sky1 = "DWAN3SKY"
+	music = "D_DWG302"
+}
+
+map DWAN303 "DWANGO3 Map 3"
+{
+	titlepatch = "CWILV02"
+	next = "DWAN304"
+	secretnext = "DWAN304"
+	sky1 = "DWAN3SKY"
+	music = "D_DWG303"
+}
+
+map DWAN304 "DWANGO3 Map 4"
+{
+	titlepatch = "CWILV03"
+	next = "DWAN305"
+	secretnext = "DWAN305"
+	sky1 = "DWAN3SKY"
+	music = "D_DWG304"
+}
+
+map DWAN305 "DWANGO3 Map 5"
+{
+	titlepatch = "CWILV04"
+	next = "DWAN306"
+	secretnext = "DWAN306"
+	sky1 = "DWAN3SKY"
+	music = "D_DWG305"
+}
+
+map DWAN306 "DWANGO3 Map 6"
+{
+	titlepatch = "CWILV05"
+	next = "DWAN307"
+	secretnext = "DWAN307"
+	sky1 = "DWAN3SKY"
+	music = "D_DWG306"
+}
+
+map DWAN307 "DWANGO3 Map 7"
+{
+	titlepatch = "CWILV06"
+	next = "DWAN308"
+	secretnext = "DWAN308"
+	sky1 = "DWAN3SKY"
+	music = "D_DWG307"
+}
+
+map DWAN308 "DWANGO3 Map 8"
+{
+	titlepatch = "CWILV07"
+	next = "DWAN309"
+	secretnext = "DWAN309"
+	sky1 = "DWAN3SKY"
+	music = "D_DWG308"
+}
+
+map DWAN309 "DWANGO3 Map 9"
+{
+	titlepatch = "CWILV08"
+	next = "DWAN310"
+	secretnext = "DWAN310"
+	sky1 = "DWAN3SKY"
+	music = "D_DWG309"
+}
+
+map DWAN310 "DWANGO3 Map 10"
+{
+	titlepatch = "CWILV09"
+	next = "DWAN311"
+	secretnext = "DWAN311"
+	sky1 = "DWAN3SKY"
+	music = "D_DWG310"
+}
+
+map DWAN311 "DWANGO3 Map 11"
+{
+	titlepatch = "CWILV10"
+	next = "DWAN312"
+	secretnext = "DWAN312"
+	sky1 = "DWAN3SKY"
+	music = "D_DWG311"
+}
+
+map DWAN312 "DWANGO3 Map 12"
+{
+	titlepatch = "CWILV11"
+	next = "DWAN313"
+	secretnext = "DWAN313"
+	sky1 = "DWAN3SKY"
+	music = "D_DWG312"
+}
+
+map DWAN313 "DWANGO3 Map 13"
+{
+	titlepatch = "CWILV12"
+	next = "DWAN314"
+	secretnext = "DWAN314"
+	sky1 = "DWAN3SKY"
+	music = "D_DWG313"
+}
+
+map DWAN314 "DWANGO3 Map 14"
+{
+	titlepatch = "CWILV13"
+	next = "DWAN315"
+	secretnext = "DWAN315"
+	sky1 = "DWAN3SKY"
+	music = "D_DWG314"
+}
+
+map DWAN315 "DWANGO3 Map 15"
+{
+	titlepatch = "CWILV14"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "DWAN3SK2"
+	music = "D_DWG315"
+}

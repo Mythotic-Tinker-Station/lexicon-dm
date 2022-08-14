@@ -1,0 +1,289 @@
+// DWANGO8 Mapinfo
+
+map DWAN801 "Crypt"
+{
+	titlepatch = "CWILV00"
+	next = "DWAN802"
+	secretnext = "DWAN802"
+	sky1 = "SKY1"
+	music = "D_DWG801"
+	intermusic = "D_DWG8IN"
+	ExitPic = "DWAN8INT"
+	EnterPic = "DWAN8INT"
+}
+
+map DWAN802 "Danzig1"
+{
+	titlepatch = "CWILV01"
+	next = "DWAN803"
+	secretnext = "DWAN803"
+	sky1 = "SKY1"
+	music = "D_DWG802"
+	intermusic = "D_DWG8IN"
+	ExitPic = "DWAN8INT"
+	EnterPic = "DWAN8INT"
+}
+
+map DWAN803 "Fry"
+{
+	titlepatch = "CWILV02"
+	next = "DWAN804"
+	secretnext = "DWAN804"
+	sky1 = "SKY1"
+	music = "D_DWG803"
+	intermusic = "D_DWG8IN"
+	ExitPic = "DWAN8INT"
+	EnterPic = "DWAN8INT"
+}
+
+map DWAN804 "Gren"
+{
+	titlepatch = "CWILV03"
+	next = "DWAN805"
+	secretnext = "DWAN805"
+	sky1 = "SKY1"
+	music = "D_DWG804"
+	intermusic = "D_DWG8IN"
+	ExitPic = "DWAN8INT"
+	EnterPic = "DWAN8INT"
+}
+
+map DWAN805 "Abnorm"
+{
+	titlepatch = "CWILV04"
+	next = "DWAN806"
+	secretnext = "DWAN806"
+	sky1 = "SKY1"
+	music = "D_DWG805"
+	intermusic = "D_DWG8IN"
+	ExitPic = "DWAN8INT"
+	EnterPic = "DWAN8INT"
+}
+
+map DWAN806 "Vort1"
+{
+	titlepatch = "CWILV05"
+	next = "DWAN807"
+	secretnext = "DWAN807"
+	sky1 = "SKY1"
+	music = "$MUSIC_THE_DA"
+	intermusic = "D_DWG8IN"
+	ExitPic = "DWAN8INT"
+	EnterPic = "DWAN8INT"
+}
+
+map DWAN807 "Mancerx1"
+{
+	titlepatch = "CWILV06"
+	next = "DWAN808"
+	secretnext = "DWAN808"
+	sky1 = "SKY1"
+	music = "$MUSIC_SHAWN"
+	intermusic = "D_DWG8IN"
+	ExitPic = "DWAN8INT"
+	EnterPic = "DWAN8INT"
+}
+
+map DWAN808 "Connect2"
+{
+	titlepatch = "CWILV07"
+	next = "DWAN809"
+	secretnext = "DWAN809"
+	sky1 = "SKY1"
+	music = "$MUSIC_DDTBLU"
+	intermusic = "D_DWG8IN"
+	ExitPic = "DWAN8INT"
+	EnterPic = "DWAN8INT"
+}
+
+map DWAN809 "Mancer7"
+{
+	titlepatch = "CWILV08"
+	next = "DWAN810"
+	secretnext = "DWAN810"
+	sky1 = "SKY1"
+	music = "$MUSIC_IN_CIT"
+	intermusic = "D_DWG8IN"
+	ExitPic = "DWAN8INT"
+	EnterPic = "DWAN8INT"
+}
+
+map DWAN810 "Praxus"
+{
+	titlepatch = "CWILV09"
+	next = "DWAN811"
+	secretnext = "DWAN811"
+	sky1 = "SKY1"
+	music = "$MUSIC_DEAD"
+	intermusic = "D_DWG8IN"
+	ExitPic = "DWAN8INT"
+	EnterPic = "DWAN8INT"
+}
+
+map DWAN811 "Swirl"
+{
+	titlepatch = "CWILV10"
+	next = "DWAN812"
+	secretnext = "DWAN812"
+	sky1 = "SKY1"
+	music = "$MUSIC_STLKS2"
+	intermusic = "D_DWG8IN"
+	ExitPic = "DWAN8INT"
+	EnterPic = "DWAN8INT"
+}
+
+map DWAN812 "Dweller1"
+{
+	titlepatch = "CWILV11"
+	next = "DWAN813"
+	secretnext = "DWAN813"
+	sky1 = "SKY2"
+	music = "$MUSIC_THEDA2"
+	intermusic = "D_DWG8IN"
+	ExitPic = "DWAN8INT"
+	EnterPic = "DWAN8INT"
+}
+
+map DWAN813 "x"
+{
+	titlepatch = "CWILV12"
+	next = "DWAN814"
+	secretnext = "DWAN814"
+	sky1 = "SKY2"
+	music = "$MUSIC_DOOM2"
+	intermusic = "D_DWG8IN"
+	ExitPic = "DWAN8INT"
+	EnterPic = "DWAN8INT"
+}
+
+map DWAN814 "Why"
+{
+	titlepatch = "CWILV13"
+	next = "DWAN815"
+	secretnext = "DWAN815"
+	sky1 = "SKY2"
+	music = "$MUSIC_DDTBL2"
+	intermusic = "D_DWG8IN"
+	ExitPic = "DWAN8INT"
+	EnterPic = "DWAN8INT"
+}
+
+map DWAN815 "Smight"
+{
+	titlepatch = "CWILV14"
+	next = "DWAN816"
+	secretnext = "DWAN816"
+	sky1 = "SKY2"
+	music = "$MUSIC_RUNNI2"
+	intermusic = "D_DWG8IN"
+	ExitPic = "DWAN8INT"
+	EnterPic = "DWAN8INT"
+}
+
+map DWAN816 "Carnage"
+{
+	titlepatch = "CWILV15"
+	next = "DWAN817"
+	secretnext = "DWAN817"
+	sky1 = "SKY2"
+	music = "$MUSIC_DEAD2"
+	intermusic = "D_DWG8IN"
+	ExitPic = "DWAN8INT"
+	EnterPic = "DWAN8INT"
+}
+
+map DWAN817 "Dweller17"
+{
+	titlepatch = "CWILV16"
+	next = "DWAN818"
+	secretnext = "DWAN818"
+	sky1 = "SKY2"
+	music = "$MUSIC_STLKS3"
+	intermusic = "D_DWG8IN"
+	ExitPic = "DWAN8INT"
+	EnterPic = "DWAN8INT"
+}
+
+map DWAN818 "Danzig"
+{
+	titlepatch = "CWILV17"
+	next = "DWAN819"
+	secretnext = "DWAN819"
+	sky1 = "SKY2"
+	music = "$MUSIC_ROMERO"
+	intermusic = "D_DWG8IN"
+	ExitPic = "DWAN8INT"
+	EnterPic = "DWAN8INT"
+}
+
+map DWAN819 "Penic"
+{
+	titlepatch = "CWILV18"
+	next = "DWAN820"
+	secretnext = "DWAN820"
+	sky1 = "SKY2"
+	music = "$MUSIC_SHAWN2"
+	intermusic = "D_DWG8IN"
+	ExitPic = "DWAN8INT"
+	EnterPic = "DWAN8INT"
+}
+
+map DWAN820 "DNA"
+{
+	titlepatch = "CWILV19"
+	next = "DWAN821"
+	secretnext = "DWAN821"
+	sky1 = "SKY2"
+	music = "$MUSIC_MESSAG"
+	intermusic = "D_DWG8IN"
+	ExitPic = "DWAN8INT"
+	EnterPic = "DWAN8INT"
+}
+
+map DWAN821 "Dweller15"
+{
+	titlepatch = "CWILV20"
+	next = "DWAN822"
+	secretnext = "DWAN822"
+	sky1 = "SKY3"
+	music = "$MUSIC_COUNT2"
+	intermusic = "D_DWG8IN"
+	ExitPic = "DWAN8INT"
+	EnterPic = "DWAN8INT"
+}
+
+map DWAN822 "Crypt2"
+{
+	titlepatch = "CWILV21"
+	next = "DWAN823"
+	secretnext = "DWAN823"
+	sky1 = "SKY3"
+	music = "$MUSIC_DDTBL3"
+	intermusic = "D_DWG8IN"
+	ExitPic = "DWAN8INT"
+	EnterPic = "DWAN8INT"
+}
+
+map DWAN823 "Danzig13"
+{
+	titlepatch = "CWILV22"
+	next = "DWAN824"
+	secretnext = "DWAN824"
+	sky1 = "SKY3"
+	music = "$MUSIC_AMPIE"
+	intermusic = "D_DWG8IN"
+	ExitPic = "DWAN8INT"
+	EnterPic = "DWAN8INT"
+}
+
+map DWAN824 "Vort2"
+{
+	titlepatch = "CWILV23"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY3"
+	music = "$MUSIC_THEDA3"
+	intermusic = "D_DWG8IN"
+	ExitPic = "DWAN8INT"
+	EnterPic = "DWAN8INT"
+}

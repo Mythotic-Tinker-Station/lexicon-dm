@@ -1,0 +1,313 @@
+// DWANGO6 Mapinfo
+
+map DWANA01 "DWANGO10 Map 1"
+{
+	titlepatch = "CWILV00"
+	next = "DWANA02"
+	secretnext = "DWANA02"
+	sky1 = "DWANASKY"
+	music = "D_DWGA01"
+	intermusic = "D_DWGAIN"
+	ExitPic = "DWANAINT"
+	EnterPic = "DWANAINT"
+}
+
+map DWANA02 "DWANGO10 Map 2"
+{
+	titlepatch = "CWILV01"
+	next = "DWANA03"
+	secretnext = "DWANA03"
+	sky1 = "DWANASKY"
+	music = "D_DWGA02"
+	intermusic = "D_DWGAIN"
+	ExitPic = "DWANAINT"
+	EnterPic = "DWANAINT"
+}
+
+map DWANA03 "DWANGO10 Map 3"
+{
+	titlepatch = "CWILV02"
+	next = "DWANA04"
+	secretnext = "DWANA04"
+	sky1 = "DWANASKY"
+	music = "D_DWGA03"
+	intermusic = "D_DWGAIN"
+	ExitPic = "DWANAINT"
+	EnterPic = "DWANAINT"
+}
+
+map DWANA04 "DWANGO10 Map 4"
+{
+	titlepatch = "CWILV03"
+	next = "DWANA05"
+	secretnext = "DWANA05"
+	sky1 = "DWANASKY"
+	music = "D_DWGA04"
+	intermusic = "D_DWGAIN"
+	ExitPic = "DWANAINT"
+	EnterPic = "DWANAINT"
+}
+
+map DWANA05 "DWANGO10 Map 5"
+{
+	titlepatch = "CWILV04"
+	next = "DWANA06"
+	secretnext = "DWANA06"
+	sky1 = "DWANASKY"
+	music = "D_DWGA05"
+	intermusic = "D_DWGAIN"
+	ExitPic = "DWANAINT"
+	EnterPic = "DWANAINT"
+}
+
+map DWANA06 "DWANGO10 Map 6"
+{
+	titlepatch = "CWILV05"
+	next = "DWANA07"
+	secretnext = "DWANA07"
+	sky1 = "DWANASKY"
+	music = "D_DWGA06"
+	intermusic = "D_DWGAIN"
+	ExitPic = "DWANAINT"
+	EnterPic = "DWANAINT"
+}
+
+map DWANA07 "DWANGO10 Map 7"
+{
+	titlepatch = "CWILV06"
+	next = "DWANA08"
+	secretnext = "DWANA08"
+	sky1 = "DWANASKY"
+	music = "$MUSIC_SHAWN"
+	intermusic = "D_DWGAIN"
+	ExitPic = "DWANAINT"
+	EnterPic = "DWANAINT"
+}
+
+map DWANA08 "DWANGO10 Map 8"
+{
+	titlepatch = "CWILV07"
+	next = "DWANA09"
+	secretnext = "DWANA09"
+	sky1 = "DWANASKY"
+	music = "D_DWGA08"
+	intermusic = "D_DWGAIN"
+	ExitPic = "DWANAINT"
+	EnterPic = "DWANAINT"
+}
+
+map DWANA09 "DWANGO10 Map 9"
+{
+	titlepatch = "CWILV08"
+	next = "DWANA10"
+	secretnext = "DWANA10"
+	sky1 = "DWANASKY"
+	music = "D_DWGA09"
+	intermusic = "D_DWGAIN"
+	ExitPic = "DWANAINT"
+	EnterPic = "DWANAINT"
+}
+
+map DWANA10 "DWANGO10 Map 10"
+{
+	titlepatch = "CWILV09"
+	next = "DWANA11"
+	secretnext = "DWANA11"
+	sky1 = "DWANASKY"
+	music = "D_DWGA10"
+	intermusic = "D_DWGAIN"
+	ExitPic = "DWANAINT"
+	EnterPic = "DWANAINT"
+}
+
+map DWANA11 "DWANGO10 Map 11"
+{
+	titlepatch = "CWILV10"
+	next = "DWANA12"
+	secretnext = "DWANA12"
+	sky1 = "DWANASKY"
+	music = "D_DWGA11"
+	intermusic = "D_DWGAIN"
+	ExitPic = "DWANAINT"
+	EnterPic = "DWANAINT"
+}
+
+map DWANA12 "DWANGO10 Map 12"
+{
+	titlepatch = "CWILV11"
+	next = "DWANA13"
+	secretnext = "DWANA13"
+	sky1 = "DWANASK2"
+	music = "D_DWGA12"
+	intermusic = "D_DWGAIN"
+	ExitPic = "DWANAINT"
+	EnterPic = "DWANAINT"
+}
+
+map DWANA13 "DWANGO10 Map 13"
+{
+	titlepatch = "CWILV12"
+	next = "DWANA14"
+	secretnext = "DWANA14"
+	sky1 = "DWANASK2"
+	music = "D_DWGA13"
+	intermusic = "D_DWGAIN"
+	ExitPic = "DWANAINT"
+	EnterPic = "DWANAINT"
+}
+
+map DWANA14 "DWANGO10 Map 14"
+{
+	titlepatch = "CWILV13"
+	next = "DWANA15"
+	secretnext = "DWANA15"
+	sky1 = "DWANASK2"
+	music = "D_DWGA14"
+	intermusic = "D_DWGAIN"
+	ExitPic = "DWANAINT"
+	EnterPic = "DWANAINT"
+}
+
+map DWANA15 "DWANGO10 Map 15"
+{
+	titlepatch = "CWILV14"
+	next = "DWANA16"
+	secretnext = "DWANA16"
+	sky1 = "DWANASK2"
+	music = "D_DWGA15"
+	intermusic = "D_DWGAIN"
+	ExitPic = "DWANAINT"
+	EnterPic = "DWANAINT"
+}
+
+map DWANA16 "DWANGO10 Map 16"
+{
+	titlepatch = "CWILV15"
+	next = "DWANA17"
+	secretnext = "DWANA17"
+	sky1 = "DWANASK2"
+	music = "D_DWGA16"
+	intermusic = "D_DWGAIN"
+	ExitPic = "DWANAINT"
+	EnterPic = "DWANAINT"
+}
+
+map DWANA17 "DWANGO10 Map 17"
+{
+	titlepatch = "CWILV16"
+	next = "DWANA18"
+	secretnext = "DWANA18"
+	sky1 = "DWANASK2"
+	music = "D_DWGA17"
+	intermusic = "D_DWGAIN"
+	ExitPic = "DWANAINT"
+	EnterPic = "DWANAINT"
+}
+
+map DWANA18 "DWANGO10 Map 18"
+{
+	titlepatch = "CWILV17"
+	next = "DWANA19"
+	secretnext = "DWANA19"
+	sky1 = "DWANASK2"
+	music = "D_DWGA18"
+	intermusic = "D_DWGAIN"
+	ExitPic = "DWANAINT"
+	EnterPic = "DWANAINT"
+}
+
+map DWANA19 "DWANGO10 Map 19"
+{
+	titlepatch = "CWILV18"
+	next = "DWANA20"
+	secretnext = "DWANA20"
+	sky1 = "DWANASK2"
+	music = "D_DWGA19"
+	intermusic = "D_DWGAIN"
+	ExitPic = "DWANAINT"
+	EnterPic = "DWANAINT"
+}
+
+map DWANA20 "DWANGO10 Map 20"
+{
+	titlepatch = "CWILV19"
+	next = "DWANA21"
+	secretnext = "DWANA21"
+	sky1 = "DWANASK2"
+	music = "$MUSIC_MESSAG"
+	intermusic = "D_DWGAIN"
+	ExitPic = "DWANAINT"
+	EnterPic = "DWANAINT"
+}
+
+map DWANA21 "DWANGO10 Map 21"
+{
+	titlepatch = "CWILV20"
+	next = "DWANA22"
+	secretnext = "DWANA22"
+	sky1 = "DWANASK3"
+	music = "D_DWGA21"
+	intermusic = "D_DWGAIN"
+	ExitPic = "DWANAINT"
+	EnterPic = "DWANAINT"
+}
+
+map DWANA22 "DWANGO10 Map 22"
+{
+	titlepatch = "CWILV21"
+	next = "DWANA23"
+	secretnext = "DWANA23"
+	sky1 = "DWANASK3"
+	music = "D_DWGA22"
+	intermusic = "D_DWGAIN"
+	ExitPic = "DWANAINT"
+	EnterPic = "DWANAINT"
+}
+
+map DWANA23 "DWANGO10 Map 23"
+{
+	titlepatch = "CWILV22"
+	next = "DWANA24"
+	secretnext = "DWANA24"
+	sky1 = "DWANASK3"
+	music = "D_DWGA23"
+	intermusic = "D_DWGAIN"
+	ExitPic = "DWANAINT"
+	EnterPic = "DWANAINT"
+}
+
+map DWANA24 "DWANGO10 Map 24"
+{
+	titlepatch = "CWILV23"
+	next = "DWANA25"
+	secretnext = "DWANA25"
+	sky1 = "DWANASK3"
+	music = "D_DWGA24"
+	intermusic = "D_DWGAIN"
+	ExitPic = "DWANAINT"
+	EnterPic = "DWANAINT"
+}
+
+map DWANA25 "DWANGO10 Map 25"
+{
+	titlepatch = "CWILV24"
+	next = "DWANA26"
+	secretnext = "DWANA26"
+	sky1 = "DWANASK3"
+	music = "D_DWGA25"
+	intermusic = "D_DWGAIN"
+	ExitPic = "DWANAINT"
+	EnterPic = "DWANAINT"
+}
+
+map DWANA26 "DWANGO10 Map 26"
+{
+	titlepatch = "CWILV25"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "DWANASK3"
+	music = "D_DWGA26"
+	intermusic = "D_DWGAIN"
+	ExitPic = "DWANAINT"
+	EnterPic = "DWANAINT"
+}

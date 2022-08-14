@@ -1,0 +1,385 @@
+// GOTHIC2 Mapinfo
+
+map GDM201 "Ruckas"
+{
+	titlepatch = "GDM2V00"
+	next = "GDM202"
+	secretnext = "GDM202"
+	sky1 = "GDM2SKY"
+	music = "D_GDM201"
+	intermusic = "D_GDM2IN"
+	ExitPic = "GDM2INT"
+	EnterPic = "GDM2INT"
+}
+
+map GDM202 "Hellsphere"
+{
+	titlepatch = "GDM2V01"
+	next = "GDM203"
+	secretnext = "GDM203"
+	sky1 = "GDM2SKY"
+	music = "D_GDM202"
+	intermusic = "D_GDM2IN"
+	ExitPic = "GDM2INT"
+	EnterPic = "GDM2INT"
+}
+
+map GDM203 "American Gothic"
+{
+	titlepatch = "GDM2V02"
+	next = "GDM204"
+	secretnext = "GDM204"
+	sky1 = "GDM2SKY"
+	music = "D_GDM203"
+	intermusic = "D_GDM2IN"
+	ExitPic = "GDM2INT"
+	EnterPic = "GDM2INT"
+}
+
+map GDM204 "Kingdom Come to Zero Hour"
+{
+	titlepatch = "GDM2V03"
+	next = "GDM205"
+	secretnext = "GDM205"
+	sky1 = "GDM2SKY"
+	music = "D_GDM204"
+	intermusic = "D_GDM2IN"
+	ExitPic = "GDM2INT"
+	EnterPic = "GDM2INT"
+}
+
+map GDM205 "Invalid"
+{
+	titlepatch = "GDM2V04"
+	next = "GDM206"
+	secretnext = "GDM206"
+	sky1 = "GDM2SKY"
+	music = "D_GDM205"
+	intermusic = "D_GDM2IN"
+	ExitPic = "GDM2INT"
+	EnterPic = "GDM2INT"
+}
+
+map GDM206 "Niggle"
+{
+	titlepatch = "GDM2V05"
+	next = "GDM207"
+	secretnext = "GDM207"
+	sky1 = "GDM2SKY"
+	music = "D_GDM206"
+	intermusic = "D_GDM2IN"
+	ExitPic = "GDM2INT"
+	EnterPic = "GDM2INT"
+}
+
+map GDM207 "The Darkness Beneath"
+{
+	titlepatch = "GDM2V06"
+	next = "GDM208"
+	secretnext = "GDM208"
+	sky1 = "GDM2SKY"
+	music = "D_GDM207"
+	intermusic = "D_GDM2IN"
+	ExitPic = "GDM2INT"
+	EnterPic = "GDM2INT"
+}
+
+map GDM208 "Shades of Amber"
+{
+	titlepatch = "GDM2V07"
+	next = "GDM209"
+	secretnext = "GDM209"
+	sky1 = "GDM2SKY"
+	music = "D_GDM208"
+	intermusic = "D_GDM2IN"
+	ExitPic = "GDM2INT"
+	EnterPic = "GDM2INT"
+}
+
+map GDM209 "Benthian Bastille"
+{
+	titlepatch = "GDM2V08"
+	next = "GDM210"
+	secretnext = "GDM210"
+	sky1 = "GDM2SKY"
+	music = "D_GDM209"
+	intermusic = "D_GDM2IN"
+	ExitPic = "GDM2INT"
+	EnterPic = "GDM2INT"
+}
+
+map GDM210 "San Salvador de Leyre: Crypt"
+{
+	titlepatch = "GDM2V09"
+	next = "GDM211"
+	secretnext = "GDM211"
+	sky1 = "GDM2SKY"
+	music = "D_GDM210"
+	intermusic = "D_GDM2IN"
+	ExitPic = "GDM2INT"
+	EnterPic = "GDM2INT"
+}
+
+map GDM211 "Shrouded Ground"
+{
+	titlepatch = "GDM2V10"
+	next = "GDM212"
+	secretnext = "GDM212"
+	sky1 = "GDM2SKY"
+	music = "D_GDM211"
+	intermusic = "D_GDM2IN"
+	ExitPic = "GDM2INT"
+	EnterPic = "GDM2INT"
+}
+
+map GDM212 "Souls for the Pagans"
+{
+	titlepatch = "GDM2V11"
+	next = "GDM213"
+	secretnext = "GDM213"
+	sky1 = "GDM2SKY2"
+	music = "D_GDM212"
+	intermusic = "D_GDM2IN"
+	ExitPic = "GDM2INT"
+	EnterPic = "GDM2INT"
+}
+
+map GDM213 "Focal Zero"
+{
+	titlepatch = "GDM2V12"
+	next = "GDM214"
+	secretnext = "GDM214"
+	sky1 = "GDM2SKY2"
+	music = "D_GDM213"
+	intermusic = "D_GDM2IN"
+	ExitPic = "GDM2INT"
+	EnterPic = "GDM2INT"
+}
+
+map GDM214 "Fontevrault 1110 a.d."
+{
+	titlepatch = "GDM2V13"
+	next = "GDM215"
+	secretnext = "GDM215"
+	sky1 = "GDM2SKY2"
+	music = "D_GDM214"
+	intermusic = "D_GDM2IN"
+	ExitPic = "GDM2INT"
+	EnterPic = "GDM2INT"
+}
+
+map GDM215 "Fragment Sixty Six"
+{
+	titlepatch = "GDM2V14"
+	next = "GDM216"
+	secretnext = "GDM216"
+	sky1 = "GDM2SKY2"
+	music = "D_GDM215"
+	intermusic = "D_GDM2IN"
+	ExitPic = "GDM2INT"
+	EnterPic = "GDM2INT"
+}
+
+map GDM216 "Dyhani"
+{
+	titlepatch = "GDM2V15"
+	next = "GDM217"
+	secretnext = "GDM217"
+	sky1 = "GDM2SKY2"
+	music = "D_GDM216"
+	intermusic = "D_GDM2IN"
+	ExitPic = "GDM2INT"
+	EnterPic = "GDM2INT"
+}
+
+map GDM217 "Mausoleum"
+{
+	titlepatch = "GDM2V16"
+	next = "GDM218"
+	secretnext = "GDM218"
+	sky1 = "GDM2SKY2"
+	music = "D_GDM217"
+	intermusic = "D_GDM2IN"
+	ExitPic = "GDM2INT"
+	EnterPic = "GDM2INT"
+}
+
+map GDM218 "Cardona, San Vicenc"
+{
+	titlepatch = "GDM2V17"
+	next = "GDM219"
+	secretnext = "GDM219"
+	sky1 = "GDM2SKY2"
+	music = "D_GDM218"
+	intermusic = "D_GDM2IN"
+	ExitPic = "GDM2INT"
+	EnterPic = "GDM2INT"
+}
+
+map GDM219 "Artemisia Absinthium"
+{
+	titlepatch = "GDM2V18"
+	next = "GDM220"
+	secretnext = "GDM220"
+	sky1 = "GDM2SKY2"
+	music = "D_GDM219"
+	intermusic = "D_GDM2IN"
+	ExitPic = "GDM2INT"
+	EnterPic = "GDM2INT"
+}
+
+map GDM220 "Hoo Doo"
+{
+	titlepatch = "GDM2V19"
+	next = "GDM221"
+	secretnext = "GDM221"
+	sky1 = "GDM2SKY2"
+	music = "D_GDM220"
+	intermusic = "D_GDM2IN"
+	ExitPic = "GDM2INT"
+	EnterPic = "GDM2INT"
+}
+
+map GDM221 "Dominion"
+{
+	titlepatch = "GDM2V20"
+	next = "GDM222"
+	secretnext = "GDM222"
+	sky1 = "GDM2SKY3"
+	music = "D_GDM221"
+	intermusic = "D_GDM2IN"
+	ExitPic = "GDM2INT"
+	EnterPic = "GDM2INT"
+}
+
+map GDM222 "Epherneral Playground"
+{
+	titlepatch = "GDM2V21"
+	next = "GDM223"
+	secretnext = "GDM223"
+	sky1 = "GDM2SKY3"
+	music = "D_GDM222"
+	intermusic = "D_GDM2IN"
+	ExitPic = "GDM2INT"
+	EnterPic = "GDM2INT"
+}
+
+map GDM223 "Gateway to Inverness"
+{
+	titlepatch = "GDM2V22"
+	next = "GDM224"
+	secretnext = "GDM224"
+	sky1 = "GDM2SKY3"
+	music = "D_GDM223"
+	intermusic = "D_GDM2IN"
+	ExitPic = "GDM2INT"
+	EnterPic = "GDM2INT"
+}
+
+map GDM224 "Acropolis"
+{
+	titlepatch = "GDM2V23"
+	next = "GDM225"
+	secretnext = "GDM225"
+	sky1 = "GDM2SKY3"
+	music = "D_GDM224"
+	intermusic = "D_GDM2IN"
+	ExitPic = "GDM2INT"
+	EnterPic = "GDM2INT"
+}
+
+map GDM225 "The Keeper's Call"
+{
+	titlepatch = "GDM2V24"
+	next = "GDM226"
+	secretnext = "GDM226"
+	sky1 = "GDM2SKY3"
+	music = "D_GDM225"
+	intermusic = "D_GDM2IN"
+	ExitPic = "GDM2INT"
+	EnterPic = "GDM2INT"
+}
+
+map GDM226 "Opiate"
+{
+	titlepatch = "GDM2V25"
+	next = "GDM227"
+	secretnext = "GDM227"
+	sky1 = "GDM2SKY3"
+	music = "D_GDM226"
+	intermusic = "D_GDM2IN"
+	ExitPic = "GDM2INT"
+	EnterPic = "GDM2INT"
+}
+
+map GDM227 "Bricolage"
+{
+	titlepatch = "GDM2V26"
+	next = "GDM228"
+	secretnext = "GDM228"
+	sky1 = "GDM2SKY3"
+	music = "D_GDM227"
+	intermusic = "D_GDM2IN"
+	ExitPic = "GDM2INT"
+	EnterPic = "GDM2INT"
+}
+
+map GDM228 "Witches Congregation"
+{
+	titlepatch = "GDM2V27"
+	next = "GDM229"
+	secretnext = "GDM229"
+	sky1 = "GDM2SKY3"
+	music = "D_GDM228"
+	intermusic = "D_GDM2IN"
+	ExitPic = "GDM2INT"
+	EnterPic = "GDM2INT"
+}
+
+map GDM229 "Apocolyptoplois"
+{
+	titlepatch = "GDM2V28"
+	next = "GDM230"
+	secretnext = "GDM230"
+	sky1 = "GDM2SKY3"
+	music = "D_GDM229"
+	intermusic = "D_GDM2IN"
+	ExitPic = "GDM2INT"
+	EnterPic = "GDM2INT"
+}
+
+map GDM230 "Quake 3:16"
+{
+	titlepatch = "GDM2V29"
+	next = "GDM231"
+	secretnext = "GDM231"
+	sky1 = "GDM2SKY3"
+	music = "D_GDM230"
+	intermusic = "D_GDM2IN"
+	ExitPic = "GDM2INT"
+	EnterPic = "GDM2INT"
+}
+
+map GDM231 "Absolution"
+{
+	titlepatch = "GDM2V30"
+	next = "GDM232"
+	secretnext = "GDM232"
+	sky1 = "GDM2SKY3"
+	music = "D_GDM231"
+	intermusic = "D_GDM2IN"
+	ExitPic = "GDM2INT"
+	EnterPic = "GDM2INT"
+}
+
+map GDM232 "Ad Infinitum"
+{
+	titlepatch = "GDM2V31"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "GDM2SKY3"
+	music = "D_GDM232"
+	intermusic = "D_GDM2IN"
+	ExitPic = "GDM2INT"
+	EnterPic = "GDM2INT"
+}

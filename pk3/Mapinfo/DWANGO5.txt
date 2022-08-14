@@ -1,0 +1,289 @@
+// DWANGO5 Mapinfo
+
+map DWAN501 "SS-MAP1"
+{
+	titlepatch = "CWILV00"
+	next = "DWAN502"
+	secretnext = "DWAN502"
+	sky1 = "DWAN5SKY"
+	music = "D_DWG501"
+	intermusic = "D_DWG5IN"
+	ExitPic = "DWAN5INT"
+	EnterPic = "DWAN5INT"
+}
+
+map DWAN502 "DANZIG1 #11"
+{
+	titlepatch = "CWILV01"
+	next = "DWAN503"
+	secretnext = "DWAN503"
+	sky1 = "DWAN5SKY"
+	music = "D_DWG502"
+	intermusic = "D_DWG5IN"
+	ExitPic = "DWAN5INT"
+	EnterPic = "DWAN5INT"
+}
+
+map DWAN503 "PLAGUE #13"
+{
+	titlepatch = "CWILV02"
+	next = "DWAN504"
+	secretnext = "DWAN504"
+	sky1 = "DWAN5SKY"
+	music = "D_DWG503"
+	intermusic = "D_DWG5IN"
+	ExitPic = "DWAN5INT"
+	EnterPic = "DWAN5INT"
+}
+
+map DWAN504 "PLAGUE #1"
+{
+	titlepatch = "CWILV03"
+	next = "DWAN505"
+	secretnext = "DWAN505"
+	sky1 = "DWAN5SKY"
+	music = "D_DWG504"
+	intermusic = "D_DWG5IN"
+	ExitPic = "DWAN5INT"
+	EnterPic = "DWAN5INT"
+}
+
+map DWAN505 "THE_KEEP"
+{
+	titlepatch = "CWILV04"
+	next = "DWAN506"
+	secretnext = "DWAN506"
+	sky1 = "DWAN5SKY"
+	music = "D_DWG505"
+	intermusic = "D_DWG5IN"
+	ExitPic = "DWAN5INT"
+	EnterPic = "DWAN5INT"
+}
+
+map DWAN506 "BESTDML1 #14"
+{
+	titlepatch = "CWILV05"
+	next = "DWAN507"
+	secretnext = "DWAN507"
+	sky1 = "DWAN5SKY"
+	music = "D_DWG506"
+	intermusic = "D_DWG5IN"
+	ExitPic = "DWAN5INT"
+	EnterPic = "DWAN5INT"
+}
+
+map DWAN507 "REAL7"
+{
+	titlepatch = "CWILV06"
+	next = "DWAN508"
+	secretnext = "DWAN508"
+	sky1 = "DWAN5SKY"
+	music = "D_DWG507"
+	intermusic = "D_DWG5IN"
+	ExitPic = "DWAN5INT"
+	EnterPic = "DWAN5INT"
+}
+
+map DWAN508 "M_ROOM3"
+{
+	titlepatch = "CWILV07"
+	next = "DWAN509"
+	secretnext = "DWAN509"
+	sky1 = "DWAN5SKY"
+	music = "D_DWG508"
+	intermusic = "D_DWG5IN"
+	ExitPic = "DWAN5INT"
+	EnterPic = "DWAN5INT"
+}
+
+map DWAN509 "BRIKYARD"
+{
+	titlepatch = "CWILV08"
+	next = "DWAN510"
+	secretnext = "DWAN510"
+	sky1 = "DWAN5SKY"
+	music = "D_DWG509"
+	intermusic = "D_DWG5IN"
+	ExitPic = "DWAN5INT"
+	EnterPic = "DWAN5INT"
+}
+
+map DWAN510 "PLAGUE #17"
+{
+	titlepatch = "CWILV09"
+	next = "DWAN511"
+	secretnext = "DWAN511"
+	sky1 = "DWAN5SKY"
+	music = "D_DWG510"
+	intermusic = "D_DWG5IN"
+	ExitPic = "DWAN5INT"
+	EnterPic = "DWAN5INT"
+}
+
+map DWAN511 "MADISON"
+{
+	titlepatch = "CWILV10"
+	next = "DWAN512"
+	secretnext = "DWAN512"
+	sky1 = "DWAN5SKY"
+	music = "D_DWG511"
+	intermusic = "D_DWG5IN"
+	ExitPic = "DWAN5INT"
+	EnterPic = "DWAN5INT"
+}
+
+map DWAN512 "NEWWEST"
+{
+	titlepatch = "CWILV11"
+	next = "DWAN513"
+	secretnext = "DWAN513"
+	sky1 = "DWAN5SK2"
+	music = "D_DWG512"
+	intermusic = "D_DWG5IN"
+	ExitPic = "DWAN5INT"
+	EnterPic = "DWAN5INT"
+}
+
+map DWAN513 "BESTDML1 #2"
+{
+	titlepatch = "CWILV12"
+	next = "DWAN514"
+	secretnext = "DWAN514"
+	sky1 = "DWAN5SK2"
+	music = "D_DWG513"
+	intermusic = "D_DWG5IN"
+	ExitPic = "DWAN5INT"
+	EnterPic = "DWAN5INT"
+}
+
+map DWAN514 "D9-2-2 #10"
+{
+	titlepatch = "CWILV13"
+	next = "DWAN515"
+	secretnext = "DWAN515"
+	sky1 = "DWAN5SK2"
+	music = "D_DWG514"
+	intermusic = "D_DWG5IN"
+	ExitPic = "DWAN5INT"
+	EnterPic = "DWAN5INT"
+}
+
+map DWAN515 "PLAGUE #3"
+{
+	titlepatch = "CWILV14"
+	next = "DWAN516"
+	secretnext = "DWAN516"
+	sky1 = "DWAN5SK2"
+	music = "D_DWG515"
+	intermusic = "D_DWG5IN"
+	ExitPic = "DWAN5INT"
+	EnterPic = "DWAN5INT"
+}
+
+map DWAN516 "U_SPLAT"
+{
+	titlepatch = "CWILV15"
+	next = "DWAN517"
+	secretnext = "DWAN517"
+	sky1 = "DWAN5SK2"
+	music = "D_DWG516"
+	intermusic = "D_DWG5IN"
+	ExitPic = "DWAN5INT"
+	EnterPic = "DWAN5INT"
+}
+
+map DWAN517 "BESTDML1 #3"
+{
+	titlepatch = "CWILV16"
+	next = "DWAN518"
+	secretnext = "DWAN518"
+	sky1 = "DWAN5SK2"
+	music = "D_DWG517"
+	intermusic = "D_DWG5IN"
+	ExitPic = "DWAN5INT"
+	EnterPic = "DWAN5INT"
+}
+
+map DWAN518 "SHOTGUN2"
+{
+	titlepatch = "CWILV17"
+	next = "DWAN519"
+	secretnext = "DWAN519"
+	sky1 = "DWAN5SK2"
+	music = "D_DWG518"
+	intermusic = "D_DWG5IN"
+	ExitPic = "DWAN5INT"
+	EnterPic = "DWAN5INT"
+}
+
+map DWAN519 "LITHIUM2"
+{
+	titlepatch = "CWILV18"
+	next = "DWAN520"
+	secretnext = "DWAN520"
+	sky1 = "DWAN5SK2"
+	music = "D_DWG519"
+	intermusic = "D_DWG5IN"
+	ExitPic = "DWAN5INT"
+	EnterPic = "DWAN5INT"
+}
+
+map DWAN520 "THEARENA"
+{
+	titlepatch = "CWILV19"
+	next = "DWAN521"
+	secretnext = "DWAN521"
+	sky1 = "DWAN5SK2"
+	music = "D_DWG520"
+	intermusic = "D_DWG5IN"
+	ExitPic = "DWAN5INT"
+	EnterPic = "DWAN5INT"
+}
+
+map DWAN521 "BILL2"
+{
+	titlepatch = "CWILV20"
+	next = "DWAN522"
+	secretnext = "DWAN522"
+	sky1 = "DWAN5SKY"
+	music = "D_DWG521"
+	intermusic = "D_DWG5IN"
+	ExitPic = "DWAN5INT"
+	EnterPic = "DWAN5INT"
+}
+
+map DWAN522 "FRAG4EV1"
+{
+	titlepatch = "CWILV21"
+	next = "DWAN523"
+	secretnext = "DWAN523"
+	sky1 = "DWAN5SKY"
+	music = "D_DWG522"
+	intermusic = "D_DWG5IN"
+	ExitPic = "DWAN5INT"
+	EnterPic = "DWAN5INT"
+}
+
+map DWAN523 "FRAGFEST"
+{
+	titlepatch = "CWILV22"
+	next = "DWAN524"
+	secretnext = "DWAN524"
+	sky1 = "DWAN5SKY"
+	music = "D_DWG523"
+	intermusic = "D_DWG5IN"
+	ExitPic = "DWAN5INT"
+	EnterPic = "DWAN5INT"
+}
+
+map DWAN524 "PARASITE"
+{
+	titlepatch = "CWILV23"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "DWAN5SKY"
+	music = "D_DWG524"
+	intermusic = "D_DWG5IN"
+	ExitPic = "DWAN5INT"
+	EnterPic = "DWAN5INT"
+}

@@ -1,0 +1,385 @@
+// DWANGO11 Mapinfo
+
+map DWANB01 "Crossroads"
+{
+	titlepatch = "DWGBV00"
+	next = "DWANB02"
+	secretnext = "DWANB02"
+	sky1 = "DWANASKY"
+	music = "D_DWGB01"
+	intermusic = "D_DWGBIN"
+	ExitPic = "DWANBINT"
+	EnterPic = "DWANBINT"
+}
+
+map DWANB02 "Underdark"
+{
+	titlepatch = "DWGBV01"
+	next = "DWANB03"
+	secretnext = "DWANB03"
+	sky1 = "DWANASKY"
+	music = "D_DWGB02"
+	intermusic = "D_DWGBIN"
+	ExitPic = "DWANBINT"
+	EnterPic = "DWANBINT"
+}
+
+map DWANB03 "DV II"
+{
+	titlepatch = "DWGBV02"
+	next = "DWANB04"
+	secretnext = "DWANB04"
+	sky1 = "DWANASKY"
+	music = "D_DWGB03"
+	intermusic = "D_DWGBIN"
+	ExitPic = "DWANBINT"
+	EnterPic = "DWANBINT"
+}
+
+map DWANB04 "Limbo"
+{
+	titlepatch = "DWGBV03"
+	next = "DWANB05"
+	secretnext = "DWANB05"
+	sky1 = "DWANASKY"
+	music = "D_DWGB04"
+	intermusic = "D_DWGBIN"
+	ExitPic = "DWANBINT"
+	EnterPic = "DWANBINT"
+}
+
+map DWANB05 "Misery"
+{
+	titlepatch = "DWGBV04"
+	next = "DWANB06"
+	secretnext = "DWANB06"
+	sky1 = "DWANASKY"
+	music = "D_DWGB05"
+	intermusic = "D_DWGBIN"
+	ExitPic = "DWANBINT"
+	EnterPic = "DWANBINT"
+}
+
+map DWANB06 "Backlash"
+{
+	titlepatch = "DWGBV05"
+	next = "DWANB07"
+	secretnext = "DWANB07"
+	sky1 = "DWANASKY"
+	music = "D_DWGB06"
+	intermusic = "D_DWGBIN"
+	ExitPic = "DWANBINT"
+	EnterPic = "DWANBINT"
+}
+
+map DWANB07 "Bware"
+{
+	titlepatch = "DWGBV06"
+	next = "DWANB08"
+	secretnext = "DWANB08"
+	sky1 = "DWANASKY"
+	music = "D_DWGB07"
+	intermusic = "D_DWGBIN"
+	ExitPic = "DWANBINT"
+	EnterPic = "DWANBINT"
+}
+
+map DWANB08 "Misery II"
+{
+	titlepatch = "DWGBV07"
+	next = "DWANB09"
+	secretnext = "DWANB09"
+	sky1 = "DWANASKY"
+	music = "D_DWGB08"
+	intermusic = "D_DWGBIN"
+	ExitPic = "DWANBINT"
+	EnterPic = "DWANBINT"
+}
+
+map DWANB09 "UAC Outpost"
+{
+	titlepatch = "DWGBV08"
+	next = "DWANB10"
+	secretnext = "DWANB10"
+	sky1 = "DWANASKY"
+	music = "D_DWGB09"
+	intermusic = "D_DWGBIN"
+	ExitPic = "DWANBINT"
+	EnterPic = "DWANBINT"
+}
+
+map DWANB10 "Bengal's Lair"
+{
+	titlepatch = "DWGBV09"
+	next = "DWANB11"
+	secretnext = "DWANB11"
+	sky1 = "DWANASKY"
+	music = "D_DWGB10"
+	intermusic = "D_DWGBIN"
+	ExitPic = "DWANBINT"
+	EnterPic = "DWANBINT"
+}
+
+map DWANB11 "Toxic Dumps"
+{
+	titlepatch = "DWGBV10"
+	next = "DWANB12"
+	secretnext = "DWANB12"
+	sky1 = "DWANASKY"
+	music = "D_DWGB11"
+	intermusic = "D_DWGBIN"
+	ExitPic = "DWANBINT"
+	EnterPic = "DWANBINT"
+}
+
+map DWANB12 "Deja Vu"
+{
+	titlepatch = "DWGBV11"
+	next = "DWANB13"
+	secretnext = "DWANB13"
+	sky1 = "DWANASK2"
+	music = "D_DWGB12"
+	intermusic = "D_DWGBIN"
+	ExitPic = "DWANBINT"
+	EnterPic = "DWANBINT"
+}
+
+map DWANB13 "Landscape"
+{
+	titlepatch = "DWGBV12"
+	next = "DWANB14"
+	secretnext = "DWANB14"
+	sky1 = "DWANASK2"
+	music = "D_DWGB13"
+	intermusic = "D_DWGBIN"
+	ExitPic = "DWANBINT"
+	EnterPic = "DWANBINT"
+}
+
+map DWANB14 "Bengal's Den"
+{
+	titlepatch = "DWGBV13"
+	next = "DWANB15"
+	secretnext = "DWANB15"
+	sky1 = "DWANASK2"
+	music = "D_DWGB14"
+	intermusic = "D_DWGBIN"
+	ExitPic = "DWANBINT"
+	EnterPic = "DWANBINT"
+}
+
+map DWANB15 "The Pit"
+{
+	titlepatch = "DWGBV14"
+	next = "DWANB16"
+	secretnext = "DWANB16"
+	sky1 = "DWANASK2"
+	music = "D_DWGB15"
+	intermusic = "D_DWGBIN"
+	ExitPic = "DWANBINT"
+	EnterPic = "DWANBINT"
+}
+
+map DWANB16 "RDM1"
+{
+	titlepatch = "DWGBV15"
+	next = "DWANB17"
+	secretnext = "DWANB17"
+	sky1 = "DWANASK2"
+	music = "D_DWGB16"
+	intermusic = "D_DWGBIN"
+	ExitPic = "DWANBINT"
+	EnterPic = "DWANBINT"
+}
+
+map DWANB17 "The Stronghold"
+{
+	titlepatch = "DWGBV16"
+	next = "DWANB18"
+	secretnext = "DWANB18"
+	sky1 = "DWANASK2"
+	music = "D_DWGB17"
+	intermusic = "D_DWGBIN"
+	ExitPic = "DWANBINT"
+	EnterPic = "DWANBINT"
+}
+
+map DWANB18 "The Courtyard"
+{
+	titlepatch = "DWGBV17"
+	next = "DWANB19"
+	secretnext = "DWANB19"
+	sky1 = "DWANASK2"
+	music = "D_DWGB18"
+	intermusic = "D_DWGBIN"
+	ExitPic = "DWANBINT"
+	EnterPic = "DWANBINT"
+}
+
+map DWANB19 "Speed"
+{
+	titlepatch = "DWGBV18"
+	next = "DWANB20"
+	secretnext = "DWANB20"
+	sky1 = "DWANASK2"
+	music = "D_DWGB19"
+	intermusic = "D_DWGBIN"
+	ExitPic = "DWANBINT"
+	EnterPic = "DWANBINT"
+}
+
+map DWANB20 "Tourniquet"
+{
+	titlepatch = "DWGBV19"
+	next = "DWANB21"
+	secretnext = "DWANB21"
+	sky1 = "DWANASK2"
+	music = "D_DWGB20"
+	intermusic = "D_DWGBIN"
+	ExitPic = "DWANBINT"
+	EnterPic = "DWANBINT"
+}
+
+map DWANB21 "Nirvana"
+{
+	titlepatch = "DWGBV20"
+	next = "DWANB22"
+	secretnext = "DWANB22"
+	sky1 = "DWAN3SKY"
+	music = "D_DWGB21"
+	intermusic = "D_DWGBIN"
+	ExitPic = "DWANBINT"
+	EnterPic = "DWANBINT"
+}
+
+map DWANB22 "Omen-X"
+{
+	titlepatch = "DWGBV21"
+	next = "DWANB23"
+	secretnext = "DWANB23"
+	sky1 = "DWAN3SKY"
+	music = "D_DWGB22"
+	intermusic = "D_DWGBIN"
+	ExitPic = "DWANBINT"
+	EnterPic = "DWANBINT"
+}
+
+map DWANB23 "Misery III"
+{
+	titlepatch = "DWGBV22"
+	next = "DWANB24"
+	secretnext = "DWANB24"
+	sky1 = "DWAN3SKY"
+	music = "D_DWGB23"
+	intermusic = "D_DWGBIN"
+	ExitPic = "DWANBINT"
+	EnterPic = "DWANBINT"
+}
+
+map DWANB24 "The Outskirts"
+{
+	titlepatch = "DWGBV23"
+	next = "DWANB25"
+	secretnext = "DWANB25"
+	sky1 = "DWAN3SKY"
+	music = "D_DWGB24"
+	intermusic = "D_DWGBIN"
+	ExitPic = "DWANBINT"
+	EnterPic = "DWANBINT"
+}
+
+map DWANB25 "The Plateau"
+{
+	titlepatch = "DWGBV24"
+	next = "DWANB26"
+	secretnext = "DWANB26"
+	sky1 = "DWAN3SKY"
+	music = "D_DWGB25"
+	intermusic = "D_DWGBIN"
+	ExitPic = "DWANBINT"
+	EnterPic = "DWANBINT"
+}
+
+map DWANB26 "Mindphuck"
+{
+	titlepatch = "DWGBV25"
+	next = "DWANB27"
+	secretnext = "DWANB27"
+	sky1 = "DWAN3SKY"
+	music = "D_DWGB26"
+	intermusic = "D_DWGBIN"
+	ExitPic = "DWANBINT"
+	EnterPic = "DWANBINT"
+}
+
+map DWANB27 "The Lost Chambers"
+{
+	titlepatch = "DWGBV26"
+	next = "DWANB28"
+	secretnext = "DWANB28"
+	sky1 = "DWAN3SKY"
+	music = "D_DWGB27"
+	intermusic = "D_DWGBIN"
+	ExitPic = "DWANBINT"
+	EnterPic = "DWANBINT"
+}
+
+map DWANB28 "XLR8"
+{
+	titlepatch = "DWGBV27"
+	next = "DWANB29"
+	secretnext = "DWANB29"
+	sky1 = "DWAN3SKY"
+	music = "D_DWGB28"
+	intermusic = "D_DWGBIN"
+	ExitPic = "DWANBINT"
+	EnterPic = "DWANBINT"
+}
+
+map DWANB29 "Tourniquet II"
+{
+	titlepatch = "DWGBV28"
+	next = "DWANB30"
+	secretnext = "DWANB30"
+	sky1 = "DWAN3SKY"
+	music = "D_DWGB29"
+	intermusic = "D_DWGBIN"
+	ExitPic = "DWANBINT"
+	EnterPic = "DWANBINT"
+}
+
+map DWANB30 "Crossfire"
+{
+	titlepatch = "DWGBV29"
+	next = "DWANB31"
+	secretnext = "DWANB31"
+	sky1 = "DWAN3SKY"
+	music = "D_DWGB30"
+	intermusic = "D_DWGBIN"
+	ExitPic = "DWANBINT"
+	EnterPic = "DWANBINT"
+}
+
+map DWANB31 "The Outback"
+{
+	titlepatch = "DWGBV30"
+	next = "DWANB32"
+	secretnext = "DWANB32"
+	sky1 = "DWAN3SKY"
+	music = "D_DWGB31"
+	intermusic = "D_DWGBIN"
+	ExitPic = "DWANBINT"
+	EnterPic = "DWANBINT"
+}
+
+map DWANB32 "The Castle"
+{
+	titlepatch = "DWGBV31"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "DWAN3SKY"
+	music = "D_DWGB32"
+	intermusic = "D_DWGBIN"
+	ExitPic = "DWANBINT"
+	EnterPic = "DWANBINT"
+}

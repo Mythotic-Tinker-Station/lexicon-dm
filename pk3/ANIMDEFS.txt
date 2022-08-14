@@ -1,0 +1,74 @@
+// Animated Textures
+// DWANGO Collection
+texture DWANC001 range DWANC004 tics 8
+texture DWANE001 range DWANE004 tics 8
+texture DWANF001 range DWANF004 tics 8
+//texture DWANC001 range DWANC004 tics 4
+//texture DWANC001 range DWANC004 tics 8
+
+// Vanilla Maps
+// ADDICTIV
+texture ADCV0004 range ADCV0007 tics 8
+
+// FREEDMCE
+texture FDMC0436 range FDMC0439 tics 8
+
+// GOTHICDM1
+texture GDM10554 range GDM10557 tics 8
+
+// GOTHIC2
+texture GDM20257 range GDM20260 tics 8 allowdecals
+texture GDM20317 range GDM20320 tics 8
+texture GDM20342 range GDM20345 tics 8 allowdecals
+texture GDM20403 range GDM20406 tics 8
+texture GDM20425 range GDM20427 tics 8
+flat GDM20010 range GDM20013 tics 8
+
+// TWANGO1
+texture TWN10189 range TWN10192 tics 8
+texture TWN10572 range TWN10575 tics 8
+
+// Boom Maps
+
+// ZDoom Maps
+
+// Switches
+// DWANGO Collection
+switch doom DWANB005 on pic DWANB016 tics 0
+switch doom DWANB006 on pic DWANB017 tics 0
+switch doom DWANB007 on pic DWANB018 tics 0
+switch doom DWANB008 on pic DWANB019 tics 0
+switch doom DWANB009 on pic DWANB020 tics 0
+switch doom DWANB010 on pic DWANB021 tics 0
+switch doom DWANB011 on pic DWANB022 tics 0
+switch doom DWANB012 on pic DWANB023 tics 0
+switch doom DWANB013 on pic DWANB024 tics 0
+switch doom DWANB014 on pic DWANB025 tics 0
+switch doom DWANB015 on pic DWANB026 tics 0
+
+// Vanilla Maps
+// GOTHICDM1
+switch GDM10468 on pic GDM10508 tics 0
+
+// GOTHIC2
+switch GDM20603 on pic GDM20643 tics 0
+switch GDM20608 on pic GDM20648 tics 0
+switch GDM20614 on pic GDM20654 tics 0
+
+// HOUSES14
+switch HOUS0298 on pic HOUS0338 tics 0
+switch HOUS0303 on pic HOUS0343 tics 0
+switch HOUS0309 on pic HOUS0349 tics 0
+switch HOUS0322 on pic HOUS0362 tics 0
+switch HOUS0324 on pic HOUS0364 tics 0
+
+// IPXMATCH
+switch doom IPXMT001 on pic IPXMT005 tics 0
+switch doom IPXMT002 on pic IPXMT006 tics 0
+switch doom IPXMT003 on pic IPXMT007 tics 0
+switch doom IPXMT004 on pic IPXMT008 tics 0
+
+// Boom Maps
+
+// ZDoom Maps
+

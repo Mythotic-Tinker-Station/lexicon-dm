@@ -1,0 +1,141 @@
+// Due to how the Lexicon Wad Extractor works, the doors and switches
+// will have to have their sound sequences defined individually for each
+// wad that the tool extracts.
+
+// Vanilla Maps
+// ADDICTIV
+[ADCVDoor
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:ADCVPlatform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:ADCVFloor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:ADCVCeiling
+	playrepeat plats/pt1_mid
+end
+
+// FREEDMCE
+[FDMCDoor
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:FDMCPlatform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:FDMCFloor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:FDMCCeiling
+	playrepeat plats/pt1_mid
+end
+
+// GOTHICDM
+[GDM1Door
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:GDM1Platform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:GDM1Floor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:GDM1Ceiling
+	playrepeat plats/pt1_mid
+end
+
+// GOTHIC2
+[GDM2Door
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:GDM2Platform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:GDM2Floor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:GDM2Ceiling
+	playrepeat plats/pt1_mid
+end
+
+// HOUSES14
+[HOUSDoor
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:HOUSPlatform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:HOUSFloor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:HOUSCeiling
+	playrepeat plats/pt1_mid
+end
+
+
+// TWANGO1
+[TWN1Door
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:TWN1Platform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:TWN1Floor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:TWN1Ceiling
+	playrepeat plats/pt1_mid
+end
+
+// Boom Maps
+
+// ZDoom Maps

@@ -1,0 +1,111 @@
+// DWANGO7 Mapinfo
+
+map DWAN701 "Best of Both Worlds"
+{
+	titlepatch = "DWG7V00"
+	next = "DWAN702"
+	secretnext = "DWAN702"
+	sky1 = "DWAN7SKY"
+	music = "D_DWG701"
+	ExitPic = "DWAN7INT"
+	EnterPic = "DWAN7INT"
+}
+
+map DWAN702 "Fired"
+{
+	titlepatch = "DWG7V01"
+	next = "DWAN703"
+	secretnext = "DWAN703"
+	sky1 = "DWAN7SKY"
+	music = "D_DWG702"
+	ExitPic = "DWAN7INT"
+	EnterPic = "DWAN7INT"
+}
+
+map DWAN703 "Diablo"
+{
+	titlepatch = "DWG7V02"
+	next = "DWAN704"
+	secretnext = "DWAN704"
+	sky1 = "DWAN7SKY"
+	music = "D_DWG703"
+	ExitPic = "DWAN7INT"
+	EnterPic = "DWAN7INT"
+}
+
+map DWAN704 "To Die"
+{
+	titlepatch = "DWG7V03"
+	next = "DWAN705"
+	secretnext = "DWAN705"
+	sky1 = "DWAN7SKY"
+	music = "D_DWG704"
+	ExitPic = "DWAN7INT"
+	EnterPic = "DWAN7INT"
+}
+
+map DWAN705 "Octagon"
+{
+	titlepatch = "DWG7V04"
+	next = "DWAN706"
+	secretnext = "DWAN706"
+	sky1 = "DWAN7SKY"
+	music = "D_DWG705"
+	ExitPic = "DWAN7INT"
+	EnterPic = "DWAN7INT"
+}
+
+map DWAN706 "Spacehog"
+{
+	titlepatch = "DWG7V05"
+	next = "DWAN707"
+	secretnext = "DWAN707"
+	sky1 = "DWAN7SKY"
+	music = "D_DWG706"
+	ExitPic = "DWAN7INT"
+	EnterPic = "DWAN7INT"
+}
+
+map DWAN707 "Seven"
+{
+	titlepatch = "DWG7V06"
+	next = "DWAN708"
+	secretnext = "DWAN708"
+	sky1 = "DWAN7SKY"
+	music = "$MUSIC_SHAWN"
+	ExitPic = "DWAN7INT"
+	EnterPic = "DWAN7INT"
+}
+
+map DWAN708 "Arena"
+{
+	titlepatch = "DWG7V07"
+	next = "DWAN709"
+	secretnext = "DWAN709"
+	sky1 = "DWAN7SKY"
+	music = "D_DWG708"
+	ExitPic = "DWAN7INT"
+	EnterPic = "DWAN7INT"
+}
+
+map DWAN709 "Pyru"
+{
+	titlepatch = "DWG7V08"
+	next = "DWAN710"
+	secretnext = "DWAN710"
+	sky1 = "DWAN7SKY"
+	music = "D_DWG709"
+	ExitPic = "DWAN7INT"
+	EnterPic = "DWAN7INT"
+}
+
+map DWAN710 "Dogtag"
+{
+	titlepatch = "DWG7V09"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "DWAN7SKY"
+	music = "D_DWG710"
+	ExitPic = "DWAN7INT"
+	EnterPic = "DWAN7INT"
+}

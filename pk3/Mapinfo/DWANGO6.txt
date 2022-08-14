@@ -1,0 +1,301 @@
+// DWANGO6 Mapinfo
+
+map DWAN601 "w00p"
+{
+	titlepatch = "CWILV00"
+	next = "DWAN602"
+	secretnext = "DWAN602"
+	sky1 = "DWAN6SKY"
+	music = "D_DWG601"
+	intermusic = "D_DWG6IN"
+	ExitPic = "DWAN6INT"
+	EnterPic = "DWAN6INT"
+}
+
+map DWAN602 "All_that m24"
+{
+	titlepatch = "CWILV01"
+	next = "DWAN603"
+	secretnext = "DWAN603"
+	sky1 = "DWAN6SKY"
+	music = "D_DWG602"
+	intermusic = "D_DWG6IN"
+	ExitPic = "DWAN6INT"
+	EnterPic = "DWAN6INT"
+}
+
+map DWAN603 "thekeep2"
+{
+	titlepatch = "CWILV02"
+	next = "DWAN604"
+	secretnext = "DWAN604"
+	sky1 = "DWAN6SKY"
+	music = "D_DWG603"
+	intermusic = "D_DWG6IN"
+	ExitPic = "DWAN6INT"
+	EnterPic = "DWAN6INT"
+}
+
+map DWAN604 "bfw9000 m5"
+{
+	titlepatch = "CWILV03"
+	next = "DWAN605"
+	secretnext = "DWAN605"
+	sky1 = "DWAN6SKY"
+	music = "D_DWG604"
+	intermusic = "D_DWG6IN"
+	ExitPic = "DWAN6INT"
+	EnterPic = "DWAN6INT"
+}
+
+map DWAN605 "pouge4 m3"
+{
+	titlepatch = "CWILV04"
+	next = "DWAN606"
+	secretnext = "DWAN606"
+	sky1 = "DWAN6SKY"
+	music = "D_DWG605"
+	intermusic = "D_DWG6IN"
+	ExitPic = "DWAN6INT"
+	EnterPic = "DWAN6INT"
+}
+
+map DWAN606 "Sky"
+{
+	titlepatch = "CWILV05"
+	next = "DWAN607"
+	secretnext = "DWAN607"
+	sky1 = "DWAN6SKY"
+	music = "D_DWG606"
+	intermusic = "D_DWG6IN"
+	ExitPic = "DWAN6INT"
+	EnterPic = "DWAN6INT"
+}
+
+map DWAN607 "All_that m30"
+{
+	titlepatch = "CWILV06"
+	next = "DWAN608"
+	secretnext = "DWAN608"
+	sky1 = "DWAN6SKY"
+	music = "D_DWG607"
+	intermusic = "D_DWG6IN"
+	ExitPic = "DWAN6INT"
+	EnterPic = "DWAN6INT"
+}
+
+map DWAN608 "Plague m25"
+{
+	titlepatch = "CWILV07"
+	next = "DWAN609"
+	secretnext = "DWAN609"
+	sky1 = "DWAN6SKY"
+	music = "D_DWG608"
+	intermusic = "D_DWG6IN"
+	ExitPic = "DWAN6INT"
+	EnterPic = "DWAN6INT"
+}
+
+map DWAN609 "Oblation"
+{
+	titlepatch = "CWILV08"
+	next = "DWAN610"
+	secretnext = "DWAN610"
+	sky1 = "DWAN6SKY"
+	music = "D_DWG609"
+	intermusic = "D_DWG6IN"
+	ExitPic = "DWAN6INT"
+	EnterPic = "DWAN6INT"
+}
+
+map DWAN610 "Outpost"
+{
+	titlepatch = "CWILV09"
+	next = "DWAN611"
+	secretnext = "DWAN611"
+	sky1 = "DWAN6SKY"
+	music = "D_DWG610"
+	intermusic = "D_DWG6IN"
+	ExitPic = "DWAN6INT"
+	EnterPic = "DWAN6INT"
+}
+
+map DWAN611 "Tntmap1"
+{
+	titlepatch = "CWILV10"
+	next = "DWAN612"
+	secretnext = "DWAN612"
+	sky1 = "DWAN6SKY"
+	music = "D_DWG611"
+	intermusic = "D_DWG6IN"
+	ExitPic = "DWAN6INT"
+	EnterPic = "DWAN6INT"
+}
+
+map DWAN612 "Plague m26"
+{
+	titlepatch = "CWILV11"
+	next = "DWAN613"
+	secretnext = "DWAN613"
+	sky1 = "DWAN3SKY"
+	music = "D_DWG612"
+	intermusic = "D_DWG6IN"
+	ExitPic = "DWAN6INT"
+	EnterPic = "DWAN6INT"
+}
+
+map DWAN613 "Magus"
+{
+	titlepatch = "CWILV12"
+	next = "DWAN614"
+	secretnext = "DWAN614"
+	sky1 = "DWAN3SKY"
+	music = "D_DWG613"
+	intermusic = "D_DWG6IN"
+	ExitPic = "DWAN6INT"
+	EnterPic = "DWAN6INT"
+}
+
+map DWAN614 "Icefort"
+{
+	titlepatch = "CWILV13"
+	next = "DWAN615"
+	secretnext = "DWAN615"
+	sky1 = "DWAN3SKY"
+	music = "D_DWG614"
+	intermusic = "D_DWG6IN"
+	ExitPic = "DWAN6INT"
+	EnterPic = "DWAN6INT"
+}
+
+map DWAN615 "Plague m18"
+{
+	titlepatch = "CWILV14"
+	next = "DWAN616"
+	secretnext = "DWAN616"
+	sky1 = "DWAN3SKY"
+	music = "D_DWG615"
+	intermusic = "D_DWG6IN"
+	ExitPic = "DWAN6INT"
+	EnterPic = "DWAN6INT"
+}
+
+map DWAN616 "All_that m5"
+{
+	titlepatch = "CWILV15"
+	next = "DWAN617"
+	secretnext = "DWAN617"
+	sky1 = "DWAN3SKY"
+	music = "D_DWG616"
+	intermusic = "D_DWG6IN"
+	ExitPic = "DWAN6INT"
+	EnterPic = "DWAN6INT"
+}
+
+map DWAN617 "Stadium m4"
+{
+	titlepatch = "CWILV16"
+	next = "DWAN618"
+	secretnext = "DWAN618"
+	sky1 = "DWAN3SKY"
+	music = "D_DWG617"
+	intermusic = "D_DWG6IN"
+	ExitPic = "DWAN6INT"
+	EnterPic = "DWAN6INT"
+}
+
+map DWAN618 "Shotgun3"
+{
+	titlepatch = "CWILV17"
+	next = "DWAN619"
+	secretnext = "DWAN619"
+	sky1 = "DWAN3SKY"
+	music = "D_DWG618"
+	intermusic = "D_DWG6IN"
+	ExitPic = "DWAN6INT"
+	EnterPic = "DWAN6INT"
+}
+
+map DWAN619 "Hotdeth5 m8"
+{
+	titlepatch = "CWILV18"
+	next = "DWAN620"
+	secretnext = "DWAN620"
+	sky1 = "DWAN3SKY"
+	music = "D_DWG619"
+	intermusic = "D_DWG6IN"
+	ExitPic = "DWAN6INT"
+	EnterPic = "DWAN6INT"
+}
+
+map DWAN620 "All_that m16"
+{
+	titlepatch = "CWILV19"
+	next = "DWAN621"
+	secretnext = "DWAN621"
+	sky1 = "DWAN3SKY"
+	music = "D_DWG620"
+	intermusic = "D_DWG6IN"
+	ExitPic = "DWAN6INT"
+	EnterPic = "DWAN6INT"
+}
+
+map DWAN621 "Genocide"
+{
+	titlepatch = "CWILV20"
+	next = "DWAN622"
+	secretnext = "DWAN622"
+	sky1 = "DWAN6SK2"
+	music = "D_DWG621"
+	intermusic = "D_DWG6IN"
+	ExitPic = "DWAN6INT"
+	EnterPic = "DWAN6INT"
+}
+
+map DWAN622 "Plague2 m13"
+{
+	titlepatch = "CWILV21"
+	next = "DWAN623"
+	secretnext = "DWAN623"
+	sky1 = "DWAN6SK2"
+	music = "D_DWG622"
+	intermusic = "D_DWG6IN"
+	ExitPic = "DWAN6INT"
+	EnterPic = "DWAN6INT"
+}
+
+map DWAN623 "Bfw900 m6"
+{
+	titlepatch = "CWILV22"
+	next = "DWAN624"
+	secretnext = "DWAN624"
+	sky1 = "DWAN6SK2"
+	music = "D_DWG623"
+	intermusic = "D_DWG6IN"
+	ExitPic = "DWAN6INT"
+	EnterPic = "DWAN6INT"
+}
+
+map DWAN624 "Judas22"
+{
+	titlepatch = "CWILV23"
+	next = "DWAN625"
+	secretnext = "DWAN625"
+	sky1 = "DWAN6SK2"
+	music = "D_DWG624"
+	intermusic = "D_DWG6IN"
+	ExitPic = "DWAN6INT"
+	EnterPic = "DWAN6INT"
+}
+
+map DWAN625 "SUPER1 #1"
+{
+	titlepatch = "CWILV24"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "DWAN6SK2"
+	music = "D_DWG625"
+	intermusic = "D_DWG6IN"
+	ExitPic = "DWAN6INT"
+	EnterPic = "DWAN6INT"
+}

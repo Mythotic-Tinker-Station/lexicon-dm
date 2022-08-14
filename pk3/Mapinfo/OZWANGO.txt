@@ -1,0 +1,361 @@
+// OZWANGO Mapinfo
+
+map DWANG01 "Fptemple"
+{
+	titlepatch = "CWILV00"
+	next = "DWANG02"
+	secretnext = "DWANG02"
+	sky1 = "DWANGSKY"
+	music = "D_DWGG01"
+	intermusic = "D_DWGGIN"
+	ExitPic = "DWANGINT"
+	EnterPic = "DWANGINT"
+}
+
+map DWANG02 "Quik"
+{
+	titlepatch = "CWILV01"
+	next = "DWANG03"
+	secretnext = "DWANG03"
+	sky1 = "DWANGSKY"
+	music = "D_DWGG02"
+	intermusic = "D_DWGGIN"
+	ExitPic = "DWANGINT"
+	EnterPic = "DWANGINT"
+}
+
+map DWANG03 "Mango"
+{
+	titlepatch = "CWILV02"
+	next = "DWANG04"
+	secretnext = "DWANG04"
+	sky1 = "DWANGSKY"
+	music = "D_DWGG03"
+	intermusic = "D_DWGGIN"
+	ExitPic = "DWANGINT"
+	EnterPic = "DWANGINT"
+}
+
+map DWANG04 "Web"
+{
+	titlepatch = "CWILV03"
+	next = "DWANG05"
+	secretnext = "DWANG05"
+	sky1 = "DWANGSKY"
+	music = "D_DWGG04"
+	intermusic = "D_DWGGIN"
+	ExitPic = "DWANGINT"
+	EnterPic = "DWANGINT"
+}
+
+map DWANG05 "Tower"
+{
+	titlepatch = "CWILV04"
+	next = "DWANG06"
+	secretnext = "DWANG06"
+	sky1 = "DWANGSKY"
+	music = "D_DWGG05"
+	intermusic = "D_DWGGIN"
+	ExitPic = "DWANGINT"
+	EnterPic = "DWANGINT"
+}
+
+map DWANG06 "Stargate"
+{
+	titlepatch = "CWILV05"
+	next = "DWANG07"
+	secretnext = "DWANG07"
+	sky1 = "DWANGSKY"
+	music = "D_DWGG06"
+	intermusic = "D_DWGGIN"
+	ExitPic = "DWANGINT"
+	EnterPic = "DWANGINT"
+}
+
+map DWANG07 "Zn7"
+{
+	titlepatch = "CWILV06"
+	next = "DWANG08"
+	secretnext = "DWANG08"
+	sky1 = "DWANGSKY"
+	music = "D_DWGG07"
+	intermusic = "D_DWGGIN"
+	ExitPic = "DWANGINT"
+	EnterPic = "DWANGINT"
+}
+
+map DWANG08 "Kings"
+{
+	titlepatch = "CWILV07"
+	next = "DWANG09"
+	secretnext = "DWANG09"
+	sky1 = "DWANGSKY"
+	music = "D_DWGG08"
+	intermusic = "D_DWGGIN"
+	ExitPic = "DWANGINT"
+	EnterPic = "DWANGINT"
+}
+
+map DWANG09 "Mines2"
+{
+	titlepatch = "CWILV08"
+	next = "DWANG10"
+	secretnext = "DWANG10"
+	sky1 = "DWANGSKY"
+	music = "D_DWGG09"
+	intermusic = "D_DWGGIN"
+	ExitPic = "DWANGINT"
+	EnterPic = "DWANGINT"
+}
+
+map DWANG10 "Central"
+{
+	titlepatch = "CWILV09"
+	next = "DWANG11"
+	secretnext = "DWANG11"
+	sky1 = "DWANGSKY"
+	music = "D_DWGG10"
+	intermusic = "D_DWGGIN"
+	ExitPic = "DWANGINT"
+	EnterPic = "DWANGINT"
+}
+
+map DWANG11 "BFG Goose"
+{
+	titlepatch = "CWILV10"
+	next = "DWANG12"
+	secretnext = "DWANG12"
+	sky1 = "DWANGSKY"
+	music = "D_DWGG11"
+	intermusic = "D_DWGGIN"
+	ExitPic = "DWANGINT"
+	EnterPic = "DWANGINT"
+}
+
+map DWANG12 "Olympus"
+{
+	titlepatch = "CWILV11"
+	next = "DWANG13"
+	secretnext = "DWANG13"
+	sky1 = "DWANGSK2"
+	music = "D_DWGG12"
+	intermusic = "D_DWGGIN"
+	ExitPic = "DWANGINT"
+	EnterPic = "DWANGINT"
+}
+
+map DWANG13 "Inca City"
+{
+	titlepatch = "CWILV12"
+	next = "DWANG14"
+	secretnext = "DWANG14"
+	sky1 = "DWANGSK2"
+	music = "D_DWGG13"
+	intermusic = "D_DWGGIN"
+	ExitPic = "DWANGINT"
+	EnterPic = "DWANGINT"
+}
+
+map DWANG14 "Balcastle"
+{
+	titlepatch = "CWILV13"
+	next = "DWANG15"
+	secretnext = "DWANG15"
+	sky1 = "DWANGSK2"
+	music = "D_DWGG14"
+	intermusic = "D_DWGGIN"
+	ExitPic = "DWANGINT"
+	EnterPic = "DWANGINT"
+}
+
+map DWANG15 "Vilecave"
+{
+	titlepatch = "CWILV14"
+	next = "DWANG16"
+	secretnext = "DWANG16"
+	sky1 = "DWANGSK2"
+	music = "D_DWGG15"
+	intermusic = "D_DWGGIN"
+	ExitPic = "DWANGINT"
+	EnterPic = "DWANGINT"
+}
+
+map DWANG16 "Obdeath1"
+{
+	titlepatch = "CWILV15"
+	next = "DWANG17"
+	secretnext = "DWANG17"
+	sky1 = "DWANGSK2"
+	music = "D_DWGG16"
+	intermusic = "D_DWGGIN"
+	ExitPic = "DWANGINT"
+	EnterPic = "DWANGINT"
+}
+
+map DWANG17 "Swamp"
+{
+	titlepatch = "CWILV16"
+	next = "DWANG18"
+	secretnext = "DWANG18"
+	sky1 = "DWANGSK2"
+	music = "D_DWGG17"
+	intermusic = "D_DWGGIN"
+	ExitPic = "DWANGINT"
+	EnterPic = "DWANGINT"
+}
+
+map DWANG18 "MoonKeep"
+{
+	titlepatch = "CWILV17"
+	next = "DWANG19"
+	secretnext = "DWANG19"
+	sky1 = "DWANGSK2"
+	music = "D_DWGG18"
+	intermusic = "D_DWGGIN"
+	ExitPic = "DWANGINT"
+	EnterPic = "DWANGINT"
+}
+
+map DWANG19 "Mines"
+{
+	titlepatch = "CWILV18"
+	next = "DWANG20"
+	secretnext = "DWANG20"
+	sky1 = "DWANGSK2"
+	music = "D_DWGG19"
+	intermusic = "D_DWGGIN"
+	ExitPic = "DWANGINT"
+	EnterPic = "DWANGINT"
+}
+
+map DWANG20 "Blood2"
+{
+	titlepatch = "CWILV19"
+	next = "DWANG21"
+	secretnext = "DWANG21"
+	sky1 = "DWANGSK2"
+	music = "D_DWGG20"
+	intermusic = "D_DWGGIN"
+	ExitPic = "DWANGINT"
+	EnterPic = "DWANGINT"
+}
+
+map DWANG21 "Islekeep"
+{
+	titlepatch = "CWILV20"
+	next = "DWANG22"
+	secretnext = "DWANG22"
+	sky1 = "SKY3"
+	music = "D_DWGG21"
+	intermusic = "D_DWGGIN"
+	ExitPic = "DWANGINT"
+	EnterPic = "DWANGINT"
+}
+
+map DWANG22 "Axe"
+{
+	titlepatch = "CWILV21"
+	next = "DWANG23"
+	secretnext = "DWANG23"
+	sky1 = "SKY3"
+	music = "D_DWGG22"
+	intermusic = "D_DWGGIN"
+	ExitPic = "DWANGINT"
+	EnterPic = "DWANGINT"
+}
+
+map DWANG23 "Enigma"
+{
+	titlepatch = "CWILV22"
+	next = "DWANG24"
+	secretnext = "DWANG24"
+	sky1 = "SKY3"
+	music = "D_DWGG23"
+	intermusic = "D_DWGGIN"
+	ExitPic = "DWANGINT"
+	EnterPic = "DWANGINT"
+}
+
+map DWANG24 "Rusty"
+{
+	titlepatch = "CWILV23"
+	next = "DWANG25"
+	secretnext = "DWANG25"
+	sky1 = "SKY3"
+	music = "D_DWGG24"
+	intermusic = "D_DWGGIN"
+	ExitPic = "DWANGINT"
+	EnterPic = "DWANGINT"
+}
+
+map DWANG25 "Skull2"
+{
+	titlepatch = "CWILV24"
+	next = "DWANG26"
+	secretnext = "DWANG26"
+	sky1 = "SKY3"
+	music = "$MUSIC_ADRIAN"
+	intermusic = "D_DWGGIN"
+	ExitPic = "DWANGINT"
+	EnterPic = "DWANGINT"
+}
+
+map DWANG26 "Dare2Run"
+{
+	titlepatch = "CWILV25"
+	next = "DWANG27"
+	secretnext = "DWANG27"
+	sky1 = "SKY3"
+	music = "$MUSIC_MESSG2"
+	intermusic = "D_DWGGIN"
+	ExitPic = "DWANGINT"
+	EnterPic = "DWANGINT"
+}
+
+map DWANG27 "Superfrag"
+{
+	titlepatch = "CWILV26"
+	next = "DWANG28"
+	secretnext = "DWANG28"
+	sky1 = "SKY3"
+	music = "$MUSIC_ROMER2"
+	intermusic = "D_DWGGIN"
+	ExitPic = "DWANGINT"
+	EnterPic = "DWANGINT"
+}
+
+map DWANG28 "Warmup"
+{
+	titlepatch = "CWILV27"
+	next = "DWANG29"
+	secretnext = "DWANG29"
+	sky1 = "SKY3"
+	music = "$MUSIC_TENSE"
+	intermusic = "D_DWGGIN"
+	ExitPic = "DWANGINT"
+	EnterPic = "DWANGINT"
+}
+
+map DWANG29 "Pillar"
+{
+	titlepatch = "CWILV28"
+	next = "DWANG30"
+	secretnext = "DWANG30"
+	sky1 = "SKY3"
+	music = "$MUSIC_SHAWN3"
+	intermusic = "D_DWGGIN"
+	ExitPic = "DWANGINT"
+	EnterPic = "DWANGINT"
+}
+
+map DWANG30 "Cross"
+{
+	titlepatch = "CWILV29"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY3"
+	music = "$MUSIC_OPENIN"
+	intermusic = "D_DWGGIN"
+	ExitPic = "DWANGINT"
+	EnterPic = "DWANGINT"
+}

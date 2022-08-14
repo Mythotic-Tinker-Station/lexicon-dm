@@ -1,0 +1,100 @@
+// DWANGO1 Mapinfo
+
+map DWAN101 "SUPER1"
+{
+	titlepatch = "CWILV00"
+	next = "DWAN102"
+	secretnext = "DWAN102"
+	sky1 = "SKY1"
+	music = "D_DWG101"
+}
+
+map DWAN102 "DOOM_1B"
+{
+	titlepatch = "CWILV01"
+	next = "DWAN103"
+	secretnext = "DWAN103"
+	sky1 = "SKY1"
+	music = "D_DWG102"
+}
+
+map DWAN103 "PAR-002C"
+{
+	titlepatch = "CWILV02"
+	next = "DWAN104"
+	secretnext = "DWAN104"
+	sky1 = "SKY1"
+	music = "D_DWG103"
+}
+
+map DWAN104 "IDMAP01"
+{
+	titlepatch = "CWILV03"
+	next = "DWAN105"
+	secretnext = "DWAN105"
+	sky1 = "SKY1"
+	music = "D_DWG104"
+}
+
+map DWAN105 "DM7NEW2"
+{
+	titlepatch = "CWILV04"
+	next = "DWAN106"
+	secretnext = "DWAN106"
+	sky1 = "SKY1"
+	music = "D_DWG105"
+}
+
+map DWAN106 "OFFICE"
+{
+	titlepatch = "CWILV05"
+	next = "DWAN107"
+	secretnext = "DWAN107"
+	sky1 = "SKY1"
+	music = "D_DWG106"
+}
+
+map DWAN107 "CYBRDTH2"
+{
+	titlepatch = "CWILV06"
+	next = "DWAN108"
+	secretnext = "DWAN108"
+	sky1 = "SKY1"
+	music = "D_DWG107"
+}
+
+map DWAN108 "DOOM_1B"
+{
+	titlepatch = "CWILV07"
+	next = "DWAN109"
+	secretnext = "DWAN109"
+	sky1 = "SKY1"
+	music = "D_DWG108"
+}
+
+map DWAN109 "NAZI"
+{
+	titlepatch = "CWILV08"
+	next = "DWAN110"
+	secretnext = "DWAN110"
+	sky1 = "SKY1"
+	music = "D_DWG109"
+}
+
+map DWAN110 "RAVEN2"
+{
+	titlepatch = "CWILV09"
+	next = "DWAN111"
+	secretnext = "DWAN111"
+	sky1 = "SKY1"
+	music = "D_DWG110"
+}
+
+map DWAN111 "CARNAGE!"
+{
+	titlepatch = "CWILV10"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	music = "D_DWG111"
+}

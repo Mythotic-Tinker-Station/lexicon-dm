@@ -1,0 +1,161 @@
+// DWANGO4 Mapinfo
+
+map DWAN401 "HERETIC"
+{
+	titlepatch = "CWILV00"
+	next = "DWAN402"
+	secretnext = "DWAN402"
+	sky1 = "DWAN2SKY"
+	music = "D_DWG401"
+	intermusic = "D_DWG4IN"
+}
+
+map DWAN402 "URUN!"
+{
+	titlepatch = "CWILV01"
+	next = "DWAN403"
+	secretnext = "DWAN403"
+	sky1 = "DWAN2SKY"
+	music = "D_DWG402"
+	intermusic = "D_DWG4IN"
+}
+
+map DWAN403 "FRAGL3E"
+{
+	titlepatch = "CWILV02"
+	next = "DWAN404"
+	secretnext = "DWAN404"
+	sky1 = "DWAN2SKY"
+	music = "D_DWG403"
+	intermusic = "D_DWG4IN"
+}
+
+map DWAN404 "VORTEX"
+{
+	titlepatch = "CWILV03"
+	next = "DWAN405"
+	secretnext = "DWAN405"
+	sky1 = "DWAN2SKY"
+	music = "D_DWG404"
+	intermusic = "D_DWG4IN"
+}
+
+map DWAN405 "FRAGEM"
+{
+	titlepatch = "CWILV04"
+	next = "DWAN406"
+	secretnext = "DWAN406"
+	sky1 = "DWAN2SKY"
+	music = "D_DWG405"
+	intermusic = "D_DWG4IN"
+}
+
+map DWAN406 "ICEFORT"
+{
+	titlepatch = "CWILV05"
+	next = "DWAN407"
+	secretnext = "DWAN407"
+	sky1 = "DWAN2SKY"
+	music = "D_DWG406"
+	intermusic = "D_DWG4IN"
+}
+
+map DWAN407 "MEGA!"
+{
+	titlepatch = "CWILV06"
+	next = "DWAN408"
+	secretnext = "DWAN408"
+	sky1 = "DWAN2SKY"
+	music = "D_DWG407"
+	intermusic = "D_DWG4IN"
+}
+
+map DWAN408 "JROOM3"
+{
+	titlepatch = "CWILV07"
+	next = "DWAN409"
+	secretnext = "DWAN409"
+	sky1 = "DWAN2SKY"
+	music = "D_DWG408"
+	intermusic = "D_DWG4IN"
+}
+
+map DWAN409 "SHIP"
+{
+	titlepatch = "CWILV08"
+	next = "DWAN410"
+	secretnext = "DWAN410"
+	sky1 = "DWAN2SKY"
+	music = "D_DWG409"
+	intermusic = "D_DWG4IN"
+}
+
+map DWAN410 "ARENA-II"
+{
+	titlepatch = "CWILV09"
+	next = "DWAN411"
+	secretnext = "DWAN411"
+	sky1 = "DWAN2SKY"
+	music = "D_DWG410"
+	intermusic = "D_DWG4IN"
+}
+
+map DWAN411 "HEIGHTS"
+{
+	titlepatch = "CWILV10"
+	next = "DWAN412"
+	secretnext = "DWAN412"
+	sky1 = "DWAN2SKY"
+	music = "D_DWG411"
+	intermusic = "D_DWG4IN"
+}
+
+map DWAN412 "VORTEX"
+{
+	titlepatch = "CWILV11"
+	next = "DWAN413"
+	secretnext = "DWAN413"
+	sky1 = "DWAN2SKY"
+	music = "D_DWG412"
+	intermusic = "D_DWG4IN"
+}
+
+map DWAN413 "YODA-DM2"
+{
+	titlepatch = "CWILV12"
+	next = "DWAN414"
+	secretnext = "DWAN414"
+	sky1 = "DWAN2SKY"
+	music = "D_DWG413"
+	intermusic = "D_DWG4IN"
+}
+
+map DWAN414 "THEYARD"
+{
+	titlepatch = "CWILV13"
+	next = "DWAN415"
+	secretnext = "DWAN415"
+	sky1 = "DWAN2SKY"
+	music = "D_DWG414"
+	intermusic = "D_DWG4IN"
+}
+
+map DWAN415 "FOXER"
+{
+	titlepatch = "CWILV14"
+	next = "DWAN416"
+	secretnext = "DWAN416"
+	sky1 = "DWAN2SKY"
+	music = "D_DWG415"
+	intermusic = "D_DWG4IN"
+}
+
+map DWAN416 "WARROOM"
+{
+	titlepatch = "CWILV15"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "DWAN2SKY"
+	music = "D_DWG416"
+	intermusic = "D_DWG4IN"
+}

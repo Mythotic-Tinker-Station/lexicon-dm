@@ -1,0 +1,73 @@
+// SYNJ9408 Mapinfo
+
+map SYNJ9401 "SYNJ9408 Map 1"
+{
+	titlepatch = "CWILV00"
+	next = "SYNJ9402"
+	secretnext = "SYNJ9402"
+	sky1 = "SKY1"
+	music = "$MUSIC_RUNNIN"
+}
+
+map SYNJ9402 "SYNJ9408 Map 2"
+{
+	titlepatch = "CWILV01"
+	next = "SYNJ9403"
+	secretnext = "SYNJ9403"
+	sky1 = "SKY1"
+	music = "$MUSIC_STALKS"
+}
+
+map SYNJ9403 "SYNJ9408 Map 3"
+{
+	titlepatch = "CWILV02"
+	next = "SYNJ9404"
+	secretnext = "SYNJ9404"
+	sky1 = "SKY1"
+	music = "$MUSIC_COUNTD"
+}
+
+map SYNJ9404 "SYNJ9408 Map 4"
+{
+	titlepatch = "CWILV03"
+	next = "SYNJ9405"
+	secretnext = "SYNJ9405"
+	sky1 = "SKY1"
+	music = "$MUSIC_BETWEE"
+}
+
+map SYNJ9405 "SYNJ9408 Map 5"
+{
+	titlepatch = "CWILV04"
+	next = "SYNJ9406"
+	secretnext = "SYNJ9406"
+	sky1 = "SKY1"
+	music = "$MUSIC_DOOM"
+}
+
+map SYNJ9406 "SYNJ9408 Map 6"
+{
+	titlepatch = "CWILV05"
+	next = "SYNJ9407"
+	secretnext = "SYNJ9407"
+	sky1 = "SKY1"
+	music = "$MUSIC_THE_DA"
+}
+
+map SYNJ9407 "SYNJ9408 Map 7"
+{
+	titlepatch = "CWILV06"
+	next = "SYNJ9408"
+	secretnext = "SYNJ9408"
+	sky1 = "SKY1"
+	music = "$MUSIC_SHAWN"
+}
+
+map SYNJ9408 "SYNJ9408 Map 8"
+{
+	titlepatch = "CWILV07"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	music = "$MUSIC_DDTBLU"
+}

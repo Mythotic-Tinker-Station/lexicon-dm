@@ -1,0 +1,385 @@
+// GOTHICDM Mapinfo
+
+map GDM101 "Yesterday's Void"
+{
+	titlepatch = "GDM1V00"
+	next = "GDM102"
+	secretnext = "GDM102"
+	sky1 = "GDM1SKY"
+	music = "D_GDM101"
+	intermusic = "D_GDM1IN"
+	ExitPic = "GDM1INT"
+	EnterPic = "GDM1INT"
+}
+
+map GDM102 "Plaza At The End Of The World"
+{
+	titlepatch = "GDM1V01"
+	next = "GDM103"
+	secretnext = "GDM103"
+	sky1 = "GDM1SKY"
+	music = "D_GDM102"
+	intermusic = "D_GDM1IN"
+	ExitPic = "GDM1INT"
+	EnterPic = "GDM1INT"
+}
+
+map GDM103 "Gopher"
+{
+	titlepatch = "GDM1V02"
+	next = "GDM104"
+	secretnext = "GDM104"
+	sky1 = "GDM1SKY"
+	music = "D_GDM103"
+	intermusic = "D_GDM1IN"
+	ExitPic = "GDM1INT"
+	EnterPic = "GDM1INT"
+}
+
+map GDM104 "Lovecraftian DreamScape"
+{
+	titlepatch = "GDM1V03"
+	next = "GDM105"
+	secretnext = "GDM105"
+	sky1 = "GDM1SKY"
+	music = "D_GDM104"
+	intermusic = "D_GDM1IN"
+	ExitPic = "GDM1INT"
+	EnterPic = "GDM1INT"
+}
+
+map GDM105 "Father, For I Have Sinned"
+{
+	titlepatch = "GDM1V04"
+	next = "GDM106"
+	secretnext = "GDM106"
+	sky1 = "GDM1SKY"
+	music = "D_GDM105"
+	intermusic = "D_GDM1IN"
+	ExitPic = "GDM1INT"
+	EnterPic = "GDM1INT"
+}
+
+map GDM106 "Untitled"
+{
+	titlepatch = "GDM1V05"
+	next = "GDM107"
+	secretnext = "GDM107"
+	sky1 = "GDM1SKY"
+	music = "D_GDM106"
+	intermusic = "D_GDM1IN"
+	ExitPic = "GDM1INT"
+	EnterPic = "GDM1INT"
+}
+
+map GDM107 "Necropolis"
+{
+	titlepatch = "GDM1V06"
+	next = "GDM108"
+	secretnext = "GDM108"
+	sky1 = "GDM1SKY"
+	music = "D_GDM107"
+	intermusic = "D_GDM1IN"
+	ExitPic = "GDM1INT"
+	EnterPic = "GDM1INT"
+}
+
+map GDM108 "Temple Of Dreams"
+{
+	titlepatch = "GDM1V07"
+	next = "GDM109"
+	secretnext = "GDM109"
+	sky1 = "GDM1SKY"
+	music = "D_GDM108"
+	intermusic = "D_GDM1IN"
+	ExitPic = "GDM1INT"
+	EnterPic = "GDM1INT"
+}
+
+map GDM109 "Fall Of The Medium"
+{
+	titlepatch = "GDM1V08"
+	next = "GDM110"
+	secretnext = "GDM110"
+	sky1 = "GDM1SKY"
+	music = "D_GDM109"
+	intermusic = "D_GDM1IN"
+	ExitPic = "GDM1INT"
+	EnterPic = "GDM1INT"
+}
+
+map GDM110 "Out Comes The Evil"
+{
+	titlepatch = "GDM1V09"
+	next = "GDM111"
+	secretnext = "GDM111"
+	sky1 = "GDM1SKY"
+	music = "D_GDM110"
+	intermusic = "D_GDM1IN"
+	ExitPic = "GDM1INT"
+	EnterPic = "GDM1INT"
+}
+
+map GDM111 "Final Reclamation"
+{
+	titlepatch = "GDM1V10"
+	next = "GDM112"
+	secretnext = "GDM112"
+	sky1 = "GDM1SKY"
+	music = "D_GDM111"
+	intermusic = "D_GDM1IN"
+	ExitPic = "GDM1INT"
+	EnterPic = "GDM1INT"
+}
+
+map GDM112 "Patterned Chaos"
+{
+	titlepatch = "GDM1V11"
+	next = "GDM113"
+	secretnext = "GDM113"
+	sky1 = "GDM1SKY2"
+	music = "D_GDM112"
+	intermusic = "D_GDM1IN"
+	ExitPic = "GDM1INT"
+	EnterPic = "GDM1INT"
+}
+
+map GDM113 "Tempest"
+{
+	titlepatch = "GDM1V12"
+	next = "GDM114"
+	secretnext = "GDM114"
+	sky1 = "GDM1SKY2"
+	music = "D_GDM113"
+	intermusic = "D_GDM1IN"
+	ExitPic = "GDM1INT"
+	EnterPic = "GDM1INT"
+}
+
+map GDM114 "Absence of Faith"
+{
+	titlepatch = "GDM1V13"
+	next = "GDM115"
+	secretnext = "GDM115"
+	sky1 = "GDM1SKY2"
+	music = "D_GDM114"
+	intermusic = "D_GDM1IN"
+	ExitPic = "GDM1INT"
+	EnterPic = "GDM1INT"
+}
+
+map GDM115 "Of Ashes And Wormwood"
+{
+	titlepatch = "GDM1V14"
+	next = "GDM116"
+	secretnext = "GDM116"
+	sky1 = "GDM1SKY2"
+	music = "D_GDM115"
+	intermusic = "D_GDM1IN"
+	ExitPic = "GDM1INT"
+	EnterPic = "GDM1INT"
+}
+
+map GDM116 "Bastillion"
+{
+	titlepatch = "GDM1V15"
+	next = "GDM117"
+	secretnext = "GDM117"
+	sky1 = "GDM1SKY2"
+	music = "D_GDM116"
+	intermusic = "D_GDM1IN"
+	ExitPic = "GDM1INT"
+	EnterPic = "GDM1INT"
+}
+
+map GDM117 "Catharsis"
+{
+	titlepatch = "GDM1V16"
+	next = "GDM118"
+	secretnext = "GDM118"
+	sky1 = "GDM1SKY2"
+	music = "D_GDM117"
+	intermusic = "D_GDM1IN"
+	ExitPic = "GDM1INT"
+	EnterPic = "GDM1INT"
+}
+
+map GDM118 "Necrose Evangelicum"
+{
+	titlepatch = "GDM1V17"
+	next = "GDM119"
+	secretnext = "GDM119"
+	sky1 = "GDM1SKY2"
+	music = "D_GDM118"
+	intermusic = "D_GDM1IN"
+	ExitPic = "GDM1INT"
+	EnterPic = "GDM1INT"
+}
+
+map GDM119 "Libris Ex Mortis"
+{
+	titlepatch = "GDM1V18"
+	next = "GDM120"
+	secretnext = "GDM120"
+	sky1 = "GDM1SKY2"
+	music = "D_GDM119"
+	intermusic = "D_GDM1IN"
+	ExitPic = "GDM1INT"
+	EnterPic = "GDM1INT"
+}
+
+map GDM120 "Wasted"
+{
+	titlepatch = "GDM1V19"
+	next = "GDM121"
+	secretnext = "GDM121"
+	sky1 = "GDM1SKY2"
+	music = "D_GDM120"
+	intermusic = "D_GDM1IN"
+	ExitPic = "GDM1INT"
+	EnterPic = "GDM1INT"
+}
+
+map GDM121 "Creator"
+{
+	titlepatch = "GDM1V20"
+	next = "GDM122"
+	secretnext = "GDM122"
+	sky1 = "GDM1SKY3"
+	music = "D_GDM121"
+	intermusic = "D_GDM1IN"
+	ExitPic = "GDM1INT"
+	EnterPic = "GDM1INT"
+}
+
+map GDM122 "Destroyer"
+{
+	titlepatch = "GDM1V21"
+	next = "GDM123"
+	secretnext = "GDM123"
+	sky1 = "GDM1SKY3"
+	music = "D_GDM122"
+	intermusic = "D_GDM1IN"
+	ExitPic = "GDM1INT"
+	EnterPic = "GDM1INT"
+}
+
+map GDM123 "Pinion"
+{
+	titlepatch = "GDM1V22"
+	next = "GDM124"
+	secretnext = "GDM124"
+	sky1 = "GDM1SKY3"
+	music = "D_GDM123"
+	intermusic = "D_GDM1IN"
+	ExitPic = "GDM1INT"
+	EnterPic = "GDM1INT"
+}
+
+map GDM124 "Ethereal Manifestation"
+{
+	titlepatch = "GDM1V23"
+	next = "GDM125"
+	secretnext = "GDM125"
+	sky1 = "GDM1SKY3"
+	music = "D_GDM124"
+	intermusic = "D_GDM1IN"
+	ExitPic = "GDM1INT"
+	EnterPic = "GDM1INT"
+}
+
+map GDM125 "Death Glance"
+{
+	titlepatch = "GDM1V24"
+	next = "GDM126"
+	secretnext = "GDM126"
+	sky1 = "GDM1SKY3"
+	music = "D_GDM125"
+	intermusic = "D_GDM1IN"
+	ExitPic = "GDM1INT"
+	EnterPic = "GDM1INT"
+}
+
+map GDM126 "Lucifer's Flowers"
+{
+	titlepatch = "GDM1V25"
+	next = "GDM127"
+	secretnext = "GDM127"
+	sky1 = "GDM1SKY3"
+	music = "D_GDM126"
+	intermusic = "D_GDM1IN"
+	ExitPic = "GDM1INT"
+	EnterPic = "GDM1INT"
+}
+
+map GDM127 "Untitled"
+{
+	titlepatch = "GDM1V26"
+	next = "GDM128"
+	secretnext = "GDM128"
+	sky1 = "GDM1SKY3"
+	music = "D_GDM127"
+	intermusic = "D_GDM1IN"
+	ExitPic = "GDM1INT"
+	EnterPic = "GDM1INT"
+}
+
+map GDM128 "Industrial Revolution"
+{
+	titlepatch = "GDM1V27"
+	next = "GDM129"
+	secretnext = "GDM129"
+	sky1 = "GDM1SKY3"
+	music = "D_GDM128"
+	intermusic = "D_GDM1IN"
+	ExitPic = "GDM1INT"
+	EnterPic = "GDM1INT"
+}
+
+map GDM129 "Everything Explodes"
+{
+	titlepatch = "GDM1V28"
+	next = "GDM130"
+	secretnext = "GDM130"
+	sky1 = "GDM1SKY3"
+	music = "D_GDM129"
+	intermusic = "D_GDM1IN"
+	ExitPic = "GDM1INT"
+	EnterPic = "GDM1INT"
+}
+
+map GDM130 "Beyond Good And Evil"
+{
+	titlepatch = "GDM1V29"
+	next = "GDM131"
+	secretnext = "GDM131"
+	sky1 = "GDM1SKY3"
+	music = "D_GDM130"
+	intermusic = "D_GDM1IN"
+	ExitPic = "GDM1INT"
+	EnterPic = "GDM1INT"
+}
+
+map GDM131 "Blood Roses"
+{
+	titlepatch = "GDM1V30"
+	next = "GDM132"
+	secretnext = "GDM132"
+	sky1 = "GDM1SKY3"
+	music = "D_GDM131"
+	intermusic = "D_GDM1IN"
+	ExitPic = "GDM1INT"
+	EnterPic = "GDM1INT"
+}
+
+map GDM132 "...And Beyond"
+{
+	titlepatch = "GDM1V31"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "GDM1SKY3"
+	music = "D_GDM132"
+	intermusic = "D_GDM1IN"
+	ExitPic = "GDM1INT"
+	EnterPic = "GDM1INT"
+}

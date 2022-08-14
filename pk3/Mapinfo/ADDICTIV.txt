@@ -1,0 +1,89 @@
+// ADDICTIV Mapinfo
+
+map ADCV01 "The Great Hall"
+{
+	titlepatch = "ADCVV00"
+	next = "ADCV02"
+	secretnext = "ADCV02"
+	sky1 = "SKY1"
+	music = "D_ADCV01"
+	ExitPic = "ADDCTINT"
+	EnterPic = "ADDCTINT"
+}
+
+map ADCV02 "Red Cross ?"
+{
+	titlepatch = "ADCVV01"
+	next = "ADCV03"
+	secretnext = "ADCV03"
+	sky1 = "SKY1"
+	music = "D_ADCV02"
+	ExitPic = "ADDCTINT"
+	EnterPic = "ADDCTINT"
+}
+
+map ADCV03 "Claustrophobia"
+{
+	titlepatch = "ADCVV02"
+	next = "ADCV04"
+	secretnext = "ADCV04"
+	sky1 = "SKY1"
+	music = "D_ADCV03"
+	ExitPic = "ADDCTINT"
+	EnterPic = "ADDCTINT"
+}
+
+map ADCV04 "Killer's Instict"
+{
+	titlepatch = "ADCVV03"
+	next = "ADCV05"
+	secretnext = "ADCV05"
+	sky1 = "SKY1"
+	music = "D_ADCV04"
+	ExitPic = "ADDCTINT"
+	EnterPic = "ADDCTINT"
+}
+
+map ADCV05 "The Tower"
+{
+	titlepatch = "ADCVV04"
+	next = "ADCV06"
+	secretnext = "ADCV06"
+	sky1 = "SKY1"
+	music = "D_ADCV05"
+	ExitPic = "ADDCTINT"
+	EnterPic = "ADDCTINT"
+}
+
+map ADCV06 "X Rivers"
+{
+	titlepatch = "ADCVV05"
+	next = "ADCV07"
+	secretnext = "ADCV07"
+	sky1 = "SKY1"
+	music = "D_ADCV06"
+	ExitPic = "ADDCTINT"
+	EnterPic = "ADDCTINT"
+}
+
+map ADCV07 "Deadly Architecture"
+{
+	titlepatch = "ADCVV06"
+	next = "ADCV08"
+	secretnext = "ADCV08"
+	sky1 = "SKY1"
+	music = "D_ADCV07"
+	ExitPic = "ADDCTINT"
+	EnterPic = "ADDCTINT"
+}
+
+map ADCV08 "Snipe Spots"
+{
+	titlepatch = "ADCVV07"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY1"
+	music = "D_ADCV08"
+	ExitPic = "ADDCTINT"
+	EnterPic = "ADDCTINT"
+}

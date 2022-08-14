@@ -1,0 +1,181 @@
+// PYRRHIC Mapinfo
+
+map PYRHC101 "PYRRHIC Map 1"
+{
+	titlepatch = "CWILV00"
+	next = "PYRHC102"
+	secretnext = "PYRHC102"
+	sky1 = "DWANASKY"
+	music = "D_PRH101"
+	intermusic = "D_PRH1IN"
+	ExitPic = "PYRH1INT"
+	EnterPic = "PYRH1INT"
+}
+
+map PYRHC102 "PYRRHIC Map 2"
+{
+	titlepatch = "CWILV01"
+	next = "PYRHC103"
+	secretnext = "PYRHC103"
+	sky1 = "DWANASKY"
+	music = "D_PRH102"
+	intermusic = "D_PRH1IN"
+	ExitPic = "PYRH1INT"
+	EnterPic = "PYRH1INT"
+}
+
+map PYRHC103 "PYRRHIC Map 3"
+{
+	titlepatch = "CWILV02"
+	next = "PYRHC104"
+	secretnext = "PYRHC104"
+	sky1 = "DWANASKY"
+	music = "D_PRH103"
+	intermusic = "D_PRH1IN"
+	ExitPic = "PYRH1INT"
+	EnterPic = "PYRH1INT"
+}
+
+map PYRHC104 "PYRRHIC Map 4"
+{
+	titlepatch = "CWILV03"
+	next = "PYRHC105"
+	secretnext = "PYRHC105"
+	sky1 = "DWANASKY"
+	music = "D_PRH104"
+	intermusic = "D_PRH1IN"
+	ExitPic = "PYRH1INT"
+	EnterPic = "PYRH1INT"
+}
+
+map PYRHC105 "PYRRHIC Map 5"
+{
+	titlepatch = "CWILV04"
+	next = "PYRHC106"
+	secretnext = "PYRHC106"
+	sky1 = "DWANASKY"
+	music = "D_PRH105"
+	intermusic = "D_PRH1IN"
+	ExitPic = "PYRH1INT"
+	EnterPic = "PYRH1INT"
+}
+
+map PYRHC106 "PYRRHIC Map 6"
+{
+	titlepatch = "CWILV05"
+	next = "PYRHC107"
+	secretnext = "PYRHC107"
+	sky1 = "DWANASKY"
+	music = "D_PRH106"
+	intermusic = "D_PRH1IN"
+	ExitPic = "PYRH1INT"
+	EnterPic = "PYRH1INT"
+}
+
+map PYRHC107 "PYRRHIC Map 7"
+{
+	titlepatch = "CWILV06"
+	next = "PYRHC108"
+	secretnext = "PYRHC108"
+	sky1 = "DWANASKY"
+	music = "D_PRH107"
+	intermusic = "D_PRH1IN"
+	ExitPic = "PYRH1INT"
+	EnterPic = "PYRH1INT"
+}
+
+map PYRHC108 "PYRRHIC Map 8"
+{
+	titlepatch = "CWILV07"
+	next = "PYRHC109"
+	secretnext = "PYRHC109"
+	sky1 = "DWANASKY"
+	music = "D_PRH108"
+	intermusic = "D_PRH1IN"
+	ExitPic = "PYRH1INT"
+	EnterPic = "PYRH1INT"
+}
+
+map PYRHC109 "PYRRHIC Map 9"
+{
+	titlepatch = "CWILV08"
+	next = "PYRHC110"
+	secretnext = "PYRHC110"
+	sky1 = "DWANASKY"
+	music = "D_PRH109"
+	intermusic = "D_PRH1IN"
+	ExitPic = "PYRH1INT"
+	EnterPic = "PYRH1INT"
+}
+
+map PYRHC110 "PYRRHIC Map 10"
+{
+	titlepatch = "CWILV09"
+	next = "PYRHC111"
+	secretnext = "PYRHC111"
+	sky1 = "DWANASKY"
+	music = "D_PRH110"
+	intermusic = "D_PRH1IN"
+	ExitPic = "PYRH1INT"
+	EnterPic = "PYRH1INT"
+}
+
+map PYRHC111 "PYRRHIC Map 11"
+{
+	titlepatch = "CWILV10"
+	next = "PYRHC112"
+	secretnext = "PYRHC112"
+	sky1 = "DWANASKY"
+	music = "D_PRH111"
+	intermusic = "D_PRH1IN"
+	ExitPic = "PYRH1INT"
+	EnterPic = "PYRH1INT"
+}
+
+map PYRHC112 "PYRRHIC Map 12"
+{
+	titlepatch = "CWILV11"
+	next = "PYRHC113"
+	secretnext = "PYRHC113"
+	sky1 = "DWANASKY"
+	music = "D_PRH112"
+	intermusic = "D_PRH1IN"
+	ExitPic = "PYRH1INT"
+	EnterPic = "PYRH1INT"
+}
+
+map PYRHC113 "PYRRHIC Map 13"
+{
+	titlepatch = "CWILV12"
+	next = "PYRHC114"
+	secretnext = "PYRHC114"
+	sky1 = "DWANASKY"
+	music = "D_PRH113"
+	intermusic = "D_PRH1IN"
+	ExitPic = "PYRH1INT"
+	EnterPic = "PYRH1INT"
+}
+
+map PYRHC114 "PYRRHIC Map 14"
+{
+	titlepatch = "CWILV13"
+	next = "PYRHC115"
+	secretnext = "PYRHC115"
+	sky1 = "DWANASKY"
+	music = "D_PRH114"
+	intermusic = "D_PRH1IN"
+	ExitPic = "PYRH1INT"
+	EnterPic = "PYRH1INT"
+}
+
+map PYRHC115 "PYRRHIC Map 15"
+{
+	titlepatch = "CWILV14"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "DWANASKY"
+	music = "D_PRH115"
+	intermusic = "D_PRH1IN"
+	ExitPic = "PYRH1INT"
+	EnterPic = "PYRH1INT"
+}

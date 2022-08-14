@@ -1,0 +1,136 @@
+// DWANGO! Mapinfo
+
+map DWANZ01 "DWANGO! Map 1"
+{
+	titlepatch = "CWILV00"
+	next = "DWANZ02"
+	secretnext = "DWANZ02"
+	sky1 = "SKY1"
+	music = "$MUSIC_RUNNIN"
+}
+
+map DWANZ02 "DWANGO! Map 2"
+{
+	titlepatch = "CWILV01"
+	next = "DWANZ03"
+	secretnext = "DWANZ03"
+	sky1 = "SKY1"
+	music = "$MUSIC_STALKS"
+}
+
+map DWANZ03 "DWANGO! Map 3"
+{
+	titlepatch = "CWILV02"
+	next = "DWANZ04"
+	secretnext = "DWANZ04"
+	sky1 = "SKY1"
+	music = "$MUSIC_COUNTD"
+}
+
+map DWANZ04 "DWANGO! Map 4"
+{
+	titlepatch = "CWILV03"
+	next = "DWANZ05"
+	secretnext = "DWANZ05"
+	sky1 = "SKY1"
+	music = "$MUSIC_BETWEE"
+}
+
+map DWANZ05 "DWANGO! Map 5"
+{
+	titlepatch = "CWILV04"
+	next = "DWANZ06"
+	secretnext = "DWANZ06"
+	sky1 = "SKY1"
+	music = "$MUSIC_DOOM"
+}
+
+map DWANZ06 "DWANGO! Map 6"
+{
+	titlepatch = "CWILV05"
+	next = "DWANZ07"
+	secretnext = "DWANZ07"
+	sky1 = "SKY1"
+	music = "$MUSIC_THE_DA"
+}
+
+map DWANZ07 "DWANGO! Map 7"
+{
+	titlepatch = "CWILV06"
+	next = "DWANZ08"
+	secretnext = "DWANZ08"
+	sky1 = "SKY1"
+	music = "$MUSIC_SHAWN"
+}
+
+map DWANZ08 "DWANGO! Map 8"
+{
+	titlepatch = "CWILV07"
+	next = "DWANZ09"
+	secretnext = "DWANZ09"
+	sky1 = "SKY1"
+	music = "$MUSIC_DDTBLU"
+}
+
+map DWANZ09 "DWANGO! Map 9"
+{
+	titlepatch = "CWILV08"
+	next = "DWANZ10"
+	secretnext = "DWANZ10"
+	sky1 = "SKY1"
+	music = "$MUSIC_IN_CIT"
+}
+
+map DWANZ10 "DWANGO! Map 10"
+{
+	titlepatch = "CWILV09"
+	next = "DWANZ11"
+	secretnext = "DWANZ11"
+	sky1 = "SKY1"
+	music = "$MUSIC_DEAD"
+}
+
+map DWANZ11 "DWANGO! Map 11"
+{
+	titlepatch = "CWILV10"
+	next = "DWANZ12"
+	secretnext = "DWANZ12"
+	sky1 = "SKY1"
+	music = "$MUSIC_STLKS2"
+}
+
+map DWANZ12 "DWANGO! Map 12"
+{
+	titlepatch = "CWILV11"
+	next = "DWANZ13"
+	secretnext = "DWANZ13"
+	sky1 = "SKY2"
+	music = "$MUSIC_THEDA2"
+}
+
+map DWANZ13 "DWANGO! Map 13"
+{
+	titlepatch = "CWILV12"
+	next = "DWANZ14"
+	secretnext = "DWANZ14"
+	sky1 = "SKY2"
+	music = "$MUSIC_DOOM2"
+}
+
+map DWANZ14 "DWANGO! Map 14"
+{
+	titlepatch = "CWILV13"
+	next = "DWANZ15"
+	secretnext = "DWANZ15"
+	sky1 = "SKY2"
+	music = "$MUSIC_DDTBL2"
+}
+
+map DWANZ15 "DWANGO! Map 15"
+{
+	titlepatch = "CWILV14"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SKY2"
+	music = "$MUSIC_RUNNI2"
+}
