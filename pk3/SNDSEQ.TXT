@@ -114,6 +114,29 @@ end
 end
 
 
+// TOKEDM
+[TOKEDoor
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:TOKEPlatform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:TOKEFloor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:TOKECeiling
+	playrepeat plats/pt1_mid
+end
+
+
 // TWANGO1
 [TWN1Door
 	0 DSDOROPN

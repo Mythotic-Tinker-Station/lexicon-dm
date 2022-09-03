@@ -1,0 +1,82 @@
+// TOKEDM Mapinfo
+
+map TOKE01 "TOKEDM Map 1"
+{
+	titlepatch = "CWILV00"
+	next = "TOKE02"
+	secretnext = "TOKE02"
+	sky1 = "TOKESKY1"
+	music = "$MUSIC_RUNNIN"
+}
+
+map TOKE02 "TOKEDM Map 2"
+{
+	titlepatch = "CWILV01"
+	next = "TOKE03"
+	secretnext = "TOKE03"
+	sky1 = "TOKESKY1"
+	music = "$MUSIC_STALKS"
+}
+
+map TOKE03 "TOKEDM Map 3"
+{
+	titlepatch = "CWILV02"
+	next = "TOKE04"
+	secretnext = "TOKE04"
+	sky1 = "TOKESKY1"
+	music = "$MUSIC_COUNTD"
+}
+
+map TOKE04 "TOKEDM Map 4"
+{
+	titlepatch = "CWILV03"
+	next = "TOKE05"
+	secretnext = "TOKE05"
+	sky1 = "TOKESKY1"
+	music = "$MUSIC_BETWEE"
+}
+
+map TOKE05 "TOKEDM Map 5"
+{
+	titlepatch = "CWILV04"
+	next = "TOKE06"
+	secretnext = "TOKE06"
+	sky1 = "TOKESKY1"
+	music = "$MUSIC_DOOM"
+}
+
+map TOKE06 "TOKEDM Map 6"
+{
+	titlepatch = "CWILV05"
+	next = "TOKE07"
+	secretnext = "TOKE07"
+	sky1 = "TOKESKY1"
+	music = "$MUSIC_THE_DA"
+}
+
+map TOKE07 "TOKEDM Map 7"
+{
+	titlepatch = "CWILV06"
+	next = "TOKE08"
+	secretnext = "TOKE08"
+	sky1 = "TOKESKY1"
+	music = "$MUSIC_SHAWN"
+}
+
+map TOKE08 "TOKEDM Map 8"
+{
+	titlepatch = "CWILV07"
+	next = "TOKE09"
+	secretnext = "TOKE09"
+	sky1 = "TOKESKY1"
+	music = "$MUSIC_DDTBLU"
+}
+
+map TOKE09 "TOKEDM Map 9"
+{
+	titlepatch = "CWILV08"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "TOKESKY1"
+	music = "$MUSIC_IN_CIT"
+}
