@@ -159,6 +159,30 @@ end
 	playrepeat plats/pt1_mid
 end
 
+
+// VEXDOOM
+[TVOXDoor
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:TVOXPlatform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:TVOXFloor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:TVOXCeiling
+	playrepeat plats/pt1_mid
+end
+
+
 // Boom Maps
 
 // ZDoom Maps

@@ -32,3 +32,4 @@ include "Mapinfo/PYRRHIC2.txt" // pyrrhic2.wad
 include "Mapinfo/SYNJ9408.txt" // SYNJ9408.wad
 include "Mapinfo/TOKEDM.txt" // TokeDM.wad
 include "Mapinfo/TWANGO1.txt" // TWANGO1.wad
+include "Mapinfo/VEXDOOM.txt" // vex-doom.wad
