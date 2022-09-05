@@ -25,6 +25,28 @@ end
 	playrepeat plats/pt1_mid
 end
 
+// BOURGDM
+[BOUGDoor
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:BOUGPlatform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:BOUGFloor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:BOUGCeiling
+	playrepeat plats/pt1_mid
+end
+
 // FREEDMCE
 [FDMCDoor
 	0 DSDOROPN

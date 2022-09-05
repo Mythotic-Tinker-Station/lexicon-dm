@@ -20,6 +20,7 @@ include "Mapinfo/DWANGO!.txt" // DWANGO!.wad
 
 // Vanilla Maps
 include "Mapinfo/ADDICTIV.txt" // ADDICTIV.wad
+include "Mapinfo/BOURGDM.txt" // BourgDM_Unity.wad
 include "Mapinfo/DANZIG.txt" // DANZIG1+2; added by meleemario
 include "Mapinfo/FINALFRG.txt" // FINALFRG.wad
 include "Mapinfo/FREEDMCE.TXT" // FREEDMCE.wad

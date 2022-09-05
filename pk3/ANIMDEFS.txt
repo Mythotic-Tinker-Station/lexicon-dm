@@ -10,6 +10,9 @@ texture DWANF001 range DWANF004 tics 8
 // ADDICTIV
 texture ADCV0004 range ADCV0007 tics 8
 
+// BOURGDM
+texture BOUG0063 range BOUG0066 tics 8
+
 // FREEDMCE
 texture FDMC0436 range FDMC0439 tics 8
 

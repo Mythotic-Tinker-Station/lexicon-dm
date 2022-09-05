@@ -1,0 +1,5 @@
+// BOURGDM
+$musicvolume	D_BOUR29		0.5
+$musicvolume	D_BOUR20		0.6
+$musicvolume	D_BOUR10		0.6
+$musicvolume	D_BOUR23		0.7
