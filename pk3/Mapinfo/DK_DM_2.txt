@@ -1,0 +1,181 @@
+// Doomkid's Deathmatch 2
+
+map DK0201 "Amalgamation"
+{
+	titlepatch = "DK02V00"
+	next = "DK0202"
+	secretnext = "DK0202"
+	sky1 = "DK02SKY1"
+	music = "D_DK0201"
+	intermusic = "D_DK02IN"
+	ExitPic = "DK02INT"
+	EnterPic = "DK02INT"
+}
+
+map DK0202 "Sledge"
+{
+	titlepatch = "DK02V01"
+	next = "DK0203"
+	secretnext = "DK0203"
+	sky1 = "DK02SKY1"
+	music = "D_DK0202"
+	intermusic = "D_DK02IN"
+	ExitPic = "DK02INT"
+	EnterPic = "DK02INT"
+}
+
+map DK0203 "Tight"
+{
+	titlepatch = "DK02V02"
+	next = "DK0204"
+	secretnext = "DK0204"
+	sky1 = "DK02SKY1"
+	music = "D_DK0203"
+	intermusic = "D_DK02IN"
+	ExitPic = "DK02INT"
+	EnterPic = "DK02INT"
+}
+
+map DK0204 "In And Out"
+{
+	titlepatch = "DK02V03"
+	next = "DK0205"
+	secretnext = "DK0205"
+	sky1 = "DK02SKY1"
+	music = "D_DK0204"
+	intermusic = "D_DK02IN"
+	ExitPic = "DK02INT"
+	EnterPic = "DK02INT"
+}
+
+map DK0205 "Tight 2"
+{
+	titlepatch = "DK02V04"
+	next = "DK0206"
+	secretnext = "DK0206"
+	sky1 = "DK02SKY1"
+	music = "D_DK0205"
+	intermusic = "D_DK02IN"
+	ExitPic = "DK02INT"
+	EnterPic = "DK02INT"
+}
+
+map DK0206 "Revamp"
+{
+	titlepatch = "DK02V05"
+	next = "DK0207"
+	secretnext = "DK0207"
+	sky1 = "DK02SKY1"
+	music = "D_DK0206"
+	intermusic = "D_DK02IN"
+	ExitPic = "DK02INT"
+	EnterPic = "DK02INT"
+}
+
+map DK0207 "Open Ground"
+{
+	titlepatch = "DK02V06"
+	next = "DK0208"
+	secretnext = "DK0208"
+	sky1 = "DK02SKY1"
+	music = "D_DK0207"
+	intermusic = "D_DK02IN"
+	ExitPic = "DK02INT"
+	EnterPic = "DK02INT"
+}
+
+map DK0208 "Tactical"
+{
+	titlepatch = "DK02V07"
+	next = "DK0209"
+	secretnext = "DK0209"
+	sky1 = "DK02SKY1"
+	music = "D_DK0208"
+	intermusic = "D_DK02IN"
+	ExitPic = "DK02INT"
+	EnterPic = "DK02INT"
+}
+
+map DK0209 "Big Beach Brawl 2"
+{
+	titlepatch = "DK02V08"
+	next = "DK0210"
+	secretnext = "DK0210"
+	sky1 = "DK02SKY1"
+	music = "D_DK0209"
+	intermusic = "D_DK02IN"
+	ExitPic = "DK02INT"
+	EnterPic = "DK02INT"
+}
+
+map DK0210 "Walk Through Walls"
+{
+	titlepatch = "DK02V09"
+	next = "DK0211"
+	secretnext = "DK0211"
+	sky1 = "DK02SKY1"
+	music = "D_DK0210"
+	intermusic = "D_DK02IN"
+	ExitPic = "DK02INT"
+	EnterPic = "DK02INT"
+}
+
+map DK0211 "Revenge"
+{
+	titlepatch = "DK02V10"
+	next = "DK0212"
+	secretnext = "DK0212"
+	sky1 = "DK02SKY1"
+	music = "D_DK0211"
+	intermusic = "D_DK02IN"
+	ExitPic = "DK02INT"
+	EnterPic = "DK02INT"
+}
+
+map DK0212 "Hospitality"
+{
+	titlepatch = "DK02V11"
+	next = "DK0213"
+	secretnext = "DK0213"
+	sky1 = "DK02SKY2"
+	music = "D_DK0212"
+	intermusic = "D_DK02IN"
+	ExitPic = "DK02INT"
+	EnterPic = "DK02INT"
+}
+
+map DK0213 "Oldstyle"
+{
+	titlepatch = "DK02V12"
+	next = "DK0214"
+	secretnext = "DK0214"
+	sky1 = "DK02SKY2"
+	music = "D_DK0213"
+	intermusic = "D_DK02IN"
+	ExitPic = "DK02INT"
+	EnterPic = "DK02INT"
+}
+
+map DK0214 "The Devil's House"
+{
+	titlepatch = "DK02V13"
+	next = "DK0215"
+	secretnext = "DK0215"
+	sky1 = "DK02SKY2"
+	music = "D_DK0214"
+	intermusic = "D_DK02IN"
+	ExitPic = "DK02INT"
+	EnterPic = "DK02INT"
+}
+
+map DK0215 "Wolfenmatch"
+{
+	titlepatch = "DK02V14"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "DK02SKY2"
+	music = "D_DK0215"
+	intermusic = "D_DK02IN"
+	ExitPic = "DK02INT"
+	EnterPic = "DK02INT"
+}

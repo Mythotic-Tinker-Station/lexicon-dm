@@ -13,6 +13,29 @@ texture ADCV0004 range ADCV0007 tics 8
 // BOURGDM
 texture BOUG0063 range BOUG0066 tics 8
 
+// DK_DM_13
+texture DK130103 range DK130104 tics 8
+texture DK130432 range DK130435 tics 8
+
+// DK_DM_2
+texture DK020109 range DK020110 tics 8
+texture DK020437 range DK020440 tics 8
+texture DK020443 range DK020446 tics 8
+flat DK020001 range DK020004 tics 8
+
+// DK_DM_3F
+texture DK030054 range DK030057 tics 8 allowdecals
+texture DK030115 range DK030118 tics 8
+texture DK030132 range DK030133 tics 8
+texture DK030460 range DK030463 tics 8
+texture DK030510 range DK030512 tics 8 allowdecals
+flat DK030001 range DK030004 tics 8
+flat DK030005 range DK030008 tics 8
+flat DK030009 range DK030012 tics 8
+
+// DK_DM_4
+texture DK040429 range DK040432 tics 8
+
 // FREEDMCE
 texture FDMC0436 range FDMC0439 tics 8
 

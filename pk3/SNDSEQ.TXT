@@ -47,6 +47,94 @@ end
 	playrepeat plats/pt1_mid
 end
 
+// DK_DM_13
+[DK13Door
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:DK13Platform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:DK13Floor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:DK13Ceiling
+	playrepeat plats/pt1_mid
+end
+
+// DK_DM_2
+[DK02Door
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:DK02Platform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:DK02Floor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:DK02Ceiling
+	playrepeat plats/pt1_mid
+end
+
+// DK_DM_3F
+[DK03Door
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:DK03Platform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:DK03Floor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:DK03Ceiling
+	playrepeat plats/pt1_mid
+end
+
+// DK_DM_4
+[DK04Door
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:DK04Platform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:DK04Floor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:DK04Ceiling
+	playrepeat plats/pt1_mid
+end
+
 // FREEDMCE
 [FDMCDoor
 	0 DSDOROPN
@@ -112,6 +200,30 @@ end
 :GDM2Ceiling
 	playrepeat plats/pt1_mid
 end
+
+// GREENWAR
+[GNW1Door
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:GNW1Platform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:GNW1Floor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:GNW1Ceiling
+	playrepeat plats/pt1_mid
+end
+
+
 
 // HOUSES14
 [HOUSDoor

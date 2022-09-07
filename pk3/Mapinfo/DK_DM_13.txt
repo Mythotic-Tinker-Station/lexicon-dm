@@ -1,0 +1,181 @@
+// Doomkid's Deathmatch
+
+map DK1301 "Doomkid's Deathmatch Map 1"
+{
+	titlepatch = "CWILV00"
+	next = "DK1302"
+	secretnext = "DK1302"
+	sky1 = "DK13SKY1"
+	music = "D_DK1301"
+	intermusic = "D_DK13IN"
+	ExitPic = "DK13INT"
+	EnterPic = "DK13INT"
+}
+
+map DK1302 "Doomkid's Deathmatch Map 2"
+{
+	titlepatch = "CWILV01"
+	next = "DK1303"
+	secretnext = "DK1303"
+	sky1 = "DK13SKY1"
+	music = "D_DK1302"
+	intermusic = "D_DK13IN"
+	ExitPic = "DK13INT"
+	EnterPic = "DK13INT"
+}
+
+map DK1303 "Doomkid's Deathmatch Map 3"
+{
+	titlepatch = "CWILV02"
+	next = "DK1304"
+	secretnext = "DK1304"
+	sky1 = "DK13SKY1"
+	music = "D_DK1303"
+	intermusic = "D_DK13IN"
+	ExitPic = "DK13INT"
+	EnterPic = "DK13INT"
+}
+
+map DK1304 "Doomkid's Deathmatch Map 4"
+{
+	titlepatch = "CWILV03"
+	next = "DK1305"
+	secretnext = "DK1305"
+	sky1 = "DK13SKY1"
+	music = "D_DK1304"
+	intermusic = "D_DK13IN"
+	ExitPic = "DK13INT"
+	EnterPic = "DK13INT"
+}
+
+map DK1305 "Doomkid's Deathmatch Map 5"
+{
+	titlepatch = "CWILV04"
+	next = "DK1306"
+	secretnext = "DK1306"
+	sky1 = "DK13SKY1"
+	music = "D_DK1305"
+	intermusic = "D_DK13IN"
+	ExitPic = "DK13INT"
+	EnterPic = "DK13INT"
+}
+
+map DK1306 "Doomkid's Deathmatch Map 6"
+{
+	titlepatch = "CWILV05"
+	next = "DK1307"
+	secretnext = "DK1307"
+	sky1 = "DK13SKY1"
+	music = "D_DK1306"
+	intermusic = "D_DK13IN"
+	ExitPic = "DK13INT"
+	EnterPic = "DK13INT"
+}
+
+map DK1307 "Doomkid's Deathmatch Map 7"
+{
+	titlepatch = "CWILV06"
+	next = "DK1308"
+	secretnext = "DK1308"
+	sky1 = "DK13SKY1"
+	music = "D_DK1307"
+	intermusic = "D_DK13IN"
+	ExitPic = "DK13INT"
+	EnterPic = "DK13INT"
+}
+
+map DK1308 "Doomkid's Deathmatch Map 8"
+{
+	titlepatch = "CWILV07"
+	next = "DK1309"
+	secretnext = "DK1309"
+	sky1 = "DK13SKY1"
+	music = "D_DK1308"
+	intermusic = "D_DK13IN"
+	ExitPic = "DK13INT"
+	EnterPic = "DK13INT"
+}
+
+map DK1309 "Doomkid's Deathmatch Map 9"
+{
+	titlepatch = "CWILV08"
+	next = "DK1310"
+	secretnext = "DK1310"
+	sky1 = "DK13SKY1"
+	music = "D_DK1309"
+	intermusic = "D_DK13IN"
+	ExitPic = "DK13INT"
+	EnterPic = "DK13INT"
+}
+
+map DK1310 "Doomkid's Deathmatch Map 10"
+{
+	titlepatch = "CWILV09"
+	next = "DK1311"
+	secretnext = "DK1311"
+	sky1 = "DK13SKY1"
+	music = "D_DK1310"
+	intermusic = "D_DK13IN"
+	ExitPic = "DK13INT"
+	EnterPic = "DK13INT"
+}
+
+map DK1311 "Doomkid's Deathmatch Map 11"
+{
+	titlepatch = "CWILV10"
+	next = "DK1312"
+	secretnext = "DK1312"
+	sky1 = "DK13SKY1"
+	music = "D_DK1311"
+	intermusic = "D_DK13IN"
+	ExitPic = "DK13INT"
+	EnterPic = "DK13INT"
+}
+
+map DK1312 "Doomkid's Deathmatch Map 12"
+{
+	titlepatch = "CWILV11"
+	next = "DK1313"
+	secretnext = "DK1313"
+	sky1 = "DK13SKY2"
+	music = "D_DK1312"
+	intermusic = "D_DK13IN"
+	ExitPic = "DK13INT"
+	EnterPic = "DK13INT"
+}
+
+map DK1313 "Doomkid's Deathmatch Map 13"
+{
+	titlepatch = "CWILV12"
+	next = "DK1314"
+	secretnext = "DK1314"
+	sky1 = "DK13SKY2"
+	music = "D_DK1313"
+	intermusic = "D_DK13IN"
+	ExitPic = "DK13INT"
+	EnterPic = "DK13INT"
+}
+
+map DK1314 "Doomkid's Deathmatch Map 14"
+{
+	titlepatch = "CWILV13"
+	next = "DK1315"
+	secretnext = "DK1315"
+	sky1 = "DK13SKY2"
+	music = "D_DK1314"
+	intermusic = "D_DK13IN"
+	ExitPic = "DK13INT"
+	EnterPic = "DK13INT"
+}
+
+map DK1315 "Doomkid's Deathmatch Map 15"
+{
+	titlepatch = "CWILV14"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "DK13SKY2"
+	music = "D_DK1315"
+	intermusic = "D_DK13IN"
+	ExitPic = "DK13INT"
+	EnterPic = "DK13INT"
+}

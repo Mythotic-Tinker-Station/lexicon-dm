@@ -1,0 +1,72 @@
+// Visit http://www.geocities.ws/doomkid for more WADs like this!
+//Bugfixed Oct 22nd
+===========================================================================
+Archive Maintainer      : 12 Original maps from scratch!
+Advanced engine needed  : Vanilla Compatible (Except map08 and map12)
+Primary purpose         : Deathmatch
+===========================================================================
+Title                   : Doomkid's Deathmatch 4!  [Quick n' Dirty speedmaps]
+Filename                : dk_dm_4.wad
+Release date            : October 20th 2014 [FIX Oct.22]
+Author                  : Doomkid (Adam Post)
+Email Address           : thedevilzworker@hotmail.com
+Other Files By Author   : zdm_13.wad, zdm_14.wad, dk_dm_3f.wad, dk_dm_13.wad, dk_dm_2.wad, rot90fix.wad, tdevil2.wad, UACrebellion.wad, dmr_2014.wad, DWANGO20.wad, dm_guns.wad, denialsoul.wad, dkplanet.wad
+
+Description             : Hello again DM lovers! Here I have 12 maps I whipped up fairly quickly that are sure to please. Serious matches can be had with 2-4 players, but it goes insane with 8+! I have made the BFG optional, because I know a lot of people don't like it (see: whining). Select Skill 1/2 for Soulsphere, 3 for Invisibility sphere, and 4/5 for the BFG - It's the best option, of course!
+
+I took a different approach with map08 and map12, they both use a more narutal layout. You'll know what I mean when you play them! (Sadly they cause VPOs in vanilla.) There's a secret with the Coke machine in the mall, map07. Originally there was only a Pepsi machine, but Ralphis reminded me that Pepsi sucks - it really does - so I added a Coke machine and moved the secret to it instead!
+
+As always, enjoy the frags! I welcome any feedback/criticism.
+
+Additional Credits to   : Mr.Crispy, the_miano, DevilutioN, Ralphis, Hex, Cato and a bunch of other Doomers for testing. Frag on, brothers. Also, thanks to TheAwesomePanda for some MIDI files!
+
+===========================================================================
+* What is included *
+
+New levels              : Map01 - Map12
+Sounds                  : Yes
+Music                   : Yes
+Graphics                : Yes
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : No
+Other files required    : doom2.wad
+
+
+* Play Information *
+
+Game                    : Doom 2
+Map #                   : 01 - 12
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Designed for
+Other game styles       : LMS, Duel, Deathmatch
+Difficulty Settings     : Yes (BFG is optional)
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : Not very long! (About a month)
+Editor(s) used          : Doom Builder, XWE, GuitarPro5, Midi2Mus,
+                          DoomWriter by VisualVincent
+Known Bugs              : These are bug free thanks to playtesting :)
+                          (Map08 and Map12 cause VPOs)
+May Not Run With...     : Scissors, Leg Braces, Elephants tied to your
+                          ankle.. You know the drill.
+
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for modification or reuse. Same with anything else I've made - Just include this textfile for verification and give me credit for whatever you decide to use. Thank you!
+
+You MAY distribute this file, provided you include this text file, with no
+modifications.  You may distribute this file in any electronic format (BBS! Why is this still in the text template?! No one uses BBS these days!) Diskette, CD, USB drive, trips to Africa, etc) as long as you include this file intact.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.3dgamers.com/pub/idgames/ and mirrors
+Web sites: http://www.geocities.ws/doomkid - The links I provided in the DOOM forums, and
+           hopefully /idgames!
+
+Thanks for downloading DK_DM_4!!

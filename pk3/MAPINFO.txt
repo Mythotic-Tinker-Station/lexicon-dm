@@ -22,10 +22,15 @@ include "Mapinfo/DWANGO!.txt" // DWANGO!.wad
 include "Mapinfo/ADDICTIV.txt" // ADDICTIV.wad
 include "Mapinfo/BOURGDM.txt" // BourgDM_Unity.wad
 include "Mapinfo/DANZIG.txt" // DANZIG1+2; added by meleemario
+include "Mapinfo/DK_DM_13.txt" // DK_DM_13.wad
+include "Mapinfo/DK_DM_2.txt" // DK_DM_2.wad
+include "Mapinfo/DK_DM_3F.txt" // DK_DM_3F.wad
+include "Mapinfo/DK_DM_4.txt" // DK_DM_4.wad
 include "Mapinfo/FINALFRG.txt" // FINALFRG.wad
 include "Mapinfo/FREEDMCE.TXT" // FREEDMCE.wad
 include "Mapinfo/GOTHICDM.txt" // GOTHICDM.wad
 include "Mapinfo/GOTHIC2.txt" // GOTHIC2.wad
+include "Mapinfo/GREENWAR.txt" // GREENWAR.wad
 include "Mapinfo/HOUSES14.txt" // HOUSES14.wad
 include "Mapinfo/IPXMATCH.txt" // IPXMATCH.wad
 include "Mapinfo/PYRRHIC1.txt" // pyrrhic_.wad

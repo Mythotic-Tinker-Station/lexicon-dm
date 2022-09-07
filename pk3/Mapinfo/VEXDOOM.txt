@@ -1,7 +1,7 @@
 // Intrinsic Violence Mapinfo; only the first 10 and the secret maps are 
 // included, since the rest are duplicate maps with different thing placements.
 
-map TVOX01 lookup "Intrinsic Violence Map 1"
+map TVOX01 "Intrinsic Violence Map 1"
 {
 	titlepatch = "CWILV00"
 	next = "TVOX02"
@@ -10,7 +10,7 @@ map TVOX01 lookup "Intrinsic Violence Map 1"
 	music = "D_TVOX01"
 }
 
-map TVOX02 lookup "Intrinsic Violence Map 2"
+map TVOX02 "Intrinsic Violence Map 2"
 {
 	titlepatch = "CWILV01"
 	next = "TVOX03"
@@ -19,7 +19,7 @@ map TVOX02 lookup "Intrinsic Violence Map 2"
 	music = "D_TVOX02"
 }
 
-map TVOX03 lookup "Intrinsic Violence Map 3"
+map TVOX03 "Intrinsic Violence Map 3"
 {
 	titlepatch = "CWILV02"
 	next = "TVOX04"
@@ -28,7 +28,7 @@ map TVOX03 lookup "Intrinsic Violence Map 3"
 	music = "D_TVOX03"
 }
 
-map TVOX04 lookup "Intrinsic Violence Map 4"
+map TVOX04 "Intrinsic Violence Map 4"
 {
 	titlepatch = "CWILV03"
 	next = "TVOX05"
@@ -37,7 +37,7 @@ map TVOX04 lookup "Intrinsic Violence Map 4"
 	music = "D_TVOX04"
 }
 
-map TVOX05 lookup "Intrinsic Violence Map 5"
+map TVOX05 "Intrinsic Violence Map 5"
 {
 	titlepatch = "CWILV04"
 	next = "TVOX06"
@@ -46,7 +46,7 @@ map TVOX05 lookup "Intrinsic Violence Map 5"
 	music = "D_TVOX05"
 }
 
-map TVOX06 lookup "Intrinsic Violence Map 6"
+map TVOX06 "Intrinsic Violence Map 6"
 {
 	titlepatch = "CWILV05"
 	next = "TVOX07"
@@ -55,7 +55,7 @@ map TVOX06 lookup "Intrinsic Violence Map 6"
 	music = "D_TVOX06"
 }
 
-map TVOX07 lookup "Intrinsic Violence Map 7"
+map TVOX07 "Intrinsic Violence Map 7"
 {
 	titlepatch = "CWILV06"
 	next = "TVOX08"
@@ -64,7 +64,7 @@ map TVOX07 lookup "Intrinsic Violence Map 7"
 	music = "D_TVOX07"
 }
 
-map TVOX08 lookup "Intrinsic Violence Map 8"
+map TVOX08 "Intrinsic Violence Map 8"
 {
 	titlepatch = "CWILV07"
 	next = "TVOX09"
@@ -73,7 +73,7 @@ map TVOX08 lookup "Intrinsic Violence Map 8"
 	music = "D_TVOX08"
 }
 
-map TVOX09 lookup "Intrinsic Violence Map 9"
+map TVOX09 "Intrinsic Violence Map 9"
 {
 	titlepatch = "CWILV08"
 	next = "TVOX10"
@@ -82,7 +82,7 @@ map TVOX09 lookup "Intrinsic Violence Map 9"
 	music = "D_TVOX09"
 }
 
-map TVOX10 lookup "Intrinsic Violence Map 10"
+map TVOX10 "Intrinsic Violence Map 10"
 {
 	titlepatch = "CWILV09"
 	next = "TVOX11"
@@ -91,7 +91,7 @@ map TVOX10 lookup "Intrinsic Violence Map 10"
 	music = "D_TVOX10"
 }
 
-map TVOX11 lookup "Intrinsic Violence Map 31"
+map TVOX11 "Intrinsic Violence Map 31"
 {
 	titlepatch = "CWILV30"
 	next = "TVOX12"
@@ -100,7 +100,7 @@ map TVOX11 lookup "Intrinsic Violence Map 31"
 	music = "$MUSIC_EVIL"
 }
 
-map TVOX12 lookup "Intrinsic Violence Map 32"
+map TVOX12 "Intrinsic Violence Map 32"
 {
 	titlepatch = "CWILV31"
 	next = "MAP01"

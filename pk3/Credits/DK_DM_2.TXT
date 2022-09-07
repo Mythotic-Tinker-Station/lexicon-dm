@@ -1,0 +1,67 @@
+//Doomkid's Deathmatch 2\\
+===========================================================================
+Advanced engine needed  : Runs fine in DOS Doom2 / Doom95
+Primary purpose         : Deathmatch
+===========================================================================
+Title                   : Doomkid's Deathmatch 2!
+Filename                : DK_DM_2.wad
+Release date            : 14th of March 2014
+Author                  : DoomKid (Adam P.)
+Email Address           : thedevilzworker@hotmail.com
+Other Files By Author   : Doomkid's Deathmatch!, The Devilz Work, Zmatch 2014 & 2013, UAC Rebellion, Revenge of the 90's, Deathmatch Revival, and more.
+
+Description		: Hello again fellow Doomers. Here I have 15 more deathmatch maps for you all to enjoy, as usual! I think people who are familiar with my deathmatch stuff will find these to be above my previous par - I spent more time than usual working on tactical layouts and clean visuals, while keeping the maps fairly simple/accessable to any player of any skill level. Some of these are remakes of older maps of mine, but revamped for a deathmatch. If you're familiar with them you'll have an advantage when you play online. Each map is full of secrets so wall humping anything that may look out of place is always a good idea. Map10 has a -ton- of secret areas and walls that can be walked through, and the layout of the map changes a lot if all the switches are found, turning it from a tactical map with hiding spots into a totally level playing feild. I hope you all enjoy these, I had a lot of fun making them and testing them with other doomers!
+
+//I'd also like to announce another project I'm working on, called DWANGO20.WAD in celebration of the popular gaming service's 20th anniversary approaching. What I've done is collected 30 of the best DM maps from /idgames made between 1994-1998 (the lifespan of DWANGO) and compiled them into one big mapset in that old DWANGO tradition. Of course, all of these maps give permission for reuse, and I'll include all accompanying .txt files. I was surprised by the quality of each of these maps, and the attention to strategy paid by the authors. Very stand-out stuff from the old days, the cream of the 90's DM crop. The 20th anniversary is Dec. 11 2014, and that's the planned release date. Stay tuned :)
+
+Credits			: Insert Credits
+
+===========================================================================
+* What is included *
+
+New levels              : 15 new DM maps.
+Sounds                  : Yes
+Music                   : Yes
+Graphics                : Very few
+Dehacked/BEX Patch      : No
+Demos                   : No, please record some!
+Other                   : No
+Other files required    : Nothing but DOOM2
+
+
+* Play Information *
+
+Game                    : Doom2
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : YES!
+Other game styles       : None
+Difficulty Settings     : Not Implemented
+
+
+* Construction *
+
+Base                    : All Your Base
+
+Build Time		: 69,420,641 seconds
+
+Editors Used		: Doom Builder 1, XWE, Guitar Pro 5, Midi2Mus
+
+
+* Copyright / Permissions *
+
+You MAY use these levels as a base for modification provided you give credit where it's due.
+The same applies for any older files by Doomkid - Just include this text file for clarification.
+
+You MAY distribute this file, provided you include this text file, with no
+modifications.  You may distribute this file in any electronic format (BBS,
+Diskette, CD, etc) as long as you include this file intact.  I have
+received permission from the original authors of any modified or included
+content in this file to allow further distribution.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.3dgamers.com/pub/idgames/ and mirrors
+
+=======================================
+Thanks for downloading!!
