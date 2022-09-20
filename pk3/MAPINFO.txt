@@ -27,6 +27,7 @@ include "Mapinfo/DK_DM_13.txt" // DK_DM_13.wad
 include "Mapinfo/DK_DM_2.txt" // DK_DM_2.wad
 include "Mapinfo/DK_DM_3F.txt" // DK_DM_3F.wad
 include "Mapinfo/DK_DM_4.txt" // DK_DM_4.wad
+include "Mapinfo/EDM.txt" // EDM.wad
 include "Mapinfo/FINALFRG.txt" // FINALFRG.wad
 include "Mapinfo/FREEDMCE.TXT" // FREEDMCE.wad
 include "Mapinfo/GOTHICDM.txt" // GOTHICDM.wad
@@ -38,5 +39,8 @@ include "Mapinfo/PYRRHIC1.txt" // pyrrhic_.wad
 include "Mapinfo/PYRRHIC2.txt" // pyrrhic2.wad
 include "Mapinfo/SYNJ9408.txt" // SYNJ9408.wad
 include "Mapinfo/TOKEDM.txt" // TokeDM.wad
+include "Mapinfo/TNTBLOOD.txt" // TNTBLOOD.wad
+include "Mapinfo/TNTGRVNC.txt" // TNTGRVNC.wad
+include "Mapinfo/TNTPURST.txt" // TNTPURST.wad
 include "Mapinfo/TWANGO1.txt" // TWANGO1.wad
 include "Mapinfo/VEXDOOM.txt" // vex-doom.wad

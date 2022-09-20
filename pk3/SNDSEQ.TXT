@@ -135,6 +135,28 @@ end
 	playrepeat plats/pt1_mid
 end
 
+// EDM
+[TNT4Door
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:TNT4Platform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:TNT4Floor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:TNT4Ceiling
+	playrepeat plats/pt1_mid
+end
+
 // FREEDMCE
 [FDMCDoor
 	0 DSDOROPN
@@ -223,8 +245,6 @@ end
 	playrepeat plats/pt1_mid
 end
 
-
-
 // HOUSES14
 [HOUSDoor
 	0 DSDOROPN
@@ -246,7 +266,6 @@ end
 :HOUSCeiling
 	playrepeat plats/pt1_mid
 end
-
 
 // TOKEDM
 [TOKEDoor
@@ -270,6 +289,71 @@ end
 	playrepeat plats/pt1_mid
 end
 
+// TNTBLOOD
+[TNT1Door
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:TNT1Platform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:TNT1Floor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:TNT1Ceiling
+	playrepeat plats/pt1_mid
+end
+
+// TNTGRVNC
+[TNT2Door
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:TNT2Platform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:TNT2Floor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:TNT2Ceiling
+	playrepeat plats/pt1_mid
+end
+
+// TNTPURST
+[TNT3Door
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:TNT3Platform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:TNT3Floor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:TNT3Ceiling
+	playrepeat plats/pt1_mid
+end
 
 // TWANGO1
 [TWN1Door
@@ -292,7 +376,6 @@ end
 :TWN1Ceiling
 	playrepeat plats/pt1_mid
 end
-
 
 // VEXDOOM
 [TVOXDoor

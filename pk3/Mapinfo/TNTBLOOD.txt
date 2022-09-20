@@ -1,0 +1,385 @@
+// Bloodlands Mapinfo
+
+map TNT101 "Sandcastle"
+{
+	titlepatch = "TNT1V00"
+	next = "TNT102"
+	secretnext = "TNT102"
+	sky1 = "TNT1SKY1"
+	music = "$MUSIC_RUNNIN"
+	intermusic = "D_TNT1IN"
+	ExitPic = "TNT1INT"
+	EnterPic = "TNT1INT"
+}
+
+map TNT102 "Sudden Death"
+{
+	titlepatch = "TNT1V01"
+	next = "TNT103"
+	secretnext = "TNT103"
+	sky1 = "TNT1SKY1"
+	music = "$MUSIC_STALKS"
+	intermusic = "D_TNT1IN"
+	ExitPic = "TNT1INT"
+	EnterPic = "TNT1INT"
+}
+
+map TNT103 "Desparado"
+{
+	titlepatch = "TNT1V02"
+	next = "TNT104"
+	secretnext = "TNT104"
+	sky1 = "TNT1SKY1"
+	music = "$MUSIC_COUNTD"
+	intermusic = "D_TNT1IN"
+	ExitPic = "TNT1INT"
+	EnterPic = "TNT1INT"
+}
+
+map TNT104 "Bastion"
+{
+	titlepatch = "TNT1V03"
+	next = "TNT105"
+	secretnext = "TNT105"
+	sky1 = "TNT1SKY1"
+	music = "$MUSIC_BETWEE"
+	intermusic = "D_TNT1IN"
+	ExitPic = "TNT1INT"
+	EnterPic = "TNT1INT"
+}
+
+map TNT105 "Crossfire"
+{
+	titlepatch = "TNT1V04"
+	next = "TNT106"
+	secretnext = "TNT106"
+	sky1 = "TNT1SKY1"
+	music = "$MUSIC_DOOM"
+	intermusic = "D_TNT1IN"
+	ExitPic = "TNT1INT"
+	EnterPic = "TNT1INT"
+}
+
+map TNT106 "Exposure"
+{
+	titlepatch = "TNT1V05"
+	next = "TNT107"
+	secretnext = "TNT107"
+	sky1 = "TNT1SKY1"
+	music = "$MUSIC_THE_DA"
+	intermusic = "D_TNT1IN"
+	ExitPic = "TNT1INT"
+	EnterPic = "TNT1INT"
+}
+
+map TNT107 "Bolofest"
+{
+	titlepatch = "TNT1V06"
+	next = "TNT108"
+	secretnext = "TNT108"
+	sky1 = "TNT1SKY1"
+	music = "$MUSIC_SHAWN"
+	intermusic = "D_TNT1IN"
+	ExitPic = "TNT1INT"
+	EnterPic = "TNT1INT"
+}
+
+map TNT108 "Storage Substation #6"
+{
+	titlepatch = "TNT1V07"
+	next = "TNT109"
+	secretnext = "TNT109"
+	sky1 = "TNT1SKY1"
+	music = "$MUSIC_DDTBLU"
+	intermusic = "D_TNT1IN"
+	ExitPic = "TNT1INT"
+	EnterPic = "TNT1INT"
+}
+
+map TNT109 "No Excuse"
+{
+	titlepatch = "TNT1V08"
+	next = "TNT110"
+	secretnext = "TNT110"
+	sky1 = "TNT1SKY1"
+	music = "$MUSIC_IN_CIT"
+	intermusic = "D_TNT1IN"
+	ExitPic = "TNT1INT"
+	EnterPic = "TNT1INT"
+}
+
+map TNT110 "Concertina"
+{
+	titlepatch = "TNT1V09"
+	next = "TNT111"
+	secretnext = "TNT111"
+	sky1 = "TNT1SKY1"
+	music = "$MUSIC_DEAD"
+	intermusic = "D_TNT1IN"
+	ExitPic = "TNT1INT"
+	EnterPic = "TNT1INT"
+}
+
+map TNT111 "Barnburner"
+{
+	titlepatch = "TNT1V10"
+	next = "TNT112"
+	secretnext = "TNT112"
+	sky1 = "TNT1SKY1"
+	music = "$MUSIC_STLKS2"
+	intermusic = "D_TNT1IN"
+	ExitPic = "TNT1INT"
+	EnterPic = "TNT1INT"
+}
+
+map TNT112 "Piazza di Morte"
+{
+	titlepatch = "TNT1V11"
+	next = "TNT113"
+	secretnext = "TNT113"
+	sky1 = "TNT1SKY2"
+	music = "$MUSIC_THEDA2"
+	intermusic = "D_TNT1IN"
+	ExitPic = "TNT1INT"
+	EnterPic = "TNT1INT"
+}
+
+map TNT113 "Iron Cross"
+{
+	titlepatch = "TNT1V12"
+	next = "TNT114"
+	secretnext = "TNT114"
+	sky1 = "TNT1SKY2"
+	music = "$MUSIC_DOOM2"
+	intermusic = "D_TNT1IN"
+	ExitPic = "TNT1INT"
+	EnterPic = "TNT1INT"
+}
+
+map TNT114 "Cry Havoc"
+{
+	titlepatch = "TNT1V13"
+	next = "TNT115"
+	secretnext = "TNT115"
+	sky1 = "TNT1SKY2"
+	music = "$MUSIC_DDTBL2"
+	intermusic = "D_TNT1IN"
+	ExitPic = "TNT1INT"
+	EnterPic = "TNT1INT"
+}
+
+map TNT115 "Blood Ridge"
+{
+	titlepatch = "TNT1V14"
+	next = "TNT116"
+	secretnext = "TNT131"
+	sky1 = "TNT1SKY2"
+	music = "$MUSIC_RUNNI2"
+	intermusic = "D_TNT1IN"
+	ExitPic = "TNT1INT"
+	EnterPic = "TNT1INT"
+}
+
+map TNT116 "Ritual Misery"
+{
+	titlepatch = "TNT1V15"
+	next = "TNT117"
+	secretnext = "TNT117"
+	sky1 = "TNT1SKY2"
+	music = "$MUSIC_DEAD2"
+	intermusic = "D_TNT1IN"
+	ExitPic = "TNT1INT"
+	EnterPic = "TNT1INT"
+}
+
+map TNT117 "Termination Grounds"
+{
+	titlepatch = "TNT1V16"
+	next = "TNT118"
+	secretnext = "TNT118"
+	sky1 = "TNT1SKY2"
+	music = "$MUSIC_STLKS3"
+	intermusic = "D_TNT1IN"
+	ExitPic = "TNT1INT"
+	EnterPic = "TNT1INT"
+}
+
+map TNT118 "Abusive Maneuvers"
+{
+	titlepatch = "TNT1V17"
+	next = "TNT119"
+	secretnext = "TNT119"
+	sky1 = "TNT1SKY2"
+	music = "$MUSIC_ROMERO"
+	intermusic = "D_TNT1IN"
+	ExitPic = "TNT1INT"
+	EnterPic = "TNT1INT"
+}
+
+map TNT119 "A Sewer Runs Through It"
+{
+	titlepatch = "TNT1V18"
+	next = "TNT120"
+	secretnext = "TNT120"
+	sky1 = "TNT1SKY2"
+	music = "$MUSIC_SHAWN2"
+	intermusic = "D_TNT1IN"
+	ExitPic = "TNT1INT"
+	EnterPic = "TNT1INT"
+}
+
+map TNT120 "Exopy"
+{
+	titlepatch = "TNT1V19"
+	next = "TNT121"
+	secretnext = "TNT121"
+	sky1 = "TNT1SKY2"
+	music = "$MUSIC_MESSAG"
+	intermusic = "D_TNT1IN"
+	ExitPic = "TNT1INT"
+	EnterPic = "TNT1INT"
+}
+
+map TNT121 "The Helix"
+{
+	titlepatch = "TNT1V20"
+	next = "TNT122"
+	secretnext = "TNT122"
+	sky1 = "TNT1SKY3"
+	music = "$MUSIC_COUNT2"
+	intermusic = "D_TNT1IN"
+	ExitPic = "TNT1INT"
+	EnterPic = "TNT1INT"
+}
+
+map TNT122 "A Time to Die"
+{
+	titlepatch = "TNT1V21"
+	next = "TNT123"
+	secretnext = "TNT123"
+	sky1 = "TNT1SKY3"
+	music = "$MUSIC_DDTBL3"
+	intermusic = "D_TNT1IN"
+	ExitPic = "TNT1INT"
+	EnterPic = "TNT1INT"
+}
+
+map TNT123 "Fiesta"
+{
+	titlepatch = "TNT1V22"
+	next = "TNT124"
+	secretnext = "TNT124"
+	sky1 = "TNT1SKY3"
+	music = "$MUSIC_AMPIE"
+	intermusic = "D_TNT1IN"
+	ExitPic = "TNT1INT"
+	EnterPic = "TNT1INT"
+}
+
+map TNT124 "Inuit"
+{
+	titlepatch = "TNT1V23"
+	next = "TNT125"
+	secretnext = "TNT125"
+	sky1 = "TNT1SKY3"
+	music = "$MUSIC_THEDA3"
+	intermusic = "D_TNT1IN"
+	ExitPic = "TNT1INT"
+	EnterPic = "TNT1INT"
+}
+
+map TNT125 "Mr. Rogers' Neighborhood"
+{
+	titlepatch = "TNT1V24"
+	next = "TNT126"
+	secretnext = "TNT126"
+	sky1 = "TNT1SKY3"
+	music = "$MUSIC_ADRIAN"
+	intermusic = "D_TNT1IN"
+	ExitPic = "TNT1INT"
+	EnterPic = "TNT1INT"
+}
+
+map TNT126 "Masada"
+{
+	titlepatch = "TNT1V25"
+	next = "TNT127"
+	secretnext = "TNT127"
+	sky1 = "TNT1SKY3"
+	music = "$MUSIC_MESSG2"
+	intermusic = "D_TNT1IN"
+	ExitPic = "TNT1INT"
+	EnterPic = "TNT1INT"
+}
+
+map TNT127 "P'gon Load"
+{
+	titlepatch = "TNT1V26"
+	next = "TNT128"
+	secretnext = "TNT128"
+	sky1 = "TNT1SKY3"
+	music = "$MUSIC_ROMER2"
+	intermusic = "D_TNT1IN"
+	ExitPic = "TNT1INT"
+	EnterPic = "TNT1INT"
+}
+
+map TNT128 "Tunnel"
+{
+	titlepatch = "TNT1V27"
+	next = "TNT129"
+	secretnext = "TNT129"
+	sky1 = "TNT1SKY3"
+	music = "$MUSIC_TENSE"
+	intermusic = "D_TNT1IN"
+	ExitPic = "TNT1INT"
+	EnterPic = "TNT1INT"
+}
+
+map TNT129 "Bannockburn"
+{
+	titlepatch = "TNT1V28"
+	next = "TNT130"
+	secretnext = "TNT130"
+	sky1 = "TNT1SKY3"
+	music = "$MUSIC_SHAWN3"
+	intermusic = "D_TNT1IN"
+	ExitPic = "TNT1INT"
+	EnterPic = "TNT1INT"
+}
+
+map TNT130 "Elements"
+{
+	titlepatch = "TNT1V29"
+	next = "TNT131"
+	secretnext = "TNT131"
+	sky1 = "TNT1SKY3"
+	music = "$MUSIC_OPENIN"
+	intermusic = "D_TNT1IN"
+	ExitPic = "TNT1INT"
+	EnterPic = "TNT1INT"
+}
+
+map TNT131 "Olympic Stairway"
+{
+	titlepatch = "TNT1V30"
+	next = "TNT132"
+	secretnext = "TNT132"
+	sky1 = "TNT1SKY3"
+	music = "$MUSIC_EVIL"
+	intermusic = "D_TNT1IN"
+	ExitPic = "TNT1INT"
+	EnterPic = "TNT1INT"
+}
+
+map TNT132 "Cold Warage"
+{
+	titlepatch = "TNT1V31"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "TNT1SKY3"
+	music = "$MUSIC_ULTIMA"
+	intermusic = "D_TNT1IN"
+	ExitPic = "TNT1INT"
+	EnterPic = "TNT1INT"
+}

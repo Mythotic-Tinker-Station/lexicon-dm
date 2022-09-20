@@ -39,6 +39,16 @@ flat DK030009 range DK030012 tics 8
 // DK_DM_4
 texture DK040429 range DK040432 tics 8
 
+// EDM
+texture TNT40281 range TNT40284 tics 8
+texture TNT40318 range TNT40320 tics 8 allowdecals
+flat TNT40117 range TNT40120 tics 8
+flat TNT40121 range TNT40124 tics 8
+flat TNT40137 range TNT40139 tics 8
+flat TNT40166 range TNT40169 tics 8
+flat TNT40182 range TNT40185 tics 8
+flat TNT40190 range TNT40193 tics 8
+
 // FREEDMCE
 texture FDMC0436 range FDMC0439 tics 8
 
@@ -52,6 +62,16 @@ texture GDM20342 range GDM20345 tics 8 allowdecals
 texture GDM20403 range GDM20406 tics 8
 texture GDM20425 range GDM20427 tics 8
 flat GDM20010 range GDM20013 tics 8
+
+// TNTBLOOD
+texture TNT10454 range TNT10457 tics 8
+
+// TNTGRVNC
+texture TNT20454 range TNT20457 tics 8
+
+// TNTPURST
+texture TNT30090 range TNT30093 tics 8 allowdecals
+texture TNT30453 range TNT30456 tics 8
 
 // TWANGO1
 texture TWN10189 range TWN10192 tics 8
@@ -76,6 +96,13 @@ switch doom DWANB014 on pic DWANB025 tics 0
 switch doom DWANB015 on pic DWANB026 tics 0
 
 // Vanilla Maps
+// EDM
+switch TNT40481 on pic TNT40521 tics 0
+switch TNT40488 on pic TNT40528 tics 0
+switch TNT40505 on pic TNT40545 tics 0
+switch TNT40513 on pic TNT40553 tics 0
+switch TNT40518 on pic TNT40558 tics 0
+
 // GOTHICDM1
 switch GDM10468 on pic GDM10508 tics 0
 
@@ -96,6 +123,15 @@ switch doom IPXMT001 on pic IPXMT005 tics 0
 switch doom IPXMT002 on pic IPXMT006 tics 0
 switch doom IPXMT003 on pic IPXMT007 tics 0
 switch doom IPXMT004 on pic IPXMT008 tics 0
+
+// TNTBLOOD
+switch TNT10292 on pic TNT10332 tics 0
+
+// TNTGRVNC
+switch TNT20292 on pic TNT20332 tics 0
+
+// TNTPURST
+switch TNT30363 on pic TNT30403 tics 0
 
 // Boom Maps
 
