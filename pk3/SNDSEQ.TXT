@@ -2,6 +2,28 @@
 // will have to have their sound sequences defined individually for each
 // wad that the tool extracts.
 
+// DWANGO Collection
+[DW20Door
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:DW20Platform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:DW20Floor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:DW20Ceiling
+	playrepeat plats/pt1_mid
+end
+
 // Vanilla Maps
 // ADDICTIV
 [ADCVDoor
@@ -398,7 +420,6 @@ end
 :TVOXCeiling
 	playrepeat plats/pt1_mid
 end
-
 
 // Boom Maps
 

@@ -17,6 +17,7 @@ include "Mapinfo/OZWANGO.txt" // OZWANGO.wad
 include "Mapinfo/DWANGOX.txt" // DWANGOX.wad
 include "Mapinfo/1DWANGO.txt" // #1DWANGO.wad
 include "Mapinfo/DWANGO!.txt" // DWANGO!.wad
+include "Mapinfo/DWANGO20.txt" // DWANGO20.wad
 
 // Vanilla Maps
 include "Mapinfo/ADDICTIV.txt" // ADDICTIV.wad
