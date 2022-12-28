@@ -47,6 +47,50 @@ end
 	playrepeat plats/pt1_mid
 end
 
+// BIGGER32
+[BG32Door
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:BG32Platform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:BG32Floor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:BG32Ceiling
+	playrepeat plats/pt1_mid
+end
+
+// BJAY_32
+[BJF3Door
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:BJF3Platform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:BJF3Floor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:BJF3Ceiling
+	playrepeat plats/pt1_mid
+end
+
 // BOURGDM
 [BOUGDoor
 	0 DSDOROPN
@@ -286,6 +330,28 @@ end
 end
 
 :HOUSCeiling
+	playrepeat plats/pt1_mid
+end
+
+// OVERLOAD
+[OVLDDoor
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:OVLDPlatform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:OVLDFloor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:OVLDCeiling
 	playrepeat plats/pt1_mid
 end
 

@@ -21,6 +21,8 @@ include "Mapinfo/DWANGO20.txt" // DWANGO20.wad
 
 // Vanilla Maps
 include "Mapinfo/ADDICTIV.txt" // ADDICTIV.wad
+include "Mapinfo/BIGGER32.txt" // BIGGER32.wad
+include "Mapinfo/BJAY_F3.txt" // BJAY_F3.wad
 include "Mapinfo/BLUDBATH.txt" // BLUDBATH.wad
 include "Mapinfo/BOURGDM.txt" // BourgDM_Unity.wad
 include "Mapinfo/DANZIG.txt" // DANZIG1+2; added by meleemario
@@ -36,6 +38,7 @@ include "Mapinfo/GOTHIC2.txt" // GOTHIC2.wad
 include "Mapinfo/GREENWAR.txt" // GREENWAR.wad
 include "Mapinfo/HOUSES14.txt" // HOUSES14.wad
 include "Mapinfo/IPXMATCH.txt" // IPXMATCH.wad
+include "Mapinfo/OVERLOAD.txt" // OVERLOAD.wad
 include "Mapinfo/PYRRHIC1.txt" // pyrrhic_.wad
 include "Mapinfo/PYRRHIC2.txt" // pyrrhic2.wad
 include "Mapinfo/SYNJ9408.txt" // SYNJ9408.wad

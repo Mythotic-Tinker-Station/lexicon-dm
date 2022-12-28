@@ -1,0 +1,193 @@
+// Overload Deathmatches
+
+map OVLD01 "Fragtastic"
+{
+	titlepatch = "OVLDV00"
+	next = "OVLD02"
+	secretnext = "OVLD02"
+	sky1 = "OVLDSKY"
+	music = "D_OVLD01"
+	intermusic = "D_OVLDIN"
+	ExitPic = "OVLDINT"
+	EnterPic = "OVLDINT"
+}
+
+map OVLD02 "Deja Vu"
+{
+	titlepatch = "OVLDV01"
+	next = "OVLD03"
+	secretnext = "OVLD03"
+	sky1 = "OVLDSKY"
+	music = "D_OVLD02"
+	intermusic = "D_OVLDIN"
+	ExitPic = "OVLDINT"
+	EnterPic = "OVLDINT"
+}
+
+map OVLD03 "Close Quakecounters"
+{
+	titlepatch = "OVLDV02"
+	next = "OVLD04"
+	secretnext = "OVLD04"
+	sky1 = "OVLDSKY"
+	music = "$MUSIC_COUNTD"
+	intermusic = "D_OVLDIN"
+	ExitPic = "OVLDINT"
+	EnterPic = "OVLDINT"
+}
+
+map OVLD04 "Threesome"
+{
+	titlepatch = "OVLDV03"
+	next = "OVLD05"
+	secretnext = "OVLD05"
+	sky1 = "OVLDSKY"
+	music = "$MUSIC_BETWEE"
+	intermusic = "D_OVLDIN"
+	ExitPic = "OVLDINT"
+	EnterPic = "OVLDINT"
+}
+
+map OVLD05 "Fort Fury"
+{
+	titlepatch = "OVLDV04"
+	next = "OVLD06"
+	secretnext = "OVLD06"
+	sky1 = "OVLDSKY"
+	music = "$MUSIC_DOOM"
+	intermusic = "D_OVLDIN"
+	ExitPic = "OVLDINT"
+	EnterPic = "OVLDINT"
+}
+
+map OVLD06 "Satan's Circus"
+{
+	titlepatch = "OVLDV05"
+	next = "OVLD07"
+	secretnext = "OVLD07"
+	sky1 = "OVLDSKY"
+	music = "D_OVLD06"
+	intermusic = "D_OVLDIN"
+	ExitPic = "OVLDINT"
+	EnterPic = "OVLDINT"
+}
+
+map OVLD07 "Frag-isle"
+{
+	titlepatch = "OVLDV06"
+	next = "OVLD08"
+	secretnext = "OVLD08"
+	sky1 = "OVLDSKY"
+	music = "$MUSIC_SHAWN"
+	intermusic = "D_OVLDIN"
+	ExitPic = "OVLDINT"
+	EnterPic = "OVLDINT"
+}
+
+map OVLD08 "Panic is my Name"
+{
+	titlepatch = "OVLDV07"
+	next = "OVLD09"
+	secretnext = "OVLD09"
+	sky1 = "OVLDSKY"
+	music = "D_OVLD08"
+	intermusic = "D_OVLDIN"
+	ExitPic = "OVLDINT"
+	EnterPic = "OVLDINT"
+}
+
+map OVLD09 "Satan's Sewers"
+{
+	titlepatch = "OVLDV08"
+	next = "OVLD10"
+	secretnext = "OVLD10"
+	sky1 = "OVLDSKY"
+	music = "$MUSIC_IN_CIT"
+	intermusic = "D_OVLDIN"
+	ExitPic = "OVLDINT"
+	EnterPic = "OVLDINT"
+}
+
+map OVLD10 "Ruins of Valhalla"
+{
+	titlepatch = "OVLDV09"
+	next = "OVLD11"
+	secretnext = "OVLD11"
+	sky1 = "OVLDSKY"
+	music = "$MUSIC_DEAD"
+	intermusic = "D_OVLDIN"
+	ExitPic = "OVLDINT"
+	EnterPic = "OVLDINT"
+}
+
+map OVLD11 "Paranoia"
+{
+	titlepatch = "OVLDV10"
+	next = "OVLD12"
+	secretnext = "OVLD12"
+	sky1 = "OVLDSKY"
+	music = "D_OVLD11"
+	intermusic = "D_OVLDIN"
+	ExitPic = "OVLDINT"
+	EnterPic = "OVLDINT"
+}
+
+map OVLD12 "LLAWEHTNIELOH"
+{
+	titlepatch = "OVLDV11"
+	next = "OVLD13"
+	secretnext = "OVLD13"
+	sky1 = "OVLDSKY"
+	music = "D_OVLD12"
+	intermusic = "D_OVLDIN"
+	ExitPic = "OVLDINT"
+	EnterPic = "OVLDINT"
+}
+
+map OVLD13 "Screaming Fury"
+{
+	titlepatch = "OVLDV12"
+	next = "OVLD14"
+	secretnext = "OVLD14"
+	sky1 = "OVLDSKY"
+	music = "D_OVLD13"
+	intermusic = "D_OVLDIN"
+	ExitPic = "OVLDINT"
+	EnterPic = "OVLDINT"
+}
+
+map OVLD14 "Frag-mentation"
+{
+	titlepatch = "OVLDV13"
+	next = "OVLD15"
+	secretnext = "OVLD15"
+	sky1 = "OVLDSKY"
+	music = "D_OVLD14"
+	intermusic = "D_OVLDIN"
+	ExitPic = "OVLDINT"
+	EnterPic = "OVLDINT"
+}
+
+map OVLD15 "High Fragquency"
+{
+	titlepatch = "OVLDV14"
+	next = "OVLD16"
+	secretnext = "OVLD16"
+	sky1 = "OVLDSKY"
+	music = "D_OVLD15"
+	intermusic = "D_OVLDIN"
+	ExitPic = "OVLDINT"
+	EnterPic = "OVLDINT"
+}
+
+map OVLD16 "Fragmageddon"
+{
+	titlepatch = "OVLDV15"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "OVLDSKY"
+	music = "$MUSIC_ULTIMA"
+	intermusic = "D_OVLDIN"
+	ExitPic = "OVLDINT"
+	EnterPic = "OVLDINT"
+}

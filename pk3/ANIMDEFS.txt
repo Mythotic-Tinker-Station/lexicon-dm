@@ -62,6 +62,10 @@ texture GDM20403 range GDM20406 tics 8
 texture GDM20425 range GDM20427 tics 8
 flat GDM20010 range GDM20013 tics 8
 
+// OVERLOAD
+texture OVLD0239 range OVLD0242 tics 8
+texture OVLD0416 range OVLD0419 tics 8
+
 // TNTBLOOD
 texture TNT10454 range TNT10457 tics 8
 
