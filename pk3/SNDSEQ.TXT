@@ -201,6 +201,28 @@ end
 	playrepeat plats/pt1_mid
 end
 
+// EXEC
+[EXDMDoor
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:EXDMPlatform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:EXDMFloor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:EXDMCeiling
+	playrepeat plats/pt1_mid
+end
+
 // EDM
 [TNT4Door
 	0 DSDOROPN

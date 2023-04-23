@@ -1,0 +1,217 @@
+// Execution Deathmatch
+
+map EXDM01 "Hysteria"
+{
+	titlepatch = "EXDMV00"
+	next = "EXDM02"
+	secretnext = "EXDM02"
+	sky1 = "EXDMSKY1"
+	music = "D_EXDM01"
+	intermusic = "D_EXDMIN"
+	ExitPic = "EXDMINT"
+	EnterPic = "EXDMINT"
+}
+
+map EXDM02 "Death 2 All"
+{
+	titlepatch = "EXDMV01"
+	next = "EXDM03"
+	secretnext = "EXDM03"
+	sky1 = "EXDMSKY1"
+	music = "D_EXDM02"
+	intermusic = "D_EXDMIN"
+	ExitPic = "EXDMINT"
+	EnterPic = "EXDMINT"
+}
+
+map EXDM03 "Day 4 Death"
+{
+	titlepatch = "EXDMV02"
+	next = "EXDM04"
+	secretnext = "EXDM04"
+	sky1 = "EXDMSKY1"
+	music = "D_EXDM03"
+	intermusic = "D_EXDMIN"
+	ExitPic = "EXDMINT"
+	EnterPic = "EXDMINT"
+}
+
+map EXDM04 "Caged"
+{
+	titlepatch = "EXDMV03"
+	next = "EXDM05"
+	secretnext = "EXDM05"
+	sky1 = "EXDMSKY1"
+	music = "D_EXDM04"
+	intermusic = "D_EXDMIN"
+	ExitPic = "EXDMINT"
+	EnterPic = "EXDMINT"
+}
+
+map EXDM05 "Destroyer"
+{
+	titlepatch = "EXDMV04"
+	next = "EXDM06"
+	secretnext = "EXDM06"
+	sky1 = "EXDMSKY1"
+	music = "D_EXDM05"
+	intermusic = "D_EXDMIN"
+	ExitPic = "EXDMINT"
+	EnterPic = "EXDMINT"
+}
+
+map EXDM06 "Pain 4 All"
+{
+	titlepatch = "EXDMV05"
+	next = "EXDM07"
+	secretnext = "EXDM07"
+	sky1 = "EXDMSKY1"
+	music = "D_EXDM06"
+	intermusic = "D_EXDMIN"
+	ExitPic = "EXDMINT"
+	EnterPic = "EXDMINT"
+}
+
+map EXDM07 "Abbatoir Re-Dux"
+{
+	titlepatch = "EXDMV06"
+	next = "EXDM08"
+	secretnext = "EXDM08"
+	sky1 = "EXDMSKY1"
+	music = "D_EXDM07"
+	intermusic = "D_EXDMIN"
+	ExitPic = "EXDMINT"
+	EnterPic = "EXDMINT"
+}
+
+map EXDM08 "Plague"
+{
+	titlepatch = "EXDMV07"
+	next = "EXDM09"
+	secretnext = "EXDM09"
+	sky1 = "EXDMSKY1"
+	music = "D_EXDM08"
+	intermusic = "D_EXDMIN"
+	ExitPic = "EXDMINT"
+	EnterPic = "EXDMINT"
+}
+
+map EXDM09 "Vengeance"
+{
+	titlepatch = "EXDMV08"
+	next = "EXDM10"
+	secretnext = "EXDM10"
+	sky1 = "EXDMSKY1"
+	music = "D_EXDM09"
+	intermusic = "D_EXDMIN"
+	ExitPic = "EXDMINT"
+	EnterPic = "EXDMINT"
+}
+
+map EXDM10 "Rage Within"
+{
+	titlepatch = "EXDMV09"
+	next = "EXDM11"
+	secretnext = "EXDM11"
+	sky1 = "EXDMSKY1"
+	music = "D_EXDM10"
+	intermusic = "D_EXDMIN"
+	ExitPic = "EXDMINT"
+	EnterPic = "EXDMINT"
+}
+
+map EXDM11 "Nihilist"
+{
+	titlepatch = "EXDMV10"
+	next = "EXDM12"
+	secretnext = "EXDM12"
+	sky1 = "EXDMSKY1"
+	music = "D_EXDM11"
+	intermusic = "D_EXDMIN"
+	ExitPic = "EXDMINT"
+	EnterPic = "EXDMINT"
+}
+
+map EXDM12 "Time to Kill 2000"
+{
+	titlepatch = "EXDMV11"
+	next = "EXDM13"
+	secretnext = "EXDM13"
+	sky1 = "EXDMSKY2"
+	music = "D_EXDM12"
+	intermusic = "D_EXDMIN"
+	ExitPic = "EXDMINT"
+	EnterPic = "EXDMINT"
+}
+
+map EXDM13 "Dead Set"
+{
+	titlepatch = "EXDMV12"
+	next = "EXDM14"
+	secretnext = "EXDM14"
+	sky1 = "EXDMSKY2"
+	music = "D_EXDM13"
+	intermusic = "D_EXDMIN"
+	ExitPic = "EXDMINT"
+	EnterPic = "EXDMINT"
+}
+
+map EXDM14 "Fast Frag Re-Dux: First Blood"
+{
+	titlepatch = "EXDMV13"
+	next = "EXDM15"
+	secretnext = "EXDM15"
+	sky1 = "EXDMSKY2"
+	music = "D_EXDM14"
+	intermusic = "D_EXDMIN"
+	ExitPic = "EXDMINT"
+	EnterPic = "EXDMINT"
+}
+
+map EXDM15 "Fast Frag Re-Dux: Second Blood"
+{
+	titlepatch = "EXDMV14"
+	next = "EXDM16"
+	secretnext = "EXDM16"
+	sky1 = "EXDMSKY2"
+	music = "D_EXDM15"
+	intermusic = "D_EXDMIN"
+	ExitPic = "EXDMINT"
+	EnterPic = "EXDMINT"
+}
+
+map EXDM16 "Scatter"
+{
+	titlepatch = "EXDMV15"
+	next = "EXDM17"
+	secretnext = "EXDM17"
+	sky1 = "EXDMSKY3"
+	music = "D_EXDM16"
+	intermusic = "D_EXDMIN"
+	ExitPic = "EXDMINT"
+	EnterPic = "EXDMINT"
+}
+
+map EXDM17 "Gallows"
+{
+	titlepatch = "EXDMV16"
+	next = "EXDM16"
+	secretnext = "EXDM16"
+	sky1 = "EXDMSKY3"
+	music = "D_EXDM17"
+	intermusic = "D_EXDMIN"
+	ExitPic = "EXDMINT"
+	EnterPic = "EXDMINT"
+}
+
+map EXDM18 "Ex'ed"
+{
+	titlepatch = "EXDMV17"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "EXDMSKY2"
+	music = "D_EXDM18"
+	intermusic = "D_EXDMIN"
+	ExitPic = "EXDMINT"
+	EnterPic = "EXDMINT"
+}

@@ -38,6 +38,9 @@ flat DK030009 range DK030012 tics 8
 // DK_DM_4
 texture DK040429 range DK040432 tics 8
 
+// EXEC
+texture EXDM0060 range EXDM0063 tics 8
+
 // EDM
 texture TNT40281 range TNT40284 tics 8
 texture TNT40318 range TNT40320 tics 8 allowdecals

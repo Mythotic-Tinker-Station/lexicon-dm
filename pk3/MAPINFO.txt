@@ -30,6 +30,7 @@ include "Mapinfo/DK_DM_13.txt" // DK_DM_13.wad
 include "Mapinfo/DK_DM_2.txt" // DK_DM_2.wad
 include "Mapinfo/DK_DM_3F.txt" // DK_DM_3F.wad
 include "Mapinfo/DK_DM_4.txt" // DK_DM_4.wad
+include "Mapinfo/EXEC.txt" // EXEC.wad
 include "Mapinfo/EDM.txt" // EDM.wad
 include "Mapinfo/FINALFRG.txt" // FINALFRG.wad
 include "Mapinfo/FREEDMCE.TXT" // FREEDMCE.wad
