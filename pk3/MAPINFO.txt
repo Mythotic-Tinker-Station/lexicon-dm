@@ -26,6 +26,8 @@ include "Mapinfo/BJAY_F3.txt" // BJAY_F3.wad
 include "Mapinfo/BLUDBATH.txt" // BLUDBATH.wad
 include "Mapinfo/BOURGDM.txt" // BourgDM_Unity.wad
 include "Mapinfo/DANZIG.txt" // DANZIG1+2; added by meleemario
+include "Mapinfo/DECA.txt" // DECA.wad
+include "Mapinfo/DECA2.txt" // DECA2.wad
 include "Mapinfo/DK_DM_13.txt" // DK_DM_13.wad
 include "Mapinfo/DK_DM_2.txt" // DK_DM_2.wad
 include "Mapinfo/DK_DM_3F.txt" // DK_DM_3F.wad

@@ -113,6 +113,50 @@ end
 	playrepeat plats/pt1_mid
 end
 
+// DECA
+[DEC1Door
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:DEC1Platform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:DEC1Floor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:DEC1Ceiling
+	playrepeat plats/pt1_mid
+end
+
+// DECA2
+[DEC2Door
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:DEC2Platform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:DEC2Floor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:DEC2Ceiling
+	playrepeat plats/pt1_mid
+end
+
 // DK_DM_13
 [DK13Door
 	0 DSDOROPN

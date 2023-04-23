@@ -1,0 +1,111 @@
+// Decamatch II: Annihilation
+
+map DEC201 "Frags 'A' Lot"
+{
+	titlepatch = "DEC2V00"
+	next = "DEC202"
+	secretnext = "DEC202"
+	sky1 = "DEC2SKY"
+	music = "D_DEC201"
+	ExitPic = "DEC2INT"
+	EnterPic = "DEC2INT"
+}
+
+map DEC202 "Bloody Arena"
+{
+	titlepatch = "DEC2V01"
+	next = "DEC203"
+	secretnext = "DEC203"
+	sky1 = "DEC2SKY"
+	music = "D_DEC202"
+	ExitPic = "DEC2INT"
+	EnterPic = "DEC2INT"
+}
+
+map DEC203 "The Abandoned Base"
+{
+	titlepatch = "DEC2V02"
+	next = "DEC204"
+	secretnext = "DEC204"
+	sky1 = "DEC2SKY"
+	music = "$MUSIC_COUNTD"
+	ExitPic = "DEC2INT"
+	EnterPic = "DEC2INT"
+}
+
+map DEC204 "The Wilderness"
+{
+	titlepatch = "DEC2V03"
+	next = "DEC205"
+	secretnext = "DEC205"
+	sky1 = "DEC2SKY"
+	music = "D_DEC204"
+	ExitPic = "DEC2INT"
+	EnterPic = "DEC2INT"
+}
+
+map DEC205 "Metallica"
+{
+	titlepatch = "DEC2V04"
+	next = "DEC206"
+	secretnext = "DEC206"
+	sky1 = "DEC2SKY"
+	music = "D_DEC205"
+	ExitPic = "DEC2INT"
+	EnterPic = "DEC2INT"
+}
+
+map DEC206 "Castle"
+{
+	titlepatch = "DEC2V05"
+	next = "DEC207"
+	secretnext = "DEC207"
+	sky1 = "DEC2SKY"
+	music = "D_DEC206"
+	ExitPic = "DEC2INT"
+	EnterPic = "DEC2INT"
+}
+
+map DEC207 "Temple of Despair"
+{
+	titlepatch = "DEC2V06"
+	next = "DEC208"
+	secretnext = "DEC208"
+	sky1 = "DEC2SKY"
+	music = "D_DEC207"
+	ExitPic = "DEC2INT"
+	EnterPic = "DEC2INT"
+}
+
+map DEC208 "Ocean Wave"
+{
+	titlepatch = "DEC2V07"
+	next = "DEC209"
+	secretnext = "DEC209"
+	sky1 = "DEC2SKY"
+	music = "D_DEC208"
+	ExitPic = "DEC2INT"
+	EnterPic = "DEC2INT"
+}
+
+map DEC209 "Installation"
+{
+	titlepatch = "DEC2V08"
+	next = "DEC210"
+	secretnext = "DEC210"
+	sky1 = "DEC2SKY"
+	music = "$MUSIC_IN_CIT"
+	ExitPic = "DEC2INT"
+	EnterPic = "DEC2INT"
+}
+
+map DEC210 "Future Zone"
+{
+	titlepatch = "DEC2V09"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "DEC2SKY"
+	music = "D_DEC210"
+	ExitPic = "DEC2INT"
+	EnterPic = "DEC2INT"
+}
