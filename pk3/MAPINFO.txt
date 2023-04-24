@@ -44,6 +44,7 @@ include "Mapinfo/IPXMATCH.txt" // IPXMATCH.wad
 include "Mapinfo/OVERLOAD.txt" // OVERLOAD.wad
 include "Mapinfo/PYRRHIC1.txt" // pyrrhic_.wad
 include "Mapinfo/PYRRHIC2.txt" // pyrrhic2.wad
+include "Mapinfo/SURGE.txt" // SURGE.wad
 include "Mapinfo/SYNJ9408.txt" // SYNJ9408.wad
 include "Mapinfo/TOKEDM.txt" // TokeDM.wad
 include "Mapinfo/TNTBLOOD.txt" // TNTBLOOD.wad

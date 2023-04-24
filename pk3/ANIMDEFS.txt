@@ -75,6 +75,11 @@ flat GDM20010 range GDM20013 tics 8
 texture OVLD0239 range OVLD0242 tics 8
 texture OVLD0416 range OVLD0419 tics 8
 
+// SURGE
+texture SRG10046 range SRG10048 tics 8
+texture SRG10049 range SRG10052 tics 8
+texture SRG10053 range SRG10056 tics 8
+
 // TNTBLOOD
 texture TNT10454 range TNT10457 tics 8
 
@@ -143,6 +148,9 @@ switch doom IPXMT001 on pic IPXMT005 tics 0
 switch doom IPXMT002 on pic IPXMT006 tics 0
 switch doom IPXMT003 on pic IPXMT007 tics 0
 switch doom IPXMT004 on pic IPXMT008 tics 0
+
+// SURGE
+switch SRG10354 on pic SRG10394 tics 0
 
 // TNTBLOOD
 switch TNT10292 on pic TNT10332 tics 0

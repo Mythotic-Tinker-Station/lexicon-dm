@@ -1,0 +1,385 @@
+// Surge DM
+
+map SRG101 "Dead Right"
+{
+	titlepatch = "SRG1V00"
+	next = "SRG102"
+	secretnext = "SRG102"
+	sky1 = "SRG1SKY"
+	music = "D_SRG101"
+	intermusic = "D_SRG1IN"
+	ExitPic = "SRG1INT"
+	EnterPic = "SRG1INT"
+}
+
+map SRG102 "Center of Attention"
+{
+	titlepatch = "SRG1V01"
+	next = "SRG103"
+	secretnext = "SRG103"
+	sky1 = "SRG1SKY"
+	music = "D_SRG102"
+	intermusic = "D_SRG1IN"
+	ExitPic = "SRG1INT"
+	EnterPic = "SRG1INT"
+}
+
+map SRG103 "Supersonic"
+{
+	titlepatch = "SRG1V02"
+	next = "SRG104"
+	secretnext = "SRG104"
+	sky1 = "SRG1SKY"
+	music = "D_SRG103"
+	intermusic = "D_SRG1IN"
+	ExitPic = "SRG1INT"
+	EnterPic = "SRG1INT"
+}
+
+map SRG104 "Darkest Days"
+{
+	titlepatch = "SRG1V03"
+	next = "SRG105"
+	secretnext = "SRG105"
+	sky1 = "SRG1SKY"
+	music = "D_SRG104"
+	intermusic = "D_SRG1IN"
+	ExitPic = "SRG1INT"
+	EnterPic = "SRG1INT"
+}
+
+map SRG105 "Medevil"
+{
+	titlepatch = "SRG1V04"
+	next = "SRG106"
+	secretnext = "SRG106"
+	sky1 = "SRG1SKY"
+	music = "D_SRG105"
+	intermusic = "D_SRG1IN"
+	ExitPic = "SRG1INT"
+	EnterPic = "SRG1INT"
+}
+
+map SRG106 "Hangman"
+{
+	titlepatch = "SRG1V05"
+	next = "SRG107"
+	secretnext = "SRG107"
+	sky1 = "SRG1SKY"
+	music = "D_SRG106"
+	intermusic = "D_SRG1IN"
+	ExitPic = "SRG1INT"
+	EnterPic = "SRG1INT"
+}
+
+map SRG107 "Impossible Pain"
+{
+	titlepatch = "SRG1V06"
+	next = "SRG108"
+	secretnext = "SRG108"
+	sky1 = "SRG1SKY"
+	music = "D_SRG107"
+	intermusic = "D_SRG1IN"
+	ExitPic = "SRG1INT"
+	EnterPic = "SRG1INT"
+}
+
+map SRG108 "Shred"
+{
+	titlepatch = "SRG1V07"
+	next = "SRG109"
+	secretnext = "SRG109"
+	sky1 = "SRG1SKY"
+	music = "D_SRG108"
+	intermusic = "D_SRG1IN"
+	ExitPic = "SRG1INT"
+	EnterPic = "SRG1INT"
+}
+
+map SRG109 "Bloodshot"
+{
+	titlepatch = "SRG1V08"
+	next = "SRG110"
+	secretnext = "SRG110"
+	sky1 = "SRG1SKY"
+	music = "D_SRG109"
+	intermusic = "D_SRG1IN"
+	ExitPic = "SRG1INT"
+	EnterPic = "SRG1INT"
+}
+
+map SRG110 "Square O' Death"
+{
+	titlepatch = "SRG1V09"
+	next = "SRG111"
+	secretnext = "SRG111"
+	sky1 = "SRG1SKY"
+	music = "D_SRG110"
+	intermusic = "D_SRG1IN"
+	ExitPic = "SRG1INT"
+	EnterPic = "SRG1INT"
+}
+
+map SRG111 "Intense"
+{
+	titlepatch = "SRG1V10"
+	next = "SRG112"
+	secretnext = "SRG112"
+	sky1 = "SRG1SKY"
+	music = "D_SRG111"
+	intermusic = "D_SRG1IN"
+	ExitPic = "SRG1INT"
+	EnterPic = "SRG1INT"
+}
+
+map SRG112 "Tombstone"
+{
+	titlepatch = "SRG1V11"
+	next = "SRG113"
+	secretnext = "SRG113"
+	sky1 = "SRG1SKY"
+	music = "D_SRG112"
+	intermusic = "D_SRG1IN"
+	ExitPic = "SRG1INT"
+	EnterPic = "SRG1INT"
+}
+
+map SRG113 "Tower of the Decaying"
+{
+	titlepatch = "SRG1V12"
+	next = "SRG114"
+	secretnext = "SRG114"
+	sky1 = "SRG1SKY"
+	music = "D_SRG113"
+	intermusic = "D_SRG1IN"
+	ExitPic = "SRG1INT"
+	EnterPic = "SRG1INT"
+}
+
+map SRG114 "Speed"
+{
+	titlepatch = "SRG1V13"
+	next = "SRG115"
+	secretnext = "SRG115"
+	sky1 = "SRG1SKY"
+	music = "D_SRG114"
+	intermusic = "D_SRG1IN"
+	ExitPic = "SRG1INT"
+	EnterPic = "SRG1INT"
+}
+
+map SRG115 "Overkill"
+{
+	titlepatch = "SRG1V14"
+	next = "SRG116"
+	secretnext = "SRG131"
+	sky1 = "SRG1SKY"
+	music = "D_SRG115"
+	intermusic = "D_SRG1IN"
+	ExitPic = "SRG1INT"
+	EnterPic = "SRG1INT"
+}
+
+map SRG116 "X Squared"
+{
+	titlepatch = "SRG1V15"
+	next = "SRG117"
+	secretnext = "SRG117"
+	sky1 = "SRG1SKY"
+	music = "D_SRG116"
+	intermusic = "D_SRG1IN"
+	ExitPic = "SRG1INT"
+	EnterPic = "SRG1INT"
+}
+
+map SRG117 "Battlefields"
+{
+	titlepatch = "SRG1V16"
+	next = "SRG118"
+	secretnext = "SRG118"
+	sky1 = "SRG1SKY"
+	music = "D_SRG117"
+	intermusic = "D_SRG1IN"
+	ExitPic = "SRG1INT"
+	EnterPic = "SRG1INT"
+}
+
+map SRG118 "Shameless Destruction"
+{
+	titlepatch = "SRG1V17"
+	next = "SRG119"
+	secretnext = "SRG119"
+	sky1 = "SRG1SKY"
+	music = "D_SRG118"
+	intermusic = "D_SRG1IN"
+	ExitPic = "SRG1INT"
+	EnterPic = "SRG1INT"
+}
+
+map SRG119 "Arena of Fire"
+{
+	titlepatch = "SRG1V18"
+	next = "SRG120"
+	secretnext = "SRG120"
+	sky1 = "SRG1SKY"
+	music = "D_SRG119"
+	intermusic = "D_SRG1IN"
+	ExitPic = "SRG1INT"
+	EnterPic = "SRG1INT"
+}
+
+map SRG120 "Singe"
+{
+	titlepatch = "SRG1V19"
+	next = "SRG121"
+	secretnext = "SRG121"
+	sky1 = "SRG1SKY"
+	music = "D_SRG120"
+	intermusic = "D_SRG1IN"
+	ExitPic = "SRG1INT"
+	EnterPic = "SRG1INT"
+}
+
+map SRG121 "Close Quarters"
+{
+	titlepatch = "SRG1V20"
+	next = "SRG122"
+	secretnext = "SRG122"
+	sky1 = "SRG1SKY"
+	music = "D_SRG121"
+	intermusic = "D_SRG1IN"
+	ExitPic = "SRG1INT"
+	EnterPic = "SRG1INT"
+}
+
+map SRG122 "Skin"
+{
+	titlepatch = "SRG1V21"
+	next = "SRG123"
+	secretnext = "SRG123"
+	sky1 = "SRG1SKY"
+	music = "D_SRG122"
+	intermusic = "D_SRG1IN"
+	ExitPic = "SRG1INT"
+	EnterPic = "SRG1INT"
+}
+
+map SRG123 "Top of the World"
+{
+	titlepatch = "SRG1V22"
+	next = "SRG124"
+	secretnext = "SRG124"
+	sky1 = "SRG1SKY"
+	music = "D_SRG123"
+	intermusic = "D_SRG1IN"
+	ExitPic = "SRG1INT"
+	EnterPic = "SRG1INT"
+}
+
+map SRG124 "Hurikan's Theatre"
+{
+	titlepatch = "SRG1V23"
+	next = "SRG125"
+	secretnext = "SRG125"
+	sky1 = "SRG1SKY"
+	music = "D_SRG124"
+	intermusic = "D_SRG1IN"
+	ExitPic = "SRG1INT"
+	EnterPic = "SRG1INT"
+}
+
+map SRG125 "Hidden Pain"
+{
+	titlepatch = "SRG1V24"
+	next = "SRG126"
+	secretnext = "SRG126"
+	sky1 = "SRG1SKY"
+	music = "D_SRG125"
+	intermusic = "D_SRG1IN"
+	ExitPic = "SRG1INT"
+	EnterPic = "SRG1INT"
+}
+
+map SRG126 "Catafrag"
+{
+	titlepatch = "SRG1V25"
+	next = "SRG127"
+	secretnext = "SRG127"
+	sky1 = "SRG1SKY"
+	music = "D_SRG126"
+	intermusic = "D_SRG1IN"
+	ExitPic = "SRG1INT"
+	EnterPic = "SRG1INT"
+}
+
+map SRG127 "Dance in the Darkness"
+{
+	titlepatch = "SRG1V26"
+	next = "SRG128"
+	secretnext = "SRG128"
+	sky1 = "SRG1SKY"
+	music = "D_SRG127"
+	intermusic = "D_SRG1IN"
+	ExitPic = "SRG1INT"
+	EnterPic = "SRG1INT"
+}
+
+map SRG128 "Head Rush"
+{
+	titlepatch = "SRG1V27"
+	next = "SRG129"
+	secretnext = "SRG129"
+	sky1 = "SRG1SKY"
+	music = "D_SRG128"
+	intermusic = "D_SRG1IN"
+	ExitPic = "SRG1INT"
+	EnterPic = "SRG1INT"
+}
+
+map SRG129 "Blow Through"
+{
+	titlepatch = "SRG1V28"
+	next = "SRG130"
+	secretnext = "SRG130"
+	sky1 = "SRG1SKY"
+	music = "D_SRG129"
+	intermusic = "D_SRG1IN"
+	ExitPic = "SRG1INT"
+	EnterPic = "SRG1INT"
+}
+
+map SRG130 "Storm Pipes"
+{
+	titlepatch = "SRG1V29"
+	next = "SRG131"
+	secretnext = "SRG131"
+	sky1 = "SRG1SKY"
+	music = "D_SRG130"
+	intermusic = "D_SRG1IN"
+	ExitPic = "SRG1INT"
+	EnterPic = "SRG1INT"
+}
+
+map SRG131 "Heat"
+{
+	titlepatch = "SRG1V30"
+	next = "SRG132"
+	secretnext = "SRG132"
+	sky1 = "SRG1SKY"
+	music = "D_SRG131"
+	intermusic = "D_SRG1IN"
+	ExitPic = "SRG1INT"
+	EnterPic = "SRG1INT"
+}
+
+map SRG132 "Death Flight"
+{
+	titlepatch = "SRG1V31"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "SRG1SKY"
+	music = "D_SRG132"
+	intermusic = "D_SRG1IN"
+	ExitPic = "SRG1INT"
+	EnterPic = "SRG1INT"
+}
