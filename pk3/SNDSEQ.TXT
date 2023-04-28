@@ -113,6 +113,30 @@ end
 	playrepeat plats/pt1_mid
 end
 
+// BUCKETDM2
+[BUCKDoor
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:BUCKPlatform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:BUCKFloor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:BUCKCeiling
+	playrepeat plats/pt1_mid
+end
+
+
+
 // DECA
 [DEC1Door
 	0 DSDOROPN

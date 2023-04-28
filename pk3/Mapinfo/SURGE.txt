@@ -172,7 +172,7 @@ map SRG115 "Overkill"
 {
 	titlepatch = "SRG1V14"
 	next = "SRG116"
-	secretnext = "SRG131"
+	secretnext = "SRG116"
 	sky1 = "SRG1SKY"
 	music = "D_SRG115"
 	intermusic = "D_SRG1IN"
