@@ -3,6 +3,7 @@
 texture DWANC001 range DWANC004 tics 8
 texture DWANE001 range DWANE004 tics 8
 texture DWANF001 range DWANF004 tics 8
+texture DWANH004 range DWANH007 tics 8
 texture DW200105 range DW200106 tics 8
 
 // Vanilla Maps

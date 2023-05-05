@@ -1,0 +1,562 @@
+// The Best of DWANGO: DWANGO50 Mapinfo
+
+map DWANH01 "dwango5 map01"
+{
+	next = "DWANH02"
+	secretnext = "DWANH02"
+	sky1 = "DWANHSKY"
+	music = "D_DWGH01"
+	intermusic = "D_DWGHIN"
+	ExitPic = "DWANHINT"
+	EnterPic = "DWANHINT"
+}
+
+map DWANH02 "dwango5 map02"
+{
+	next = "DWANH03"
+	secretnext = "DWANH03"
+	sky1 = "DWANHSKY"
+	music = "D_DWGH02"
+	intermusic = "D_DWGHIN"
+	ExitPic = "DWANHINT"
+	EnterPic = "DWANHINT"
+}
+
+map DWANH03 "dwango5 map04"
+{
+	next = "DWANH04"
+	secretnext = "DWANH04"
+	sky1 = "DWANHSKY"
+	music = "D_DWGH03"
+	intermusic = "D_DWGHIN"
+	ExitPic = "DWANHINT"
+	EnterPic = "DWANHINT"
+}
+
+map DWANH04 "dwango5 map07"
+{
+	next = "DWANH05"
+	secretnext = "DWANH05"
+	sky1 = "DWANHSKY"
+	music = "D_DWGH04"
+	intermusic = "D_DWGHIN"
+	ExitPic = "DWANHINT"
+	EnterPic = "DWANHINT"
+}
+
+map DWANH05 "dwango5 map12"
+{
+	next = "DWANH06"
+	secretnext = "DWANH06"
+	sky1 = "DWANHSKY"
+	music = "D_DWGH05"
+	intermusic = "D_DWGHIN"
+	ExitPic = "DWANHINT"
+	EnterPic = "DWANHINT"
+}
+
+map DWANH06 "dwango5 map13"
+{
+	next = "DWANH07"
+	secretnext = "DWANH07"
+	sky1 = "DWANHSK2"
+	music = "D_DWGH06"
+	intermusic = "D_DWGHIN"
+	ExitPic = "DWANHINT"
+	EnterPic = "DWANHINT"
+}
+
+map DWANH07 "dwango5 map14"
+{
+	next = "DWANH08"
+	secretnext = "DWANH08"
+	sky1 = "DWANHSK2"
+	music = "D_DWGH07"
+	intermusic = "D_DWGHIN"
+	ExitPic = "DWANHINT"
+	EnterPic = "DWANHINT"
+}
+
+map DWANH08 "dwango5 map19"
+{
+	next = "DWANH09"
+	secretnext = "DWANH09"
+	sky1 = "DWANHSK2"
+	music = "D_DWGH08"
+	intermusic = "D_DWGHIN"
+	ExitPic = "DWANHINT"
+	EnterPic = "DWANHINT"
+}
+
+map DWANH09 "dwango5 map24"
+{
+	next = "DWANH10"
+	secretnext = "DWANH10"
+	sky1 = "DWANHSKY"
+	music = "D_DWGH09"
+	intermusic = "D_DWGHIN"
+	ExitPic = "DWANHINT"
+	EnterPic = "DWANHINT"
+}
+
+map DWANH10 "dwango6 map01"
+{
+	next = "DWANH11"
+	secretnext = "DWANH11"
+	sky1 = "DWANHSK3"
+	music = "D_DWGH10"
+	intermusic = "D_DWGHI2"
+	ExitPic = "DWANHIN2"
+	EnterPic = "DWANHIN2"
+}
+
+map DWANH11 "dwango6 map03"
+{
+	next = "DWANH12"
+	secretnext = "DWANH12"
+	sky1 = "DWANHSK3"
+	music = "D_DWGH11"
+	intermusic = "D_DWGHI2"
+	ExitPic = "DWANHIN2"
+	EnterPic = "DWANHIN2"
+}
+
+map DWANH12 "dwango6 map04"
+{
+	next = "DWANH13"
+	secretnext = "DWANH13"
+	sky1 = "DWANHSK3"
+	music = "D_DWGH12"
+	intermusic = "D_DWGHI2"
+	ExitPic = "DWANHIN2"
+	EnterPic = "DWANHIN2"
+}
+
+map DWANH13 "dwango6 map05"
+{
+	next = "DWANH14"
+	secretnext = "DWANH14"
+	sky1 = "DWANHSK3"
+	music = "D_DWGH13"
+	intermusic = "D_DWGHI2"
+	ExitPic = "DWANHIN2"
+	EnterPic = "DWANHIN2"
+}
+
+map DWANH14 "dwango6 map12"
+{
+	next = "DWANH15"
+	secretnext = "DWANH15"
+	sky1 = "DWANHSK3"
+	music = "D_DWGH14"
+	intermusic = "D_DWGHI2"
+	ExitPic = "DWANHIN2"
+	EnterPic = "DWANHIN2"
+}
+
+map DWANH15 "dwango6 map15"
+{
+	next = "DWANH16"
+	secretnext = "DWANH31"
+	sky1 = "DWANHSK2"
+	music = "D_DWGH15"
+	intermusic = "D_DWGHI2"
+	ExitPic = "DWANHIN2"
+	EnterPic = "DWANHIN2"
+}
+
+map DWANH16 "dwango6 map23"
+{
+	next = "DWANH17"
+	secretnext = "DWANH17"
+	sky1 = "DWANHSK2"
+	music = "D_DWGH16"
+	intermusic = "D_DWGHI2"
+	ExitPic = "DWANHIN2"
+	EnterPic = "DWANHIN2"
+}
+
+map DWANH17 "dwango7 map01"
+{
+	next = "DWANH18"
+	secretnext = "DWANH18"
+	sky1 = "DWANHSK3"
+	music = "D_DWGH17"
+	intermusic = "D_DWGHI3"
+	ExitPic = "DWANHIN3"
+	EnterPic = "DWANHIN3"
+}
+
+map DWANH18 "dwango7 map02"
+{
+	next = "DWANH19"
+	secretnext = "DWANH19"
+	sky1 = "DWANHSK3"
+	music = "D_DWGH18"
+	intermusic = "D_DWGHI3"
+	ExitPic = "DWANHIN3"
+	EnterPic = "DWANHIN3"
+}
+
+map DWANH19 "dwango7 map06"
+{
+	next = "DWANH20"
+	secretnext = "DWANH20"
+	sky1 = "DWANHSK3"
+	music = "D_DWGH19"
+	intermusic = "D_DWGHI3"
+	ExitPic = "DWANHIN3"
+	EnterPic = "DWANHIN3"
+}
+
+map DWANH20 "dwango7 map09"
+{
+	next = "DWANH21"
+	secretnext = "DWANH21"
+	sky1 = "DWANHSK3"
+	music = "D_DWGH20"
+	intermusic = "D_DWGHI3"
+	ExitPic = "DWANHIN3"
+	EnterPic = "DWANHIN3"
+}
+
+map DWANH21 "dwango8 map02"
+{
+	next = "DWANH22"
+	secretnext = "DWANH22"
+	sky1 = "DWANHSK2"
+	music = "D_DWGH21"
+	intermusic = "D_DWGHI4"
+	ExitPic = "DWANHIN4"
+	EnterPic = "DWANHIN4"
+}
+
+map DWANH22 "dwango8 map03"
+{
+	next = "DWANH23"
+	secretnext = "DWANH23"
+	sky1 = "DWANHSK2"
+	music = "D_DWGH22"
+	intermusic = "D_DWGHI4"
+	ExitPic = "DWANHIN4"
+	EnterPic = "DWANHIN4"
+}
+
+map DWANH23 "dwango8 map07"
+{
+	next = "DWANH24"
+	secretnext = "DWANH24"
+	sky1 = "DWANHSK4"
+	music = "$MUSIC_AMPIE"
+	intermusic = "D_DWGHI4"
+	ExitPic = "DWANHIN4"
+	EnterPic = "DWANHIN4"
+}
+
+map DWANH24 "dwango8 map08"
+{
+	next = "DWANH25"
+	secretnext = "DWANH25"
+	sky1 = "DWANHSK2"
+	music = "D_DWGH24"
+	intermusic = "D_DWGHI4"
+	ExitPic = "DWANHIN4"
+	EnterPic = "DWANHIN4"
+}
+
+map DWANH25 "dwango8 map09"
+{
+	next = "DWANH26"
+	secretnext = "DWANH26"
+	sky1 = "DWANHSK5"
+	music = "$MUSIC_ADRIAN"
+	intermusic = "D_DWGHI4"
+	ExitPic = "DWANHIN4"
+	EnterPic = "DWANHIN4"
+}
+
+map DWANH26 "dwango10 map03"
+{
+	next = "DWANH27"
+	secretnext = "DWANH27"
+	sky1 = "DWANHSK5"
+	music = "D_DWGH26"
+	intermusic = "D_DWGHI5"
+	ExitPic = "DWANHIN5"
+	EnterPic = "DWANHIN5"
+}
+
+map DWANH27 "dwango10 map09"
+{
+	next = "DWANH28"
+	secretnext = "DWANH28"
+	sky1 = "DWANHSK6"
+	music = "D_DWGH27"
+	intermusic = "D_DWGHI5"
+	ExitPic = "DWANHIN5"
+	EnterPic = "DWANHIN5"
+}
+
+map DWANH28 "dwango10 map10"
+{
+	next = "DWANH29"
+	secretnext = "DWANH29"
+	sky1 = "DWANHSK7"
+	music = "D_DWGH28"
+	intermusic = "D_DWGHI5"
+	ExitPic = "DWANHIN5"
+	EnterPic = "DWANHIN5"
+}
+
+map DWANH29 "dwango10 map14"
+{
+	next = "DWANH30"
+	secretnext = "DWANH30"
+	sky1 = "DWANHSK2"
+	music = "D_DWGH29"
+	intermusic = "D_DWGHI5"
+	ExitPic = "DWANHIN5"
+	EnterPic = "DWANHIN5"
+}
+
+map DWANH30 "dwango10 map15"
+{
+	next = "DWANH31"
+	secretnext = "DWANH31"
+	sky1 = "DWANHSK5"
+	music = "D_DWGH30"
+	intermusic = "D_DWGHI5"
+	ExitPic = "DWANHIN5"
+	EnterPic = "DWANHIN5"
+}
+
+map DWANH31 "dwango11 map05"
+{
+	next = "DWANH32"
+	secretnext = "DWANH32"
+	sky1 = "DWANHSK6"
+	music = "D_DWGH31"
+	intermusic = "D_DWGHI6"
+	ExitPic = "DWANHIN6"
+	EnterPic = "DWANHIN6"
+}
+
+map DWANH32 "dwango11 map10"
+{
+	next = "DWANH33"
+	secretnext = "DWANH33"
+	sky1 = "DWANHSK4"
+	music = "D_DWGH32"
+	intermusic = "D_DWGHI6"
+	ExitPic = "DWANHIN6"
+	EnterPic = "DWANHIN6"
+}
+
+map DWANH33 "dwango11 map19"
+{
+	next = "DWANH34"
+	secretnext = "DWANH34"
+	sky1 = "DWANHSK8"
+	music = "D_DWGH33"
+	intermusic = "D_DWGHI6"
+	ExitPic = "DWANHIN6"
+	EnterPic = "DWANHIN6"
+}
+
+map DWANH34 "dwango11 map25"
+{
+	next = "DWANH35"
+	secretnext = "DWANH35"
+	sky1 = "DWANHSKY"
+	music = "D_DWGH34"
+	intermusic = "D_DWGHI6"
+	ExitPic = "DWANHIN6"
+	EnterPic = "DWANHIN6"
+}
+
+map DWANH35 "dwango12 map02"
+{
+	next = "DWANH36"
+	secretnext = "DWANH36"
+	sky1 = "DWANHSK8"
+	music = "D_DWGH35"
+	intermusic = "D_DWGHI7"
+	ExitPic = "DWANHIN7"
+	EnterPic = "DWANHIN7"
+}
+
+map DWANH36 "dwango12 map05"
+{
+	next = "DWANH37"
+	secretnext = "DWANH37"
+	sky1 = "DWANHSK5"
+	music = "D_DWGH36"
+	intermusic = "D_DWGHI7"
+	ExitPic = "DWANHIN7"
+	EnterPic = "DWANHIN7"
+}
+
+map DWANH37 "dwango12 map07"
+{
+	next = "DWANH38"
+	secretnext = "DWANH38"
+	sky1 = "DWANHSK7"
+	music = "D_DWGH37"
+	intermusic = "D_DWGHI7"
+	ExitPic = "DWANHIN7"
+	EnterPic = "DWANHIN7"
+}
+
+map DWANH38 "dwango12 map12"
+{
+	next = "DWANH39"
+	secretnext = "DWANH39"
+	sky1 = "DWANHSK4"
+	music = "D_DWGH38"
+	intermusic = "D_DWGHI7"
+	ExitPic = "DWANHIN7"
+	EnterPic = "DWANHIN7"
+}
+
+map DWANH39 "dwango12 map21"
+{
+	next = "DWANH40"
+	secretnext = "DWANH40"
+	sky1 = "DWANHSKY"
+	music = "D_DWGH39"
+	intermusic = "D_DWGHI7"
+	ExitPic = "DWANHIN7"
+	EnterPic = "DWANHIN7"
+}
+
+map DWANH40 "lbdwango map22"
+{
+	next = "DWANH41"
+	secretnext = "DWANH41"
+	sky1 = "DWANHSK5"
+	music = "D_DWGH40"
+	intermusic = "D_DWGHI8"
+	ExitPic = "DWANHIN8"
+	EnterPic = "DWANHIN8"
+}
+
+map DWANH41 "dcdwango map01"
+{
+	next = "DWANH42"
+	secretnext = "DWANH42"
+	sky1 = "DWANHSK3"
+	music = "D_DWGH41"
+	intermusic = "D_DWGHIN"
+	ExitPic = "DWANHIN9"
+	EnterPic = "DWANHIN9"
+}
+
+map DWANH42 "dcdwango map05"
+{
+	next = "DWANH43"
+	secretnext = "DWANH43"
+	sky1 = "DWANHSK4"
+	music = "D_DWGH42"
+	intermusic = "D_DWGHIN"
+	ExitPic = "DWANHIN9"
+	EnterPic = "DWANHIN9"
+}
+
+map DWANH43 "dcdwango map06"
+{
+	next = "DWANH44"
+	secretnext = "DWANH44"
+	sky1 = "DWANHSK7"
+	music = "D_DWGH43"
+	intermusic = "D_DWGHIN"
+	ExitPic = "DWANHIN9"
+	EnterPic = "DWANHIN9"
+}
+
+map DWANH44 "dcdwango map09"
+{
+	next = "DWANH45"
+	secretnext = "DWANH45"
+	sky1 = "DWANHSK2"
+	music = "D_DWGH44"
+	intermusic = "D_DWGHIN"
+	ExitPic = "DWANHIN9"
+	EnterPic = "DWANHIN9"
+}
+
+map DWANH45 "dcdwango map10"
+{
+	next = "DWANH46"
+	secretnext = "DWANH46"
+	sky1 = "DWANHSK3"
+	music = "D_DWGH45"
+	intermusic = "D_DWGHIN"
+	ExitPic = "DWANHIN9"
+	EnterPic = "DWANHIN9"
+}
+
+map DWANH46 "dcdwango map14"
+{
+	next = "DWANH47"
+	secretnext = "DWANH47"
+	sky1 = "DWANHSK3"
+	music = "D_DWGH46"
+	intermusic = "D_DWGHIN"
+	ExitPic = "DWANHIN9"
+	EnterPic = "DWANHIN9"
+}
+
+map DWANH47 "dcdwango map15"
+{
+	next = "DWANH48"
+	secretnext = "DWANH48"
+	sky1 = "DWANHSKY"
+	music = "D_DWGH47"
+	intermusic = "D_DWGHIN"
+	ExitPic = "DWANHIN9"
+	EnterPic = "DWANHIN9"
+}
+
+map DWANH48 "azdwango map05"
+{
+	next = "DWANH49"
+	secretnext = "DWANH49"
+	sky1 = "DWANHSK7"
+	music = "D_DWGH48"
+	intermusic = "D_DWGHI2"
+	ExitPic = "DWANHIN0"
+	EnterPic = "DWANHIN0"
+}
+
+map DWANH49 "azdwango map16"
+{
+	next = "DWANH50"
+	secretnext = "DWANH50"
+	sky1 = "DWANHSK5"
+	music = "D_DWGH49"
+	intermusic = "D_DWGHI2"
+	ExitPic = "DWANHIN0"
+	EnterPic = "DWANHIN0"
+}
+
+map DWANH50 "ozwango map13"
+{
+	next = "DWANH51"
+	secretnext = "DWANH51"
+	sky1 = "DWANHSK9"
+	music = "D_DWGH50"
+	intermusic = "D_DWGHI2"
+	ExitPic = "DWANHIN!"
+	EnterPic = "DWANHIN!"
+}
+
+map DWANH51 "ozwango map08"
+{
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "DWANHSK4"
+	music = "D_DWGH50"
+	intermusic = "D_DWGHI2"
+	ExitPic = "DWANHIN!"
+	EnterPic = "DWANHIN!"
+}

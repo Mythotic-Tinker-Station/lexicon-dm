@@ -14,6 +14,7 @@ include "Mapinfo/AZDWANGO.txt" // AZDWANGO.wad
 include "Mapinfo/DCDWANGO.txt" // DCDWANGO.wad
 include "Mapinfo/LBDWANGO.txt" // LBDWANGO.wad
 include "Mapinfo/OZWANGO.txt" // OZWANGO.wad
+include "Mapinfo/DWANGO50.txt" // DWANGO50.wad
 include "Mapinfo/DWANGOX.txt" // DWANGOX.wad
 include "Mapinfo/1DWANGO.txt" // #1DWANGO.wad
 include "Mapinfo/DWANGO!.txt" // DWANGO!.wad
