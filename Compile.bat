@@ -89,7 +89,7 @@ If ERRORLEVEL 1 goto Compile_BCS
 :Compile_BCS
 echo BCS
 	cd %Path_BCS%
-	bcc -acc-err-file -x bcs %Path_Script%.c %Path_Script%.o
+	bcc -acc-err-file -acc-stats -x bcs %Path_Script%.c %Path_Script%.o
 	goto %GotoBCS%
 
 

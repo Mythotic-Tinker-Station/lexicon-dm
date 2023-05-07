@@ -17,7 +17,7 @@ if "%PROCESSOR_ARCHITECTURE%" == "x86" (
 echo Your CPU x86
 echo Step 1: ACS
 	cd Compiler
-	bcc -acc-err-file -x bcs ..\pk3\acs\Lexicon.c ..\pk3\acs\Lexicon.o
+	bcc -acc-err-file -acc-stats -x bcs ..\pk3\acs\Lexicon.c ..\pk3\acs\Lexicon.o
 	
 echo Step 2: PACK GAME FILES
 	cd ..
