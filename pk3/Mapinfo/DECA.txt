@@ -1,4 +1,4 @@
-// Decamatch
+// Decamatch Mapinfo
 
 map DEC101 "Fast Frag"
 {

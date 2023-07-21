@@ -1,4 +1,4 @@
-// Decamatch II: Annihilation
+// Decamatch II: Annihilation Mapinfo
 
 map DEC201 "Frags 'A' Lot"
 {

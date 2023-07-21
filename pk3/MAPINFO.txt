@@ -44,8 +44,7 @@ include "mapinfo/GREENWAR.txt" // GREENWAR.wad
 include "mapinfo/HOUSES14.txt" // HOUSES14.wad
 include "mapinfo/IPXMATCH.txt" // IPXMATCH.wad
 include "mapinfo/OVERLOAD.txt" // OVERLOAD.wad
-include "mapinfo/PYRRHIC1.txt" // pyrrhic_.wad
-include "mapinfo/PYRRHIC2.txt" // pyrrhic2.wad
+include "mapinfo/PYRRHICXL.txt" // pyrrhicxl.wad
 include "mapinfo/SURGE.txt" // SURGE.wad
 include "mapinfo/SYNJ9408.txt" // SYNJ9408.wad
 include "mapinfo/TOKEDM.txt" // TokeDM.wad
