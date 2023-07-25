@@ -26,6 +26,7 @@ include "mapinfo/BIGGER32.txt" // BIGGER32.wad
 include "mapinfo/BJAY_F3.txt" // BJAY_F3.wad
 include "mapinfo/BLUDBATH.txt" // BLUDBATH.wad
 include "mapinfo/BOURGDM.txt" // BourgDM_Unity.wad
+include "mapinfo/BRITDM.txt" // execbrit10brit11.wad
 include "mapinfo/BUCKETDM2.TXT" // BucketDM2.wad
 include "mapinfo/DANZIG.txt" // DANZIG1+2; added by meleemario
 include "mapinfo/DECA.txt" // DECA.wad
@@ -34,7 +35,6 @@ include "mapinfo/DK_DM_13.txt" // DK_DM_13.wad
 include "mapinfo/DK_DM_2.txt" // DK_DM_2.wad
 include "mapinfo/DK_DM_3F.txt" // DK_DM_3F.wad
 include "mapinfo/DK_DM_4.txt" // DK_DM_4.wad
-include "mapinfo/EXEC.txt" // EXEC.wad
 include "mapinfo/EDM.txt" // EDM.wad
 include "mapinfo/FINALFRG.txt" // FINALFRG.wad
 include "mapinfo/FREEDMCE.TXT" // FREEDMCE.wad

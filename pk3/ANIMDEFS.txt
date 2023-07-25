@@ -16,6 +16,9 @@ texture BLDBTH02 range ADCV0005 tics 8
 // BOURGDM
 texture BOUG0063 range BOUG0066 tics 8
 
+// BRITDM
+texture BRIT0051 range BRIT0054 tics 5
+
 // DECA
 texture DEC10204 range DEC10206 tics 8 allowdecals
 
@@ -44,9 +47,6 @@ flat DK030009 range DK030012 tics 8
 
 // DK_DM_4
 texture DK040429 range DK040432 tics 8
-
-// EXEC
-texture EXDM0060 range EXDM0063 tics 8
 
 // EDM
 texture TNT40281 range TNT40284 tics 8
@@ -101,19 +101,35 @@ texture TWN10572 range TWN10575 tics 8
 
 // Switches
 // DWANGO Collection
-switch doom DWANB005 on pic DWANB016 tics 0
-switch doom DWANB006 on pic DWANB017 tics 0
-switch doom DWANB007 on pic DWANB018 tics 0
-switch doom DWANB008 on pic DWANB019 tics 0
-switch doom DWANB009 on pic DWANB020 tics 0
-switch doom DWANB010 on pic DWANB021 tics 0
-switch doom DWANB011 on pic DWANB022 tics 0
-switch doom DWANB012 on pic DWANB023 tics 0
-switch doom DWANB013 on pic DWANB024 tics 0
-switch doom DWANB014 on pic DWANB025 tics 0
-switch doom DWANB015 on pic DWANB026 tics 0
+switch DWANB005 on pic DWANB016 tics 0
+switch DWANB006 on pic DWANB017 tics 0
+switch DWANB007 on pic DWANB018 tics 0
+switch DWANB008 on pic DWANB019 tics 0
+switch DWANB009 on pic DWANB020 tics 0
+switch DWANB010 on pic DWANB021 tics 0
+switch DWANB011 on pic DWANB022 tics 0
+switch DWANB012 on pic DWANB023 tics 0
+switch DWANB013 on pic DWANB024 tics 0
+switch DWANB014 on pic DWANB025 tics 0
+switch DWANB015 on pic DWANB026 tics 0
 
 // Vanilla Maps
+// BRITDM
+switch BRIT0063 on pic BRIT0077 tics 0
+switch BRIT0064 on pic BRIT0078 tics 0
+switch BRIT0065 on pic BRIT0079 tics 0
+switch BRIT0066 on pic BRIT0080 tics 0
+switch BRIT0067 on pic BRIT0081 tics 0
+switch BRIT0068 on pic BRIT0082 tics 0
+switch BRIT0069 on pic BRIT0083 tics 0
+switch BRIT0070 on pic BRIT0084 tics 0
+switch BRIT0071 on pic BRIT0085 tics 0
+switch BRIT0072 on pic BRIT0086 tics 0
+switch BRIT0073 on pic BRIT0087 tics 0
+switch BRIT0074 on pic BRIT0088 tics 0
+switch BRIT0075 on pic BRIT0089 tics 0
+switch BRIT0076 on pic BRIT0090 tics 0
+
 // DECA
 switch DEC10286 on pic DEC10326 tics 0
 switch DEC10325 on pic DEC10365 tics 0
@@ -145,10 +161,10 @@ switch HOUS0322 on pic HOUS0362 tics 0
 switch HOUS0324 on pic HOUS0364 tics 0
 
 // IPXMATCH
-switch doom IPXMT001 on pic IPXMT005 tics 0
-switch doom IPXMT002 on pic IPXMT006 tics 0
-switch doom IPXMT003 on pic IPXMT007 tics 0
-switch doom IPXMT004 on pic IPXMT008 tics 0
+switch IPXMT001 on pic IPXMT005 tics 0
+switch IPXMT002 on pic IPXMT006 tics 0
+switch IPXMT003 on pic IPXMT007 tics 0
+switch IPXMT004 on pic IPXMT008 tics 0
 
 // SURGE
 switch SRG10354 on pic SRG10394 tics 0
