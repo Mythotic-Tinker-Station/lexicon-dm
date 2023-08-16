@@ -20,10 +20,8 @@ texture BOUG0063 range BOUG0066 tics 8
 texture BRIT0051 range BRIT0054 tics 5
 
 // DECA
-texture DEC10204 range DEC10206 tics 8 allowdecals
-
-// DECA2
-texture DEC20456 range DEC20459 tics 8
+texture DECADM06 range DECADM08 tics 8 allowdecals
+texture DECADM16 range DECADM19 tics 8
 
 // DK_DM_13
 texture DK130103 range DK130104 tics 8
@@ -131,12 +129,8 @@ switch BRIT0075 on pic BRIT0089 tics 0
 switch BRIT0076 on pic BRIT0090 tics 0
 
 // DECA
-switch DEC10286 on pic DEC10326 tics 0
-switch DEC10325 on pic DEC10365 tics 0
-
-// DECA2
-switch DEC20318 on pic DEC20358 tics 0
-switch DEC20336 on pic DEC20376 tics 0
+switch DECADM11 on pic DECADM13 tics 0
+switch DECADM12 on pic DECADM14 tics 0
 
 // EDM
 switch TNT40481 on pic TNT40521 tics 0

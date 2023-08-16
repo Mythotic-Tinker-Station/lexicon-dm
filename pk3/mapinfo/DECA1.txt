@@ -1,0 +1,121 @@
+// Decamatch Mapinfo
+
+map DEC101 "Fast Frag"
+{
+	titlepatch = "DEC1V00"
+	next = "DEC102"
+	secretnext = "DEC102"
+	sky1 = "DEC1SKY"
+	music = "D_DEC101"
+	intermusic = "D_DEC1IN"
+	ExitPic = "DEC1INT"
+	EnterPic = "DEC1INT"
+}
+
+map DEC102 "Bridges of Doom"
+{
+	titlepatch = "DEC1V01"
+	next = "DEC103"
+	secretnext = "DEC103"
+	sky1 = "DEC1SKY"
+	music = "D_DEC102"
+	intermusic = "D_DEC1IN"
+	ExitPic = "DEC1INT"
+	EnterPic = "DEC1INT"
+}
+
+map DEC103 "One Way Arch"
+{
+	titlepatch = "DEC1V02"
+	next = "DEC104"
+	secretnext = "DEC104"
+	sky1 = "DEC1SKY"
+	music = "D_DEC103"
+	intermusic = "D_DEC1IN"
+	ExitPic = "DEC1INT"
+	EnterPic = "DEC1INT"
+}
+
+map DEC104 "Tower of Death"
+{
+	titlepatch = "DEC1V03"
+	next = "DEC105"
+	secretnext = "DEC105"
+	sky1 = "DEC1SKY"
+	music = "D_DEC104"
+	intermusic = "D_DEC1IN"
+	ExitPic = "DEC1INT"
+	EnterPic = "DEC1INT"
+}
+
+map DEC105 "Ziggurat"
+{
+	titlepatch = "DEC1V04"
+	next = "DEC106"
+	secretnext = "DEC106"
+	sky1 = "DEC1SKY"
+	music = "D_DEC105"
+	intermusic = "D_DEC1IN"
+	ExitPic = "DEC1INT"
+	EnterPic = "DEC1INT"
+}
+
+map DEC106 "Fortress of Pain"
+{
+	titlepatch = "DEC1V05"
+	next = "DEC107"
+	secretnext = "DEC107"
+	sky1 = "DEC1SKY"
+	music = "D_DEC106"
+	intermusic = "D_DEC1IN"
+	ExitPic = "DEC1INT"
+	EnterPic = "DEC1INT"
+}
+
+map DEC107 "Marble"
+{
+	titlepatch = "DEC1V06"
+	next = "DEC108"
+	secretnext = "DEC108"
+	sky1 = "DEC1SKY"
+	music = "D_DEC107"
+	intermusic = "D_DEC1IN"
+	ExitPic = "DEC1INT"
+	EnterPic = "DEC1INT"
+}
+
+map DEC108 "Behind Bars"
+{
+	titlepatch = "DEC1V07"
+	next = "DEC109"
+	secretnext = "DEC109"
+	sky1 = "DEC1SKY"
+	music = "D_DEC108"
+	intermusic = "D_DEC1IN"
+	ExitPic = "DEC1INT"
+	EnterPic = "DEC1INT"
+}
+
+map DEC109 "The Drop-Zone"
+{
+	titlepatch = "DEC1V08"
+	next = "DEC110"
+	secretnext = "DEC110"
+	sky1 = "DEC1SKY"
+	music = "D_DEC109"
+	intermusic = "D_DEC1IN"
+	ExitPic = "DEC1INT"
+	EnterPic = "DEC1INT"
+}
+
+map DEC110 "The Sewers"
+{
+	titlepatch = "DEC1V09"
+	next = "MAP01"
+	secretnext = "MAP01"
+	sky1 = "DEC1SKY"
+	music = "D_DEC110"
+	intermusic = "D_DEC1IN"
+	ExitPic = "DEC1INT"
+	EnterPic = "DEC1INT"
+}
