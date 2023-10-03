@@ -42,6 +42,7 @@ include "mapinfo/GOTHIC2.txt" // GOTHIC2.wad
 include "mapinfo/GREENWAR.txt" // GREENWAR.wad
 include "mapinfo/HOUSES14.txt" // HOUSES14.wad
 include "mapinfo/IPXMATCH.txt" // IPXMATCH.wad
+include "mapinfo/OMGMAPS.txt" // OMGMAPS.wad
 include "mapinfo/OVERLOAD.txt" // OVERLOAD.wad
 include "mapinfo/PYRRHICXL.txt" // pyrrhicxl.wad
 include "mapinfo/SURGE.txt" // SURGE.wad

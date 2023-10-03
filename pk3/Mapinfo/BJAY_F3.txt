@@ -207,7 +207,7 @@ map BJF317 "BJAY_F3 Map 17"
 map BJF318 "BJAY_F3 Map 18"
 {
 	titlepatch = "CWILV17"
-	next = "MAP01"	// When a hub map gets introduced, replace this
+	next = "MAP01"
 	secretnext = "MAP01"
 	sky1 = "BJF3SKY2"
 	music = "D_BJF318"
