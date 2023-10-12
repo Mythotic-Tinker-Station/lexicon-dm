@@ -1,0 +1,5 @@
+[default]
+UI_WELCOME      =   "\c[White]Welcome to LexiconDM\n\n"
+                    "\c[White]-=Alpha version=-\n\n"
+                    "\c[White]Please report any problems you have to our discord via\n"
+                    "\c[Cyan]https://discord.gg/qj9GASW";

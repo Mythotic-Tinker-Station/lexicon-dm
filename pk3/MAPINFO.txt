@@ -1,3 +1,18 @@
+/*
+episode VR
+{
+	name = "The Sentinel's Lexicon"
+	key = "1"
+}
+
+map VR "Inside the Lexicon"
+{
+	music = "HUBMUS"
+	levelnum = 99
+	sky1 = "0TODSKY1"
+}
+*/
+
 // DWANGO Collection
 include "mapinfo/DWANGO1.txt" // DWANGO1.wad
 include "mapinfo/DWANGO2.txt" // DWANGO2.wad
