@@ -1,4 +1,5 @@
-/*
+clearepisodes
+
 episode VR
 {
 	name = "The Sentinel's Lexicon"
@@ -7,11 +8,10 @@ episode VR
 
 map VR "Inside the Lexicon"
 {
-	music = "HUBMUS"
+	music = "D_RUNNIN"
 	levelnum = 99
-	sky1 = "0TODSKY1"
+	sky1 = "_14"
 }
-*/
 
 // DWANGO Collection
 include "mapinfo/DWANGO1.txt" // DWANGO1.wad

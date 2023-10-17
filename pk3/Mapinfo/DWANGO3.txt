@@ -129,8 +129,8 @@ map DWAN314 "DWANGO3 Map 14"
 map DWAN315 "DWANGO3 Map 15"
 {
 	titlepatch = "CWILV14"
-	next = "MAP01"
-	secretnext = "MAP01"
+	next = "VR"
+	secretnext = "VR"
 	sky1 = "DWAN3SK2"
 	music = "D_DWG315"
 }

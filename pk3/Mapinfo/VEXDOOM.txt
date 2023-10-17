@@ -103,8 +103,8 @@ map TVOX11 "Intrinsic Violence Map 31"
 map TVOX12 "Intrinsic Violence Map 32"
 {
 	titlepatch = "CWILV31"
-	next = "MAP01"
-	secretnext = "MAP01"
+	next = "VR"
+	secretnext = "VR"
 	sky1 = "TOKESKY3"
 	music = "$MUSIC_ULTIMA"
 }

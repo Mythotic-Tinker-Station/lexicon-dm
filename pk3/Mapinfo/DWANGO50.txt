@@ -552,8 +552,8 @@ map DWANH50 "ozwango map13"
 
 map DWANH51 "ozwango map08"
 {
-	next = "MAP01"
-	secretnext = "MAP01"
+	next = "VR"
+	secretnext = "VR"
 	sky1 = "DWANHSK4"
 	music = "D_DWGH50"
 	intermusic = "D_DWGHI2"

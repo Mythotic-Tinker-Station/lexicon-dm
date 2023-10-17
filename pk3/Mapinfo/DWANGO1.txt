@@ -93,8 +93,8 @@ map DWAN110 "RAVEN2"
 map DWAN111 "CARNAGE!"
 {
 	titlepatch = "CWILV10"
-	next = "MAP01"
-	secretnext = "MAP01"
+	next = "VR"
+	secretnext = "VR"
 	sky1 = "SKY1"
 	music = "D_DWG111"
 }

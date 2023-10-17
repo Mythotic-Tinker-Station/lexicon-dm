@@ -66,8 +66,8 @@ map SYNJ9407 "SYNJ9408 Map 7"
 map SYNJ9408 "SYNJ9408 Map 8"
 {
 	titlepatch = "CWILV07"
-	next = "MAP01"
-	secretnext = "MAP01"
+	next = "VR"
+	secretnext = "VR"
 	sky1 = "SKY1"
 	music = "$MUSIC_DDTBLU"
 }

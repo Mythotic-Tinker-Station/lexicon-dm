@@ -93,8 +93,8 @@ map DWAN210 "D9-2"
 map DWAN211 "RALPHII"
 {
 	titlepatch = "CWILV10"
-	next = "MAP01"
-	secretnext = "MAP01"
+	next = "VR"
+	secretnext = "VR"
 	sky1 = "DWAN2SKY"
 	music = "D_DWG211"
 }

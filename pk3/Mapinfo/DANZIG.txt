@@ -102,8 +102,8 @@ map DANZ11 "DANZIG2 #19"
 map DANZ12 "DANZIG2 #20"
 {
 	titlepatch = "CWILV11"
-	next = "MAP01"
-	secretnext = "MAP01"
+	next = "VR"
+	secretnext = "VR"
 	sky1 = "RSKY2"
 	music = "D_MESSAG"
 }

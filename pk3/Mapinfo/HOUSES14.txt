@@ -84,8 +84,8 @@ map HOUS09 "HOUSES14 Map 9"
 map HOUS10 "HOUSES14 Map 10"
 {
 	titlepatch = "CWILV09"
-	next = "MAP01"
-	secretnext = "MAP01"
+	next = "VR"
+	secretnext = "VR"
 	sky1 = "HOUSESKY"
 	music = "D_HOUS10"
 }

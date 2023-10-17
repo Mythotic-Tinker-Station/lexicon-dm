@@ -352,8 +352,8 @@ map BOUG29 "Twilight in September"
 map BOUG30 "Delineated Light"
 {
 	titlepatch = "BOURV29"
-	next = "BOUG01"
-	secretnext = "BOUG01"
+	next = "VR"
+	secretnext = "VR"
 	sky1 = "BOURSKY3", 0.0
 	music = "D_BOUR30" // Alien Sun by Cedyn
 	intermusic = "D_BOURIN"

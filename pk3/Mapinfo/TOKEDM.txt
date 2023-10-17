@@ -75,8 +75,8 @@ map TOKE08 "TOKEDM Map 8"
 map TOKE09 "TOKEDM Map 9"
 {
 	titlepatch = "CWILV08"
-	next = "MAP01"
-	secretnext = "MAP01"
+	next = "VR"
+	secretnext = "VR"
 	sky1 = "TOKESKY1"
 	music = "$MUSIC_IN_CIT"
 }
