@@ -1,4 +1,4 @@
-// Doomkid's Deathmatch 4
+// Doomkid's Deathmatch 4 Mapinfo
 
 map DK0401 "Brix N' Blood"
 {

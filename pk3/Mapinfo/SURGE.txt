@@ -1,4 +1,4 @@
-// Surge DM
+// Surge DM Mapinfo
 
 map SRG101 "Dead Right"
 {

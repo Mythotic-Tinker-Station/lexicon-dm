@@ -1,4 +1,4 @@
-// Doomkid's Deathmatch
+// Doomkid's Deathmatch Mapinfo
 
 map DK1301 "Doomkid's Deathmatch Map 1"
 {

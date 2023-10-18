@@ -1,4 +1,4 @@
-// Green War
+// Green War Mapinfo
 
 map GNW101 "Green War Map 1"
 {

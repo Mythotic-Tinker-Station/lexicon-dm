@@ -62,9 +62,9 @@ include "mapinfo/OVERLOAD.txt" // OVERLOAD.wad
 include "mapinfo/PYRRHICXL.txt" // pyrrhicxl.wad
 include "mapinfo/SURGE.txt" // SURGE.wad
 include "mapinfo/SYNJ9408.txt" // SYNJ9408.wad
-include "mapinfo/TOKEDM.txt" // TokeDM.wad
 include "mapinfo/TNTBLOOD.txt" // TNTBLOOD.wad
 include "mapinfo/TNTGRVNC.txt" // TNTGRVNC.wad
 include "mapinfo/TNTPURST.txt" // TNTPURST.wad
+include "mapinfo/TOKEDM.txt" // TokeDM.wad
 include "mapinfo/TWANGO1.txt" // TWANGO1.wad
 include "mapinfo/VEXDOOM.txt" // vex-doom.wad

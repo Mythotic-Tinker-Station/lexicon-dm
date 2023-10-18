@@ -1,4 +1,4 @@
-// The Bigger Thirty-Two
+// The Bigger Thirty-Two Mapinfo
 
 map BG3201 "BIGGER32 Map 1"
 {

@@ -1,6 +1,62 @@
 LexiconDM Authors
 -----------------
-* Write down the authors here.
+DWANGO1: DWANGO Team
+DWANGO2: DWANGO Team
+DWANGO3: DWANGO Team
+DWANGO4: DWANGO Team
+DWANGO5: DWANGO Team
+DWANGO6: DWANGO Team
+DWANGO7: DWANGO Team
+DWANGO8: DWANGO Team
+DWANGO10: DWANGO Team
+DWANGO11: DWANGO Team
+DWANGO12: DWANGO Team
+AZDWANGO: DWANGO Team
+DCDWANGO: DWANGO Team
+LBDWANGO: DWANGO Team
+OZWANGO: DWANGO Team
+DWANGOX: DWANGO Team
+#1DWANGO: DWANGO Team
+DWANGO!: DWANGO Team
+DWANGO 20th Anniversary Edition: Doomkid
+The Best of DWANGO: DWANGO50: Doomkid
+
+Addictive Deathmatch Series: Iikka "Fingers" Kernen
+The Bigger Thirty Two: Yuzz
+BeeJay's DooM 2 Deathmatch Party: _BeeJay_
+Bloodlands: Team TNT
+BLUDBATH: Olympus BBS
+Bourgeois Deathmatch: Decay, Doomkid, and Razgriz
+Bucket DM 2: "bucket" Brendan Bradley
+Danzig: B. Vannatta and B. Weldon
+Danzig 2: B. Vannatta and B. Weldon
+Decamatch 1: Team Onslaught
+Decamatch 2: Team Onslaught
+Doomkid's Deathmatch: Doomkid
+Doomkid's Deathmatch 2: Doomkid
+Doomkid's Deathmatch 3: Doomkid
+Doomkid's Deathmatch 4: Doomkid
+Eternal Deathmatch Set: Team TNT
+Execution Deathmatch + The British Doom II League Season 10 & 11: British Doom League BBS + Vincent Fong
+The Final Frag: FraGMarE
+FreeDM Classic Edition: OpenRift + FreeDoom Project Team
+Gothic DM: Anthony Czerwonka
+Gothic DM 2: Anthony Czerwonka
+Green War: Jason "Hellbent/Grotug/Jacobi" Root
+Grievance: Team TNT
+Houses 1.4: Michael Lundy
+Intrinsic Violence: Dylan McIntosh (Toke)
+IPXMATCH: Jeannot "NUMBeRsiX" Langlois
+OMGMAPS: Dylan McIntosh (Toke)
+Overload Deathmatches: Ola Bjorling
+Pursuit: Team TNT
+Pyrrhic XL: hobomaster22
+Surge DM: Nick Baker
+SynJ. Series: SynJ
+TokeDM: Dylan McIntosh (Toke)
+TWANGO1: TWANGO1 team
+
+* More information about the authors and mapsets can be found in the credits folder.
 
 LexiconDM Team
 --------------
@@ -13,6 +69,9 @@ Cubebert
 Developer:
 Shadowlink223
 
+Map Voting System:
+Yagotzirck
+
 Beta Testers:
 Powerful_Hoe, Apoc, Radiocaster, Shakar-a'tar, The Proverbial Derp, Kaapeli, tehvappy50
 
@@ -22,4 +81,4 @@ MiFU
 Lead Lexicon Developer:
 Tribeam
 
-* The LexiconDM team would like to give special thanks to the following: Festrada, Samsara: Reincarnation, FAP (the best server host we could ask for), The Mythotic Tinker-Station, Retro Surge Gaming, Hendricks266, Samus Mahomes, DementedQueen, Copper, Torq2112, Xenaero, MameXLIII, Endless, Arrowhead, sh0rtstack, rezb1t, Absolute Truthseeker, Infamous Nightraid, and Sgt. Mark IV
+* The LexiconDM team would like to give special thanks to the following: Festrada, Samsara: Reincarnation, FAP (the best server host we could ask for), The Mythotic Tinker-Station, Retro Surge Gaming, Hendricks266, Samus Mahomes, DementedQueen, Copper, Torq2112, Xenaero, MameXLIII, Endless, Arrowhead, sh0rtstack, rezb1t, Absolute Truthseeker, Infamous Nightraid, and Sgt. Mark IV.

@@ -1,4 +1,4 @@
-// FINALFRG Mapinfo
+// The Final Frag Mapinfo
 
 map FNLFRG01 "Singe"
 {

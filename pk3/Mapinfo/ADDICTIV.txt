@@ -1,4 +1,4 @@
-// ADDICTIV Mapinfo
+// Addictive Deathmatch Series Mapinfo
 
 map ADCV01 "The Great Hall"
 {

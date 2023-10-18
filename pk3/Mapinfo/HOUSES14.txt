@@ -1,4 +1,4 @@
-// HOUSES14 Mapinfo
+// Houses 1.4 Mapinfo
 
 map HOUS01 "HOUSES14 Map 1"
 {

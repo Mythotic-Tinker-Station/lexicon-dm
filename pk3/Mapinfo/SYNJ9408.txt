@@ -1,4 +1,4 @@
-// SYNJ9408 Mapinfo
+// SynJ. Series Mapinfo
 
 map SYNJ9401 "SYNJ9408 Map 1"
 {

@@ -1,4 +1,4 @@
-// GOTHIC2 Mapinfo
+// Gothic DM 2 Mapinfo
 
 map GDM201 "Ruckas"
 {

@@ -1,4 +1,4 @@
-// GOTHICDM Mapinfo
+// Gothic DM Mapinfo
 
 map GDM101 "Yesterday's Void"
 {

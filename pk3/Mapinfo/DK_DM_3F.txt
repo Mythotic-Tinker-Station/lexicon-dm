@@ -1,4 +1,4 @@
-// Doomkid's Deathmatch Collection
+// Doomkid's Deathmatch Collection Mapinfo
 
 map DK0301 "Deathmatch Factory"
 {

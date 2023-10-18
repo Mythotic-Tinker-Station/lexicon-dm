@@ -1,4 +1,4 @@
-// BeeJay's DooM 2 Deathmatch Party
+// BeeJay's DooM 2 Deathmatch Party Mapinfo
 
 map BJF301 "BJAY_F3 Map 1"
 {
