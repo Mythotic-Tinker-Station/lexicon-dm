@@ -11,6 +11,7 @@ map VR "Inside the Lexicon"
 	music = "D_RUNNIN"
 	levelnum = 99
 	sky1 = "_14"
+	music = "LXHUBMUS"
 }
 
 // DWANGO Collection
