@@ -63,13 +63,11 @@ LexiconDM Team
 Project Lead:
 meleemario
 
-Senior Developer:
-Cubebert
-
-Developer:
+Developers:
+cubebert
 Shadowlink223
 
-Map Voting System:
+Mapset Voting System:
 Yagotzirck
 
 Beta Testers:
