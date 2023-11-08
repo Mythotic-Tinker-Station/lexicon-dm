@@ -8,7 +8,7 @@ episode VR
 
 map VR "Inside the Lexicon"
 {
-	music = "LXHUBMUS"
+	music = "LXHBMS00"
 	levelnum = 99
 	sky1 = "_14"
 }
