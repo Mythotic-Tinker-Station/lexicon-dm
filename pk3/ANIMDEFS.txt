@@ -11,7 +11,7 @@ texture DW200105 range DW200106 tics 8
 texture ADCV0004 range ADCV0007 tics 8
 
 // BLUDBATH
-texture BLDBTH02 range ADCV0005 tics 8
+texture BLDBTH02 range BLDBTH05 tics 8
 
 // BOURGDM
 texture BOUG0063 range BOUG0066 tics 8
