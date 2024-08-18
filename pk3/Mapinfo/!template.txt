@@ -62,6 +62,7 @@ map MAP07 lookup "HUSTR_7"
 	secretnext = "MAP08"
 	sky1 = "SKY1"
 	music = "$MUSIC_SHAWN"
+	Map07Special
 }
 
 map MAP08 lookup "HUSTR_8"
@@ -265,16 +266,17 @@ map MAP29 lookup "HUSTR_29"
 map MAP30 lookup "HUSTR_30"
 {
 	titlepatch = "CWILV29"
-	next = "MAP31"
-	secretnext = "MAP31"
+	next = "VR"
+	secretnext = "VR"
 	sky1 = "SKY3"
 	music = "$MUSIC_OPENIN"
+	allowmonstertelefrags
 }
 
 map MAP31 lookup "HUSTR_31"
 {
 	titlepatch = "CWILV30"
-	next = "MAP32"
+	next = "MAP16"
 	secretnext = "MAP32"
 	sky1 = "SKY3"
 	music = "$MUSIC_EVIL"
@@ -283,8 +285,8 @@ map MAP31 lookup "HUSTR_31"
 map MAP32 lookup "HUSTR_32"
 {
 	titlepatch = "CWILV31"
-	next = "VR"
-	secretnext = "VR"
+	next = "MAP16"
+	secretnext = "MAP16"
 	sky1 = "SKY3"
 	music = "$MUSIC_ULTIMA"
 }

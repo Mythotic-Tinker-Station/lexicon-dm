@@ -1,19 +1,7 @@
-clearepisodes
-
-episode VR
-{
-	name = "The Sentinel's Lexicon"
-	key = "1"
-}
-
-map VR "Inside the Lexicon"
-{
-	music = "LXHBMS00"
-	levelnum = 99
-	sky1 = "_14"
-}
-
-// DWANGO Collection
+include "mapinfo/#1DWANGO.txt" // #1DWANGO.wad
+include "mapinfo/DANZIG1.txt" // DANZIG1.wad
+include "mapinfo/DANZIG2.txt" // DANZIG2.wad
+include "mapinfo/DURANGO.txt" // Durangov1.wad
 include "mapinfo/DWANGO1.txt" // DWANGO1.wad
 include "mapinfo/DWANGO2.txt" // DWANGO2.wad
 include "mapinfo/DWANGO3.txt" // DWANGO3.wad
@@ -25,46 +13,7 @@ include "mapinfo/DWANGO8.txt" // DWANGO8.wad
 include "mapinfo/DWANGO10.txt" // DWANGO10.wad
 include "mapinfo/DWANGO11.txt" // DWANGO11.wad
 include "mapinfo/DWANGO12.txt" // DWANGO12.wad
-include "mapinfo/AZDWANGO.txt" // AZDWANGO.wad
-include "mapinfo/DCDWANGO.txt" // DCDWANGO.wad
-include "mapinfo/LBDWANGO.txt" // LBDWANGO.wad
-include "mapinfo/OZWANGO.txt" // OZWANGO.wad
-include "mapinfo/DWANGO50.txt" // DWANGO50.wad
 include "mapinfo/DWANGOX.txt" // DWANGOX.wad
-include "mapinfo/1DWANGO.txt" // #1DWANGO.wad
 include "mapinfo/DWANGO!.txt" // DWANGO!.wad
-include "mapinfo/DWANGO20.txt" // DWANGO20.wad
-
-// Vanilla Maps
-include "mapinfo/ADDICTIV.txt" // ADDICTIV.wad
-include "mapinfo/BIGGER32.txt" // BIGGER32.wad
-include "mapinfo/BJAY_F3.txt" // BJAY_F3.wad
-include "mapinfo/BLUDBATH.txt" // BLUDBATH.wad
-include "mapinfo/BOURGDM.txt" // BourgDM_Unity.wad
-include "mapinfo/BRITDM.txt" // execbrit10brit11.wad
-include "mapinfo/BUCKETDM2.txt" // BucketDM2.wad
-include "mapinfo/DANZIG.txt" // DANZIG1+2; added by meleemario
-include "mapinfo/DECA.txt" // deca-complete.wad
-include "mapinfo/DK_DM_13.txt" // DK_DM_13.wad
-include "mapinfo/DK_DM_2.txt" // DK_DM_2.wad
-include "mapinfo/DK_DM_3F.txt" // DK_DM_3F.wad
-include "mapinfo/DK_DM_4.txt" // DK_DM_4.wad
-include "mapinfo/EDM.txt" // EDM.wad
-include "mapinfo/FINALFRG.txt" // FINALFRG.wad
-include "mapinfo/FREEDMCE.TXT" // FREEDMCE.wad
-include "mapinfo/GOTHICDM.txt" // GOTHICDM.wad
-include "mapinfo/GOTHIC2.txt" // GOTHIC2.wad
-include "mapinfo/GREENWAR.txt" // GREENWAR.wad
-include "mapinfo/HOUSES14.txt" // HOUSES14.wad
-include "mapinfo/IPXMATCH.txt" // IPXMATCH.wad
-include "mapinfo/OMGMAPS.txt" // OMGMAPS.wad
-include "mapinfo/OVERLOAD.txt" // OVERLOAD.wad
-include "mapinfo/PYRRHICXL.txt" // pyrrhicxl.wad
-include "mapinfo/SURGE.txt" // SURGE.wad
-include "mapinfo/SYNJ9408.txt" // SYNJ9408.wad
-include "mapinfo/TNTBLOOD.txt" // TNTBLOOD.wad
-include "mapinfo/TNTGRVNC.txt" // TNTGRVNC.wad
-include "mapinfo/TNTPURST.txt" // TNTPURST.wad
-include "mapinfo/TOKEDM.txt" // TokeDM.wad
-include "mapinfo/TWANGO1.txt" // TWANGO1.wad
-include "mapinfo/VEXDOOM.txt" // vex-doom.wad
+include "mapinfo/TOKEDM.txt" // TOKEDM.wad
+include "mapinfo/WANG.txt" // wang.wad

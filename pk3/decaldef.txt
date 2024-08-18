@@ -1,0 +1,97 @@
+// DWANGO1
+generator Lexicon_DW01_ArachnotronPlasma	ArachnotronScorch
+generator Lexicon_DW01_PlasmaBall	PlasmaScorch
+
+// DWANGO6
+generator Lexicon_DW06_Pistol	BulletChip
+generator Lexicon_DW06_Shotgun	BulletChip
+generator Lexicon_DW06_Chaingun	BulletChip
+
+generator Lexicon_DW06_ZombieMan	BulletChip
+generator Lexicon_DW06_ShotgunGuy	BulletChip
+generator Lexicon_DW06_ChaingunGuy	BulletChip
+generator Lexicon_DW06_SpiderMastermind	BulletChip
+
+// DWANGO7
+generator Lexicon_DW07_Shotgun	BulletChip
+generator Lexicon_DW07_SuperShotgun	BulletChip
+
+generator Lexicon_DW07_ShotgunGuy	BulletChip
+generator Lexicon_DW07_ChaingunGuy	BulletChip
+generator Lexicon_DW07_SpiderMastermind	BulletChip
+
+// DWANGO10
+generator Lexicon_DW10_ArachnotronPlasma	ArachnotronScorch
+generator Lexicon_DW10_PlasmaBall	PlasmaScorch
+
+generator Lexicon_DW10_ChaingunGuy	BulletChip
+
+// DWANGO11
+decal Lexicon_DW11_PlasmaScorch1
+{
+	pic LZ00E0
+	add 1.0
+	fullbright
+	animator GoAway
+	lowerdecal PlasmaScorchLower1
+}
+
+decal Lexicon_DW11_PlasmaScorch2
+{
+	pic LZ00F0
+	add 1.0
+	fullbright
+	animator GoAway
+	lowerdecal PlasmaScorchLower2
+}
+
+decalgroup Lexicon_DW11_PlasmaScorch
+{
+	Lexicon_DW11_PlasmaScorch1	1
+	Lexicon_DW11_PlasmaScorch2	1
+}
+
+decal Lexicon_DW11_BFGLightning1
+{
+	pic BFGLITE1
+	shade "80 80 ff"
+	fullbright
+	randomflipx
+	animator GoAway2
+	lowerdecal BFGScorch
+}
+
+decal Lexicon_DW11_BFGLightning2
+{
+	pic BFGLITE2
+	shade "80 80 ff"
+	fullbright
+	randomflipy
+	animator GoAway2
+	lowerdecal BFGScorch
+}
+
+decalgroup Lexicon_DW11_BFGLightning
+{
+	Lexicon_DW11_BFGLightning1	1
+	Lexicon_DW11_BFGLightning2	1
+}
+
+generator Lexicon_DW11_ArachnotronPlasma	ArachnotronScorch
+generator Lexicon_DW11_PlasmaBall	Lexicon_DW11_PlasmaScorch
+generator Lexicon_DW11_BFGBall	Lexicon_DW11_BFGLightning
+
+// DWANGO12
+generator Lexicon_DW12_ArachnotronPlasma	ArachnotronScorch
+generator Lexicon_DW12_PlasmaBall	PlasmaScorch
+
+// DWANGOX
+generator Lexicon_DW0X_ArachnotronPlasma	ArachnotronScorch
+generator Lexicon_DW0X_PlasmaBall	PlasmaScorch
+generator Lexicon_DW0X_BFGBall	Lexicon_DW11_BFGLightning
+generator Lexicon_DW0X_Shotgun	BulletChip
+generator Lexicon_DW0X_SuperShotgun	BulletChip
+generator Lexicon_DW0X_Rocket	Scorch
+
+generator Lexicon_DW0X_ShotgunGuy	BulletChip
+generator Lexicon_DW0X_ChaingunGuy	BulletChip

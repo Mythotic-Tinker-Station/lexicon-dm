@@ -1,100 +1,107 @@
 // DWANGO2 Mapinfo
 
-map DWAN201 "BILL"
+defaultmap
+{
+	nojump
+	nocrouch
+}
+
+map DW0201 "DWANGO2 Map 1"
 {
 	titlepatch = "CWILV00"
-	next = "DWAN202"
-	secretnext = "DWAN202"
-	sky1 = "DWAN2SKY"
-	music = "D_DWG201"
+	next = "DW0202"
+	secretnext = "DW0202"
+	sky1 = "DW020230"
+	music = "D_DW0201"
 }
 
-map DWAN202 "RALPHII"
+map DW0202 "DWANGO2 Map 2"
 {
 	titlepatch = "CWILV01"
-	next = "DWAN203"
-	secretnext = "DWAN203"
-	sky1 = "DWAN2SKY"
-	music = "D_DWG202"
+	next = "DW0203"
+	secretnext = "DW0203"
+	sky1 = "DW020230"
+	music = "D_DW0202"
 }
 
-map DWAN203 "RALPHII"
+map DW0203 "DWANGO2 Map 3"
 {
 	titlepatch = "CWILV02"
-	next = "DWAN204"
-	secretnext = "DWAN204"
-	sky1 = "DWAN2SKY"
-	music = "D_DWG203"
+	next = "DW0204"
+	secretnext = "DW0204"
+	sky1 = "DW020230"
+	music = "D_DW0203"
 }
 
-map DWAN204 "SLAPME2"
+map DW0204 "DWANGO2 Map 4"
 {
 	titlepatch = "CWILV03"
-	next = "DWAN205"
-	secretnext = "DWAN205"
-	sky1 = "DWAN2SKY"
-	music = "D_DWG204"
+	next = "DW0205"
+	secretnext = "DW0205"
+	sky1 = "DW020230"
+	music = "D_DW0204"
 }
 
-map DWAN205 "TERROR"
+map DW0205 "DWANGO2 Map 5"
 {
 	titlepatch = "CWILV04"
-	next = "DWAN206"
-	secretnext = "DWAN206"
-	sky1 = "DWAN2SKY"
-	music = "D_DWG205"
+	next = "DW0206"
+	secretnext = "DW0206"
+	sky1 = "DW020230"
+	music = "D_DW0205"
 }
 
-map DWAN206 "COCHRAN"
+map DW0206 "DWANGO2 Map 6"
 {
 	titlepatch = "CWILV05"
-	next = "DWAN207"
-	secretnext = "DWAN207"
-	sky1 = "DWAN2SKY"
-	music = "D_DWG206"
+	next = "DW0207"
+	secretnext = "DW0207"
+	sky1 = "DW020230"
+	music = "D_DW0206"
 }
 
-map DWAN207 "DOOM"
+map DW0207 "DWANGO2 Map 7"
 {
 	titlepatch = "CWILV06"
-	next = "DWAN208"
-	secretnext = "DWAN208"
-	sky1 = "DWAN2SKY"
-	music = "D_DWG207"
+	next = "DW0208"
+	secretnext = "DW0208"
+	sky1 = "DW020230"
+	music = "D_DW0207"
+	Map07Special
 }
 
-map DWAN208 "D9-2"
+map DW0208 "DWANGO2 Map 8"
 {
 	titlepatch = "CWILV07"
-	next = "DWAN209"
-	secretnext = "DWAN209"
-	sky1 = "DWAN2SKY"
-	music = "D_DWG208"
+	next = "DW0209"
+	secretnext = "DW0209"
+	sky1 = "DW020230"
+	music = "D_DW0208"
 }
 
-map DWAN209 "RAVEN11"
+map DW0209 "DWANGO2 Map 9"
 {
 	titlepatch = "CWILV08"
-	next = "DWAN210"
-	secretnext = "DWAN210"
-	sky1 = "DWAN2SKY"
-	music = "D_DWG209"
+	next = "DW0210"
+	secretnext = "DW0210"
+	sky1 = "DW020230"
+	music = "D_DW0209"
 }
 
-map DWAN210 "D9-2"
+map DW0210 "DWANGO2 Map 10"
 {
 	titlepatch = "CWILV09"
-	next = "DWAN211"
-	secretnext = "DWAN211"
-	sky1 = "DWAN2SKY"
-	music = "D_DWG210"
+	next = "DW0211"
+	secretnext = "DW0211"
+	sky1 = "DW020230"
+	music = "D_DW0210"
 }
 
-map DWAN211 "RALPHII"
+map DW0211 "DWANGO2 Map 11"
 {
 	titlepatch = "CWILV10"
 	next = "VR"
 	secretnext = "VR"
-	sky1 = "DWAN2SKY"
-	music = "D_DWG211"
+	sky1 = "DW020230"
+	music = "D_DW0211"
 }

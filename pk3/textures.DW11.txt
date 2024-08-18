@@ -1,0 +1,142 @@
+WallTexture "DW110285", 128, 128
+{
+	Patch "BROWN96", 0, 0
+	Patch "DW110438", 48, 72
+}
+
+WallTexture "DW110286", 64, 128
+{
+	Patch "BIGBRIK2", 0, 0
+	Patch "DW110438", 16, 72
+}
+
+WallTexture "DW110287", 128, 128
+{
+	Patch "BROWN96", 0, 0
+	Patch "DW110438", 48, 72
+}
+
+WallTexture "DW110292", 64, 72
+{
+	Patch "W13_1", 0, 0
+	Patch "DW110438", 15, 18
+}
+
+WallTexture "DW110294", 64, 128
+{
+	Patch "WALL00_7", 32, 0
+	Patch "WALL00_6", 16, 0
+	Patch "DW110438", 16, 20
+	Patch "WALL00_6", 0, -16
+	Patch "WALL00_7", 48, 0
+}
+
+WallTexture "DW110303", 64, 128
+{
+	Patch "METAL2", 0, 0
+	Patch "DW110438", 16, 20
+}
+
+WallTexture "DW110313", 128, 128
+{
+	Patch "BROWN96", 0, 0
+	Patch "DW110438", 48, 72
+}
+
+WallTexture "DW110314", 64, 128
+{
+	Patch "W28_8", 0, 64
+	Patch "W28_8", 0, 0
+	Patch "DW110438", 16, 78
+}
+
+WallTexture "DW110315", 128, 128
+{
+	Patch "BROWN96", 0, 0
+	Patch "DW110438", 48, 72
+}
+
+WallTexture "DW110317", 128, 128
+{
+	Patch "BROWN96", 0, 0
+	Patch "DW110438", 48, 72
+}
+
+WallTexture "DW110318", 64, 128
+{
+	Patch "SW12_4", 0, 0
+	Patch "SW12_5", 32, 0
+	Patch "DW110438", 16, 72
+}
+
+WallTexture "DW110325", 128, 128
+{
+	Patch "BROWN96", 0, 0
+	Patch "DW110439", 48, 72
+}
+
+WallTexture "DW110326", 64, 128
+{
+	Patch "BIGBRIK2", 0, 0
+	Patch "DW110439", 16, 72
+}
+
+WallTexture "DW110327", 128, 128
+{
+	Patch "BROWN96", 0, 0
+	Patch "DW110439", 48, 72
+}
+
+WallTexture "DW110332", 64, 72
+{
+	Patch "W13_1", 0, 0
+	Patch "DW110439", 15, 18
+}
+
+WallTexture "DW110334", 64, 128
+{
+	Patch "WALL00_8", 48, 0
+	Patch "WALL00_7", 32, 0
+	Patch "WALL00_6", 16, 0
+	Patch "WALL00_5", 0, -1
+	Patch "DW110439", 16, 20
+}
+
+WallTexture "DW110343", 64, 128
+{
+	Patch "METAL2", 0, 0
+	Patch "DW110439", 16, 20
+}
+
+WallTexture "DW110353", 128, 128
+{
+	Patch "BROWN96", 0, 0
+	Patch "DW110439", 48, 72
+}
+
+WallTexture "DW110354", 64, 128
+{
+	Patch "W28_8", 0, 64
+	Patch "W28_8", 0, 0
+	Patch "DW110439", 16, 78
+}
+
+WallTexture "DW110355", 128, 128
+{
+	Patch "BROWN96", 0, 0
+	Patch "DW110439", 48, 72
+}
+
+WallTexture "DW110357", 128, 128
+{
+	Patch "BROWN96", 0, 0
+	Patch "DW110439", 48, 72
+}
+
+WallTexture "DW110358", 64, 128
+{
+	Patch "SW12_4", 0, 0
+	Patch "SW12_5", 32, 0
+	Patch "DW110439", 16, 72
+}
+

@@ -1,0 +1,300 @@
+WallTexture "DW020429", 24, 72
+{
+	Patch "WALL00_3", 0, 0
+	Patch "WALL00_3", 12, -6
+}
+
+WallTexture "DW020433", 64, 128
+{
+	Patch "BROWN96", 0, 0
+	Patch "PS20A0", 0, 57
+}
+
+WallTexture "DW020434", 256, 128
+{
+	Patch "DW020502", 0, 0
+	Patch "DW020503", 64, 0
+	Patch "DW020505", 128, 0
+	Patch "DW020504", 192, 0
+	Patch "DW020507", 0, 64
+	Patch "DW020509", 64, 64
+	Patch "DW020508", 128, 64
+	Patch "DW020506", 192, 64
+	Patch "STEP08", 0, 56
+	Patch "STEP08", 32, 56
+	Patch "STEP08", 64, 56
+	Patch "STEP08", 96, 56
+	Patch "STEP08", 128, 56
+	Patch "STEP08", 160, 56
+	Patch "STEP08", 192, 56
+	Patch "STEP08", 224, 56
+	Patch "STEP08", 0, 120
+	Patch "STEP08", 32, 120
+	Patch "STEP08", 64, 120
+	Patch "STEP08", 96, 120
+	Patch "STEP08", 128, 120
+	Patch "STEP08", 160, 120
+	Patch "STEP08", 192, 120
+	Patch "STEP08", 224, 120
+}
+
+WallTexture "DW020435", 128, 128
+{
+	Patch "DW020511", 0, 0
+	Patch "COMP03_1", 32, 0
+	Patch "DW020510", 96, 0
+	Patch "DW020511", 0, 64
+	Patch "COMP03_1", 32, 64
+	Patch "DW020510", 96, 64
+}
+
+WallTexture "DW020436", 128, 128
+{
+	Patch "DW020498", 26, 64
+	Patch "DW020497", 0, 64
+	Patch "W33_8", 0, 56
+	Patch "W33_8", 64, 56
+	Patch "W33_8", 0, 120
+	Patch "W33_8", 64, 120
+	Patch "DW020498", 28, 0
+	Patch "DW020501", 72, 64
+	Patch "DW020499", 72, 0
+	Patch "DW020500", 0, 0
+}
+
+WallTexture "DW020437", 256, 56
+{
+	Patch "DW020502", 0, 0
+	Patch "DW020503", 64, 0
+	Patch "DW020504", 128, 0
+	Patch "DW020508", 192, 0
+}
+
+WallTexture "DW020438", 128, 128
+{
+	Patch "SW11_4", 0, 4
+	Patch "DW020496", 32, 4
+	Patch "SW11_4", 64, 4
+	Patch "DW020502", 0, 0
+	Patch "DW020496", 96, 4
+	Patch "DW020503", 64, 0
+	Patch "STEP08", 0, 56
+	Patch "STEP08", 32, 56
+	Patch "STEP08", 64, 56
+	Patch "STEP08", 96, 56
+}
+
+WallTexture "DW020439", 64, 128
+{
+	Patch "WALL02_2", 0, 56
+	Patch "WALL02_2", 0, 0
+	Patch "DW020513", 5, 0
+	Patch "DW020513", 35, 0
+}
+
+WallTexture "DW020440", 16, 128
+{
+	Patch "T14_5", 0, 56
+	Patch "WLITA0", 0, 0
+	Patch "WLITC0", 8, 0
+	Patch "WLITA0", 0, 48
+	Patch "WLITC0", 8, 48
+	Patch "WLITA0", 0, 40
+	Patch "WLITC0", 8, 40
+	Patch "WLITA0", 0, 32
+	Patch "WLITC0", 8, 32
+	Patch "WLITA0", 0, 24
+	Patch "WLITC0", 8, 24
+	Patch "WLITA0", 0, 16
+	Patch "WLITC0", 8, 16
+	Patch "WLITA0", 0, 8
+	Patch "WLITC0", 8, 8
+}
+
+WallTexture "DW020442", 16, 128
+{
+	Patch "DW020484", 0, 0
+	Patch "DW020484", 0, 56
+}
+
+WallTexture "DW020444", 256, 128
+{
+	Patch "SHAWN2", 0, 0
+	Patch "DW020514", 4, 69
+	Patch "SHAWN2", 64, 0
+	Patch "DW020515", 68, 69
+	Patch "SHAWN2", 128, 0
+	Patch "DW020516", 132, 69
+	Patch "DW020517", 68, 7
+	Patch "DW020518", 4, 7
+	Patch "DW020519", 132, 7
+	Patch "SHAWN2", 192, 0
+}
+
+WallTexture "DW020445", 128, 128
+{
+	Patch "DW020486", 0, 56
+	Patch "DW020487", 64, 56
+	Patch "DW020486", 0, 0
+	Patch "DW020487", 64, 0
+}
+
+WallTexture "DW020449", 64, 128
+{
+	Patch "SW12_4", 0, 0
+	Patch "SW12_5", 32, 0
+}
+
+WallTexture "DW020450", 64, 128
+{
+	Patch "WALL01_1", 0, 0
+	Patch "WALL01_2", 16, 0
+	Patch "WALL01_3", 32, 0
+	Patch "WALL01_4", 48, 0
+	Patch "WALL01_1", 0, 72
+	Patch "WALL01_2", 16, 72
+	Patch "WALL01_3", 32, 72
+	Patch "WALL01_4", 48, 72
+	Patch "W33_8", 0, 64
+	Patch "W33_8", 0, 120
+	Patch "PS20A0", 1, 43
+}
+
+WallTexture "DW020459", 256, 128
+{
+	Patch "WALL02_2", 0, 56
+	Patch "WALL02_2", 0, 0
+	Patch "WALL02_1", 88, 56
+	Patch "WALL02_1", 88, 0
+	Patch "WALL02_3", 64, 56
+	Patch "WALL02_3", 64, 0
+	Patch "WALL02_3", 152, 56
+	Patch "WALL02_3", 152, 0
+	Patch "WALL02_3", 232, 56
+	Patch "WALL02_2", 176, 56
+	Patch "WALL02_3", 232, 0
+	Patch "WALL02_2", 176, 0
+	Patch "DW020472", 0, 0
+}
+
+WallTexture "DW020460", 256, 72
+{
+	Patch "WALL03_4", 0, 0
+	Patch "DW020531", 128, 0
+	Patch "WALL03_4", 64, 0
+	Patch "WALL03_4", 192, 0
+}
+
+WallTexture "DW020461", 128, 128
+{
+	Patch "CEMENT1", 0, 0
+	Patch "PS20A0", 0, 28
+}
+
+WallTexture "DW020462", 128, 128
+{
+	Patch "DW020533", 64, 70
+	Patch "DW020535", 0, 70
+	Patch "DW020534", 0, -2
+	Patch "DW020533", 64, -2
+}
+
+WallTexture "DW020463", 64, 128
+{
+	Patch "DW020536", 0, 0
+	Patch "DW020536", 0, 32
+	Patch "DW020536", 0, 96
+	Patch "DW020536", 0, 64
+}
+
+WallTexture "DW020464", 64, 128
+{
+	Patch "W33_7", 0, 0
+	Patch "W33_7", 0, 64
+	Patch "DW020544", 14, 74
+}
+
+WallTexture "DW020465", 64, 72
+{
+	Patch "WALL69_4", 0, 9
+	Patch "DW020523", 0, 0
+}
+
+WallTexture "DW020466", 64, 128
+{
+	Patch "WALL69_4", 0, 0
+	Patch "DW020522", 4, 0
+	Patch "W32_4", 0, 64
+}
+
+WallTexture "DW020467", 64, 128
+{
+	Patch "BROWN96", -1, 0
+	Patch "DW020513", 4, 18
+	Patch "DW020513", 38, 18
+}
+
+WallTexture "DW020468", 128, 128
+{
+	Patch "WALL03_7", 0, 0
+	Patch "WALL03_7", 64, 0
+	Patch "WALL03_7", 0, 64
+	Patch "WALL03_7", 64, 64
+	Patch "DW020513", 81, 34
+	Patch "DW020513", 19, 34
+}
+
+WallTexture "DW020469", 16, 128
+{
+	Patch "DW020532", -4, 56
+	Patch "DW020532", -4, 0
+}
+
+WallTexture "DW020470", 64, 128
+{
+	Patch "W28_5", 0, 0
+	Patch "W28_8", 0, 64
+	Patch "DW020513", 7, 27
+	Patch "DW020513", 37, 27
+}
+
+WallTexture "DW020473", 64, 128
+{
+	Patch "DW020537", 0, 0
+	Patch "DW020538", 32, 0
+}
+
+WallTexture "DW020474", 256, 128
+{
+	Patch "DW020528", 0, 0
+	Patch "DW020529", 128, 0
+}
+
+WallTexture "DW020476", 128, 128
+{
+	Patch "DW020524", -12, 0
+	Patch "DW020524", 116, 0
+}
+
+WallTexture "DW020477", 128, 128
+{
+	Patch "DW020525", -4, 0
+	Patch "DW020525", 124, 0
+}
+
+WallTexture "DW020481", 128, 128
+{
+	Patch "W28_6", 64, 64
+	Patch "W28_7", 64, 0
+	Patch "W28_6", 0, 0
+	Patch "W28_7", 0, 64
+	Patch "DW020543", 0, 79
+	Patch "DW020543", 64, 15
+}
+
+WallTexture "DW020482", 64, 128
+{
+	Patch "WALL40_1", 0, 0
+	Patch "SW2_2", 24, 70
+}
+

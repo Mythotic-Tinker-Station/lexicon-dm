@@ -1,250 +1,33 @@
-// Animated Textures
-// DWANGO Collection
-texture DWANC001 range DWANC004 tics 8
-texture DWANE001 range DWANE004 tics 8
-texture DWANF001 range DWANF004 tics 8
-texture DWANH004 range DWANH007 tics 8
-texture DW200105 range DW200106 tics 8
+// Durango
+texture DUGO0438 range DUGO0441 tics 8
 
-// Vanilla Maps
-// ADDICTIV
-texture ADCV0004 range ADCV0007 tics 8
+// DWANGO2
+texture DW020446 range DW020448 tics 8 allowdecals
+texture DW020455 range DW020458 tics 8 allowdecals
 
-// BLUDBATH
-texture BLDBTH02 range BLDBTH05 tics 8
+// DWANGO11
+switch DW110285 on pic DW110325 tics 0
+switch DW110286 on pic DW110326 tics 0
+switch DW110292 on pic DW110332 tics 0
+switch DW110294 on pic DW110334 tics 0
+switch DW110303 on pic DW110343 tics 0
+switch DW110314 on pic DW110354 tics 0
+switch DW110318 on pic DW110358 tics 0
 
-// BOURGDM
-texture BOUG0063 range BOUG0066 tics 8
+// DWANGO12
+texture DW120007 range DW120010 tics 8
 
-// BRITDM
-texture BRIT0051 range BRIT0054 tics 5
-
-// DECA
-texture DECADM06 range DECADM08 tics 8 allowdecals
-texture DECADM16 range DECADM19 tics 8
-
-// DK_DM_13
-texture DK130103 range DK130104 tics 8
-texture DK130432 range DK130435 tics 8
-
-// DK_DM_2
-texture DK020109 range DK020110 tics 8
-texture DK020437 range DK020440 tics 8
-texture DK020443 range DK020446 tics 8
-flat DK020001 range DK020004 tics 8
-
-// DK_DM_3F
-texture DK030054 range DK030057 tics 8 allowdecals
-texture DK030115 range DK030118 tics 8
-texture DK030132 range DK030133 tics 8
-texture DK030460 range DK030463 tics 8
-texture DK030510 range DK030512 tics 8 allowdecals
-flat DK030001 range DK030004 tics 8
-flat DK030005 range DK030008 tics 8
-flat DK030009 range DK030012 tics 8
-
-// DK_DM_4
-texture DK040429 range DK040432 tics 8
-
-// EDM
-texture TNT40281 range TNT40284 tics 8
-texture TNT40318 range TNT40320 tics 8 allowdecals
-flat TNT40117 range TNT40120 tics 8
-flat TNT40121 range TNT40124 tics 8
-flat TNT40137 range TNT40139 tics 8
-flat TNT40166 range TNT40169 tics 8
-flat TNT40182 range TNT40185 tics 8
-flat TNT40190 range TNT40193 tics 8
-
-// FREEDMCE
-texture FDMC0436 range FDMC0439 tics 8
-
-// GOTHICDM1
-texture GDM10554 range GDM10557 tics 8
-
-// GOTHIC2
-texture GDM20257 range GDM20260 tics 8 allowdecals
-texture GDM20317 range GDM20320 tics 8
-texture GDM20342 range GDM20345 tics 8 allowdecals
-texture GDM20403 range GDM20406 tics 8
-texture GDM20425 range GDM20427 tics 8
-flat GDM20010 range GDM20013 tics 8
-
-// OVERLOAD
-texture OVLD0239 range OVLD0242 tics 8
-texture OVLD0416 range OVLD0419 tics 8
-
-// SURGE
-texture SRG10046 range SRG10048 tics 8
-texture SRG10049 range SRG10052 tics 8
-texture SRG10053 range SRG10056 tics 8
-
-// TNTBLOOD
-texture TNT10454 range TNT10457 tics 8
-
-// TNTGRVNC
-texture TNT20454 range TNT20457 tics 8
-
-// TNTPURST
-texture TNT30090 range TNT30093 tics 8 allowdecals
-texture TNT30453 range TNT30456 tics 8
-
-// TWANGO1
-texture TWN10189 range TWN10192 tics 8
-texture TWN10572 range TWN10575 tics 8
-
-// Boom Maps
-
-// ZDoom Maps
-
-// Switches
-// DWANGO Collection
-switch DWANB005 on pic DWANB016 tics 0
-switch DWANB006 on pic DWANB017 tics 0
-switch DWANB007 on pic DWANB018 tics 0
-switch DWANB008 on pic DWANB019 tics 0
-switch DWANB009 on pic DWANB020 tics 0
-switch DWANB010 on pic DWANB021 tics 0
-switch DWANB011 on pic DWANB022 tics 0
-switch DWANB012 on pic DWANB023 tics 0
-switch DWANB013 on pic DWANB024 tics 0
-switch DWANB014 on pic DWANB025 tics 0
-switch DWANB015 on pic DWANB026 tics 0
-
-// Vanilla Maps
-// BRITDM
-switch BRIT0063 on pic BRIT0077 tics 0
-switch BRIT0064 on pic BRIT0078 tics 0
-switch BRIT0065 on pic BRIT0079 tics 0
-switch BRIT0066 on pic BRIT0080 tics 0
-switch BRIT0067 on pic BRIT0081 tics 0
-switch BRIT0068 on pic BRIT0082 tics 0
-switch BRIT0069 on pic BRIT0083 tics 0
-switch BRIT0070 on pic BRIT0084 tics 0
-switch BRIT0071 on pic BRIT0085 tics 0
-switch BRIT0072 on pic BRIT0086 tics 0
-switch BRIT0073 on pic BRIT0087 tics 0
-switch BRIT0074 on pic BRIT0088 tics 0
-switch BRIT0075 on pic BRIT0089 tics 0
-switch BRIT0076 on pic BRIT0090 tics 0
-
-// DECA
-switch DECADM11 on pic DECADM13 tics 0
-switch DECADM12 on pic DECADM14 tics 0
-
-// EDM
-switch TNT40481 on pic TNT40521 tics 0
-switch TNT40488 on pic TNT40528 tics 0
-switch TNT40505 on pic TNT40545 tics 0
-switch TNT40513 on pic TNT40553 tics 0
-switch TNT40518 on pic TNT40558 tics 0
-
-// GOTHICDM1
-switch GDM10468 on pic GDM10508 tics 0
-
-// GOTHIC2
-switch GDM20603 on pic GDM20643 tics 0
-switch GDM20608 on pic GDM20648 tics 0
-switch GDM20614 on pic GDM20654 tics 0
-
-// HOUSES14
-switch HOUS0298 on pic HOUS0338 tics 0
-switch HOUS0303 on pic HOUS0343 tics 0
-switch HOUS0309 on pic HOUS0349 tics 0
-switch HOUS0322 on pic HOUS0362 tics 0
-switch HOUS0324 on pic HOUS0364 tics 0
-
-// IPXMATCH
-switch IPXMT001 on pic IPXMT005 tics 0
-switch IPXMT002 on pic IPXMT006 tics 0
-switch IPXMT003 on pic IPXMT007 tics 0
-switch IPXMT004 on pic IPXMT008 tics 0
-
-// SURGE
-switch SRG10354 on pic SRG10394 tics 0
-
-// TNTBLOOD
-switch TNT10292 on pic TNT10332 tics 0
-
-// TNTGRVNC
-switch TNT20292 on pic TNT20332 tics 0
-
-// TNTPURST
-switch TNT30363 on pic TNT30403 tics 0
-
-// Boom Maps
-// No Boom maps yet...
-
-// ZDoom Maps
-// And no ZDoom maps for now...
-
-// Lexicon Hub
-texture VR031A
-	pic VR031A tics 3
-	pic VR031B tics 3
-	pic VR031C tics 3
-	pic VR031D tics 3
-	pic VR031E tics 3
-	pic VR031F tics 3
-	pic VR031G tics 3
-	pic VR031H tics 3
-
-texture VRANIM2
-	pic VR023 tics 1
-    pic VR023R tics 1
-    
-texture VRANIM3
-	pic VR016 tics 1
-    pic VR016R tics 1
-
-texture VRANIM4
-	pic VR020 tics 1
-    pic VR020R tics 1
-
-texture VRANIM
-	pic VR001 tics 3
-	pic VR002 tics 3
-	pic VR003 tics 3
-	pic VR004 tics 3
-	pic VR005 tics 3
-	pic VR006 tics 3
-	pic VR007 tics 3
-	pic VR008 tics 3
-	pic VR009 tics 3
-	pic VR010 tics 3
-	pic VR011 tics 3
-	pic VR012 tics 3
-
-texture CPOINT01
-	pic CPOINT01 tics 1
-	pic CPOINT02 tics 1
-	pic CPOINT03 tics 1
-	pic CPOINT04 tics 1
-	pic CPOINT05 tics 1
-	pic CPOINT06 tics 1
-	pic CPOINT07 tics 1
-	pic CPOINT08 tics 1
-	pic CPOINT09 tics 1
-	pic CPOINT10 tics 1
-	pic CPOINT11 tics 1
-	pic CPOINT12 tics 1
-	pic CPOINT13 tics 1
-	pic CPOINT14 tics 1
-	pic CPOINT15 tics 1
-	pic CPOINT16 tics 1
-	pic CPOINT17 tics 1
-	pic CPOINT18 tics 1
-	pic CPOINT19 tics 1
-	pic CPOINT20 tics 1
-	pic CPOINT21 tics 1
-	pic CPOINT22 tics 1
-	pic CPOINT23 tics 1
-	pic CPOINT24 tics 1
-	pic CPOINT25 tics 1
-	pic CPOINT26 tics 1
-	pic CPOINT27 tics 1
-	pic CPOINT28 tics 1
-	pic CPOINT29 tics 1
-	pic CPOINT30 tics 1
-	pic CPOINT31 tics 1
-	pic CPOINT32 tics 1
+// TokeDM
+texture TKDM0033 range TKDM0036 tics 8 allowdecals
+texture TKDM0037 range TKDM0040 tics 8 allowdecals
+texture TKDM0102 range TKDM0105 tics 8
+texture TKDM0256 range TKDM0258 tics 8 allowdecals
+texture TKDM0407 range TKDM0410 tics 8
+flat TKDM0007 range TKDM0010 tics 8
+switch TKDM0312 on pic TKDM0352 tics 0
+switch TKDM0321 on pic TKDM0361 tics 0
+switch TKDM0338 on pic TKDM0378 tics 0
+switch TKDM0340 on pic TKDM0380 tics 0
+switch TKDM0341 on pic TKDM0381 tics 0
+switch TKDM0342 on pic TKDM0382 tics 0
+switch TKDM0346 on pic TKDM0386 tics 0

@@ -1,0 +1,64 @@
+// DANZIG1 Mapinfo
+
+map DZG111 "DANZIG1 Map 11"
+{
+	titlepatch = "CWILV10"
+	next = "DZG112"
+	secretnext = "DZG112"
+	sky1 = "SKY1"
+	music = "$MUSIC_STLKS2"
+}
+
+map DZG112 "DANZIG1 Map 12"
+{
+	titlepatch = "CWILV11"
+	next = "DZG113"
+	secretnext = "DZG113"
+	sky1 = "SKY2"
+	music = "$MUSIC_THEDA2"
+}
+
+map DZG113 "DANZIG1 Map 13"
+{
+	titlepatch = "CWILV12"
+	next = "DZG114"
+	secretnext = "DZG114"
+	sky1 = "SKY2"
+	music = "$MUSIC_DOOM2"
+}
+
+map DZG114 "DANZIG1 Map 14"
+{
+	titlepatch = "CWILV13"
+	next = "DZG115"
+	secretnext = "DZG115"
+	sky1 = "SKY2"
+	music = "$MUSIC_DDTBL2"
+}
+
+map DZG115 "DANZIG1 Map 15"
+{
+	titlepatch = "CWILV14"
+	next = "DZG131"
+	secretnext = "DZG131"
+	sky1 = "SKY2"
+	music = "$MUSIC_RUNNI2"
+}
+
+map DZG131 "DANZIG1 Map 31"
+{
+	titlepatch = "CWILV30"
+	next = "DZG132"
+	secretnext = "DZG132"
+	sky1 = "SKY3"
+	music = "$MUSIC_EVIL"
+}
+
+map DZG132 "DANZIG1 Map 32"
+{
+	titlepatch = "CWILV31"
+	next = "VR"
+	secretnext = "VR"
+	sky1 = "SKY3"
+	music = "$MUSIC_ULTIMA"
+}

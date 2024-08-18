@@ -1,0 +1,12 @@
+WallTexture "DW070442", 64, 128
+{
+	Patch "DW070437", 0, 0
+	Patch "DW070457", 0, 0
+}
+
+WallTexture "DW070443", 64, 128
+{
+	Patch "DW070451", 0, 0
+	Patch "DW070457", 0, 0
+}
+
