@@ -88,7 +88,7 @@ generator Lexicon_DW12_PlasmaBall	PlasmaScorch
 // DWANGOX
 generator Lexicon_DW0X_ArachnotronPlasma	ArachnotronScorch
 generator Lexicon_DW0X_PlasmaBall	PlasmaScorch
-generator Lexicon_DW0X_BFGBall	Lexicon_DW11_BFGLightning
+generator Lexicon_DW0X_BFGBall	BFGLightning
 generator Lexicon_DW0X_Shotgun	BulletChip
 generator Lexicon_DW0X_SuperShotgun	BulletChip
 generator Lexicon_DW0X_Rocket	Scorch
