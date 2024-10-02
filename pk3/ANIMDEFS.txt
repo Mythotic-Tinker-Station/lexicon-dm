@@ -109,6 +109,21 @@ switch DWEX0005 on pic DWEX0010 tics 0
 switch DWEX0006 on pic DWEX0011 tics 0
 switch DWEX0007 on pic DWEX0012 tics 0
 
+// LBDWANGO
+texture DWLB0002 range DWLB0005 tics 8
+switch DWLB0010 on pic DWLB0015 tics 0
+switch DWLB0011 on pic DWLB0016 tics 0
+switch DWLB0012 on pic DWLB0017 tics 0
+switch DWLB0013 on pic DWLB0018 tics 0
+switch DWLB0014 on pic DWLB0019 tics 0
+
+// OZWANGO
+switch DWOZ0001 on pic DWOZ0006 tics 0
+switch DWOZ0002 on pic DWOZ0007 tics 0
+switch DWOZ0003 on pic DWOZ0008 tics 0
+switch DWOZ0004 on pic DWOZ0009 tics 0
+switch DWOZ0005 on pic DWOZ0010 tics 0
+
 // TokeDM
 texture TKDM0033 range TKDM0036 tics 8 allowdecals
 texture TKDM0037 range TKDM0040 tics 8 allowdecals
