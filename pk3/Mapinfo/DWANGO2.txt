@@ -11,7 +11,7 @@ map DW0201 "DWANGO2 Map 1"
 	titlepatch = "CWILV00"
 	next = "DW0202"
 	secretnext = "DW0202"
-	sky1 = "DW020230"
+	sky1 = "DW020001"
 	music = "D_DW0201"
 }
 
@@ -20,7 +20,7 @@ map DW0202 "DWANGO2 Map 2"
 	titlepatch = "CWILV01"
 	next = "DW0203"
 	secretnext = "DW0203"
-	sky1 = "DW020230"
+	sky1 = "DW020001"
 	music = "D_DW0202"
 }
 
@@ -29,7 +29,7 @@ map DW0203 "DWANGO2 Map 3"
 	titlepatch = "CWILV02"
 	next = "DW0204"
 	secretnext = "DW0204"
-	sky1 = "DW020230"
+	sky1 = "DW020001"
 	music = "D_DW0203"
 }
 
@@ -38,7 +38,7 @@ map DW0204 "DWANGO2 Map 4"
 	titlepatch = "CWILV03"
 	next = "DW0205"
 	secretnext = "DW0205"
-	sky1 = "DW020230"
+	sky1 = "DW020001"
 	music = "D_DW0204"
 }
 
@@ -47,7 +47,7 @@ map DW0205 "DWANGO2 Map 5"
 	titlepatch = "CWILV04"
 	next = "DW0206"
 	secretnext = "DW0206"
-	sky1 = "DW020230"
+	sky1 = "DW020001"
 	music = "D_DW0205"
 }
 
@@ -56,7 +56,7 @@ map DW0206 "DWANGO2 Map 6"
 	titlepatch = "CWILV05"
 	next = "DW0207"
 	secretnext = "DW0207"
-	sky1 = "DW020230"
+	sky1 = "DW020001"
 	music = "D_DW0206"
 }
 
@@ -65,7 +65,7 @@ map DW0207 "DWANGO2 Map 7"
 	titlepatch = "CWILV06"
 	next = "DW0208"
 	secretnext = "DW0208"
-	sky1 = "DW020230"
+	sky1 = "DW020001"
 	music = "D_DW0207"
 	Map07Special
 }
@@ -75,7 +75,7 @@ map DW0208 "DWANGO2 Map 8"
 	titlepatch = "CWILV07"
 	next = "DW0209"
 	secretnext = "DW0209"
-	sky1 = "DW020230"
+	sky1 = "DW020001"
 	music = "D_DW0208"
 }
 
@@ -84,7 +84,7 @@ map DW0209 "DWANGO2 Map 9"
 	titlepatch = "CWILV08"
 	next = "DW0210"
 	secretnext = "DW0210"
-	sky1 = "DW020230"
+	sky1 = "DW020001"
 	music = "D_DW0209"
 }
 
@@ -93,7 +93,7 @@ map DW0210 "DWANGO2 Map 10"
 	titlepatch = "CWILV09"
 	next = "DW0211"
 	secretnext = "DW0211"
-	sky1 = "DW020230"
+	sky1 = "DW020001"
 	music = "D_DW0210"
 }
 
@@ -102,6 +102,6 @@ map DW0211 "DWANGO2 Map 11"
 	titlepatch = "CWILV10"
 	next = "VR"
 	secretnext = "VR"
-	sky1 = "DW020230"
+	sky1 = "DW020001"
 	music = "D_DW0211"
 }
