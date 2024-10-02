@@ -1,3 +1,25 @@
+// #1DWANGO
+switch DW1D0001 on pic DW1D0006 tics 0
+switch DW1D0002 on pic DW1D0007 tics 0
+switch DW1D0003 on pic DW1D0008 tics 0
+switch DW1D0004 on pic DW1D0009 tics 0
+switch DW1D0005 on pic DW1D0010 tics 0
+
+// AZDWANGO
+switch DWAZ0004 on pic DWAZ0009 tics 0
+switch DWAZ0005 on pic DWAZ0010 tics 0
+switch DWAZ0006 on pic DWAZ0011 tics 0
+switch DWAZ0007 on pic DWAZ0012 tics 0
+switch DWAZ0008 on pic DWAZ0013 tics 0
+
+// DCDWANGO
+texture DWDC0001 range DWDC0004 tics 8 allowdecals
+switch DWDC0006 on pic DWDC0011 tics 0
+switch DWDC0007 on pic DWDC0012 tics 0
+switch DWDC0008 on pic DWDC0013 tics 0
+switch DWDC0009 on pic DWDC0014 tics 0
+switch DWDC0010 on pic DWDC0015 tics 0
+
 // Durango
 texture DUGO0438 range DUGO0441 tics 8
 
