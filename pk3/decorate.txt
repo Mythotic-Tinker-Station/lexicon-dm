@@ -1,7 +1,1 @@
-#include "decorate/DW01.txt" // DWANGO1
-#include "decorate/DW06.txt" // DWANGO6
-#include "decorate/DW07.txt" // DWANGO7
-#include "decorate/DW10.txt" // DWANGO10
 #include "decorate/DW11.txt" // DWANGO11
-#include "decorate/DW12.txt" // DWANGO12
-#include "decorate/DW0X.txt" // DWANGOX
