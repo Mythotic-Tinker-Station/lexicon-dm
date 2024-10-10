@@ -117,6 +117,17 @@ switch DWLB0012 on pic DWLB0017 tics 0
 switch DWLB0013 on pic DWLB0018 tics 0
 switch DWLB0014 on pic DWLB0019 tics 0
 
+// IPXMATCH
+switch IPXM0004 on pic IPXM0013 tics 0
+switch IPXM0005 on pic IPXM0014 tics 0
+switch IPXM0006 on pic IPXM0015 tics 0
+switch IPXM0007 on pic IPXM0016 tics 0
+switch IPXM0008 on pic IPXM0017 tics 0
+switch IPXM0009 on pic IPXM0018 tics 0
+switch IPXM0010 on pic IPXM0019 tics 0
+switch IPXM0011 on pic IPXM0020 tics 0
+switch IPXM0012 on pic IPXM0021 tics 0
+
 // OZWANGO
 switch DWOZ0001 on pic DWOZ0006 tics 0
 switch DWOZ0002 on pic DWOZ0007 tics 0
