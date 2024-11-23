@@ -121,6 +121,18 @@ switch DWLB0014 on pic DWLB0019 tics 0
 texture GTH10178 range GTH10181 tics 8
 switch GTH10176 on pic GTH10177 tics 0
 
+// Gothic DeathMatch II
+texture GTH20233 range GTH20236 tics 8
+texture GTH20293 range GTH20296 tics 8
+texture GTH20297 range GTH20300 tics 8
+texture GTH20301 range GTH20304 tics 8
+texture GTH20305 range GTH20306 tics 8
+texture GTH20307 range GTH20309 tics 8
+flat GTH20010 range GTH20013 tics 8
+switch GTH20313 on pic GTH20316 tics 0
+switch GTH20314 on pic GTH20317 tics 0
+switch GTH20315 on pic GTH20318 tics 0
+
 // IPXMATCH
 switch IPXM0004 on pic IPXM0013 tics 0
 switch IPXM0005 on pic IPXM0014 tics 0
