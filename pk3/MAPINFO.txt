@@ -19,6 +19,7 @@ include "mapinfo/DWANGOX.txt" // DWANGOX.wad
 include "mapinfo/DWANGO!.txt" // DWANGO!.wad
 include "mapinfo/LBDWANGO.txt" // LBDWANGO.wad
 include "mapinfo/IPXMATCH.txt" // ipxmatch.zip
+include "mapinfo/GOTHICDM.txt" // GOTHICDM.wad
 include "mapinfo/OZWANGO.txt" // OZWANGO.wad
 include "mapinfo/PYRRHIC.txt" // pyrrhicxl.wad
 include "mapinfo/TOKEDM.txt" // TOKEDM.wad
