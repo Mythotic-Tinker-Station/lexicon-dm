@@ -1,4 +1,4 @@
-// Gothic DeathMatch II
+// Gothic DeathMatch II Mapinfo
 
 defaultmap
 {
