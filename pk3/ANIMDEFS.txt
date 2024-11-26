@@ -117,6 +117,25 @@ switch DWLB0012 on pic DWLB0017 tics 0
 switch DWLB0013 on pic DWLB0018 tics 0
 switch DWLB0014 on pic DWLB0019 tics 0
 
+// Eternal Deathmatch Set
+texture EDMS0205 range EDMS0208 tics 8
+texture EDMS0213 range EDMS0211 tics 8
+texture EDMS0215 range EDMS0217 tics 8
+flat EDMS0102 range EDMS0104 tics 8
+flat EDMS0117 range EDMS0120 tics 8
+flat EDMS0121 range EDMS0124 tics 8
+flat EDMS0137 range EDMS0139 tics 8
+flat EDMS0166 range EDMS0169 tics 8
+flat EDMS0182 range EDMS0185 tics 8
+flat EDMS0186 range EDMS0189 tics 8
+flat EDMS0190 range EDMS0193 tics 8
+switch EDMS0228 on pic EDMS0234 tics 0
+switch EDMS0229 on pic EDMS0235 tics 0
+switch EDMS0230 on pic EDMS0236 tics 0
+switch EDMS0231 on pic EDMS0237 tics 0
+switch EDMS0232 on pic EDMS0238 tics 0
+switch EDMS0233 on pic EDMS0239 tics 0
+
 // Gothic DeathMatches
 texture GTH10178 range GTH10181 tics 8
 switch GTH10176 on pic GTH10177 tics 0

@@ -131,6 +131,13 @@ IPXM_MAPSET_DATE = "1998";
 IPXM_MAPSET_MAPS = "32";
 IPXM_MAPSET_TITLE = "IPXMATCH";
 
+// Eternal Deathmatch Set
+EDMS_MAPSET_AUTHORS = "Chris Couleur, Adam Landefeld, Lisa Moore";
+EDMS_MAPSET_CUSTOM = "N";
+EDMS_MAPSET_DATE = "1998";
+EDMS_MAPSET_MAPS = "19";
+EDMS_MAPSET_TITLE = "Eternal Deathmatch Set";
+
 // Gothic DeathMatches
 GTH1_MAPSET_AUTHORS = "Gothic Crew";
 GTH1_MAPSET_CUSTOM = "N";
