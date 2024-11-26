@@ -138,6 +138,13 @@ GTH1_MAPSET_DATE = "1997";
 GTH1_MAPSET_MAPS = "32";
 GTH1_MAPSET_TITLE = "Gothic DeathMatches";
 
+// Gothic DeathMatch II
+GTH2_MAPSET_AUTHORS = "Gothic Crew";
+GTH2_MAPSET_CUSTOM = "N";
+GTH2_MAPSET_DATE = "1998";
+GTH2_MAPSET_MAPS = "32";
+GTH2_MAPSET_TITLE = "Gothic DeathMatch II";
+
 // Pyrrhic XL
 PRHC_MAPSET_AUTHORS = "hobomaster22";
 PRHC_MAPSET_CUSTOM = "N";
