@@ -152,6 +152,13 @@ GTH2_MAPSET_DATE = "1998";
 GTH2_MAPSET_MAPS = "32";
 GTH2_MAPSET_TITLE = "Gothic DeathMatch II";
 
+// Overload Deathmatches
+OVLD_MAPSET_AUTHORS = "Ola Bjorling, Tobias Forsberg, Nicklas Linnes, Martin Friberg";
+OVLD_MAPSET_CUSTOM = "N";
+OVLD_MAPSET_DATE = "1998";
+OVLD_MAPSET_MAPS = "16";
+OVLD_MAPSET_TITLE = "Overload Deathmatches";
+
 // Pyrrhic XL
 PRHC_MAPSET_AUTHORS = "hobomaster22";
 PRHC_MAPSET_CUSTOM = "N";

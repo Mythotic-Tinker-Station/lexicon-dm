@@ -163,6 +163,11 @@ switch IPXM0010 on pic IPXM0019 tics 0
 switch IPXM0011 on pic IPXM0020 tics 0
 switch IPXM0012 on pic IPXM0021 tics 0
 
+// Overload Deathmatches
+texture OVLD0012 range OVLD0015 tics 8
+texture OVLD0039 range OVLD0042 tics 8
+texture OVLD0044 range OVLD0047 tics 8
+
 // OZWANGO
 switch DWOZ0001 on pic DWOZ0006 tics 0
 switch DWOZ0002 on pic DWOZ0007 tics 0
