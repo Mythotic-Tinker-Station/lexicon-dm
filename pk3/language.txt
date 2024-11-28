@@ -1,6 +1,13 @@
 [default]
 
 // Custom actors for Lexicon Deathmatch mapsets
+// Addictive Deathmatch Series
+ADMS_MAPSET_AUTHORS = "Iikka Kernen (Fingers)";
+ADMS_MAPSET_CUSTOM = "N";
+ADMS_MAPSET_DATE = "1996";
+ADMS_MAPSET_MAPS = "8";
+ADMS_MAPSET_TITLE = "Addictive Deathmatch Series";
+
 // #1DWANGO
 DW1D_MAPSET_AUTHORS = "DWANGO Team";
 DW1D_MAPSET_CUSTOM = "N";

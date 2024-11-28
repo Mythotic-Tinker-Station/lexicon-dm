@@ -5,6 +5,9 @@ switch DW1D0003 on pic DW1D0008 tics 0
 switch DW1D0004 on pic DW1D0009 tics 0
 switch DW1D0005 on pic DW1D0010 tics 0
 
+// Addictive Deathmatch Series
+texture ADMS0003 range ADMS0006 tics 8
+
 // AZDWANGO
 switch DWAZ0004 on pic DWAZ0009 tics 0
 switch DWAZ0005 on pic DWAZ0010 tics 0

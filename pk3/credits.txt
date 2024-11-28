@@ -1,5 +1,6 @@
 Lexicon Deathmatch Authors
 ---------------
+Addictive Deathmatch Series: Iikka "Fingers" Kernen
 DANZIG1: B. Vannatta and B. Weldon
 DANZIG2: B. Vannatta and B. Weldon
 Durango: Durango Team
