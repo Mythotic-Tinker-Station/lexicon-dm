@@ -1,1 +1,2 @@
+#include "decorate/DECACOMP.txt" // Decamatch Complete
 #include "decorate/DW11.txt" // DWANGO11

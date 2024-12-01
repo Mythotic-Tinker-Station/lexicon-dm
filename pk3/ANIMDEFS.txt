@@ -23,6 +23,14 @@ switch DWDC0008 on pic DWDC0013 tics 0
 switch DWDC0009 on pic DWDC0014 tics 0
 switch DWDC0010 on pic DWDC0015 tics 0
 
+// Decamatch Complete
+texture DECA0018 range DECA0020 tics 8 allowdecals
+texture DECA0052 range DECA0055 tics 8
+switch DECA0023 on pic DECA0025 tics 0
+switch DECA0024 on pic DECA0026 tics 0
+switch DECA0058 on pic DECA0059 tics 0
+switch DECA0060 on pic DECA0061 tics 0
+
 // Durango
 texture DUGO0438 range DUGO0441 tics 8
 
