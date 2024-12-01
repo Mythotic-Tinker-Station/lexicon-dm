@@ -8,6 +8,19 @@ ADMS_MAPSET_DATE = "1996";
 ADMS_MAPSET_MAPS = "8";
 ADMS_MAPSET_TITLE = "Addictive Deathmatch Series";
 
+// Decamatch Complete
+DECA_MAPSET_AUTHORS = "Team Onslaught, combinebobnt";
+DECA_MAPSET_CUSTOM = "N";
+DECA_MAPSET_DATE = "1997/1998";
+DECA_MAPSET_MAPS = "20";
+DECA_MAPSET_TITLE = "Decamatch Complete";
+DECA_ACTOR_1 = "LexiconDM_DECA_Wind1SoundEmitter";
+DECA_ACTOR_2 = "LexiconDM_DECA_Water1SoundEmitter";
+DECA_ACTOR_3 = "LexiconDM_DECA_ComputerSoundEmitter";
+DECA_ACTOR_4 = "LexiconDM_DECA_Water2SoundEmitter";
+DECA_ACTOR_5 = "LexiconDM_DECA_GeneratorSoundEmitter";
+DECA_ACTOR_6 = "LexiconDM_DECA_Wind2SoundEmitter";
+
 // #1DWANGO
 DW1D_MAPSET_AUTHORS = "DWANGO Team";
 DW1D_MAPSET_CUSTOM = "N";
