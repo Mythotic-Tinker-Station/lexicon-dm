@@ -1,6 +1,7 @@
 Lexicon Deathmatch Authors
 ---------------
 Addictive Deathmatch Series: Iikka "Fingers" Kernen
+BUCKET DM 2: Brendan "bucket" Bradley
 DANZIG1: B. Vannatta and B. Weldon
 DANZIG2: B. Vannatta and B. Weldon
 Decamatch Complete: Team Onslaught, combinebobnt

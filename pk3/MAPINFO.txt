@@ -1,6 +1,7 @@
 include "mapinfo/ADDICTIV.txt" // ADDICTIV.wad
 include "mapinfo/#1DWANGO.txt" // #1DWANGO.wad
 include "mapinfo/AZDWANGO.txt" // AZDWANGO.wad
+include "mapinfo/BUKETDM2.txt" // buketdm2.wad
 include "mapinfo/DANZIG1.txt" // DANZIG1.wad
 include "mapinfo/DANZIG2.txt" // DANZIG2.wad
 include "mapinfo/DCDWANGO.txt" // DCDWANGO.wad
