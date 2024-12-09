@@ -8,6 +8,13 @@ ADMS_MAPSET_DATE = "1996";
 ADMS_MAPSET_MAPS = "8";
 ADMS_MAPSET_TITLE = "Addictive Deathmatch Series";
 
+// BUCKET DM 2
+BKT2_MAPSET_AUTHORS = "Brendan Bradley (bucket)";
+BKT2_MAPSET_CUSTOM = "N";
+BKT2_MAPSET_DATE = "2014";
+BKT2_MAPSET_MAPS = "32";
+BKT2_MAPSET_TITLE = "BUCKET DM 2";
+
 // Decamatch Complete
 DECA_MAPSET_AUTHORS = "Team Onslaught, combinebobnt";
 DECA_MAPSET_CUSTOM = "N";
