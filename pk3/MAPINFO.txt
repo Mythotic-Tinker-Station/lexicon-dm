@@ -28,5 +28,6 @@ include "mapinfo/GOTHIC2.txt" // GOTHIC2.wad
 include "mapinfo/OVERLOAD.txt" // overload.wad
 include "mapinfo/OZWANGO.txt" // OZWANGO.wad
 include "mapinfo/PYRRHIC.txt" // pyrrhicxl.wad
+include "mapinfo/SURGE.txt" // surge.wad
 include "mapinfo/TOKEDM.txt" // TOKEDM.wad
 include "mapinfo/WANG.txt" // wang.wad
