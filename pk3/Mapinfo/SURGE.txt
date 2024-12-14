@@ -1,0 +1,267 @@
+// Surge DM Mapinfo
+
+defaultmap
+{
+	ExitPic = "SURGINT"
+	EnterPic = "SURGINT"
+	InterMusic = "D_SURGIN"
+	Sky1 = "SURG0078"
+	NoJump
+	NoCrouch
+}
+
+map SURG01 "Dead Right"
+{
+	TitlePatch = "SURGV00"
+	Next = "SURG02"
+	SecretNext = "SURG02"
+	Music = "D_SURG01"
+}
+
+map SURG02 "Center of Attention"
+{
+	TitlePatch = "SURGV01"
+	Next = "SURG03"
+	SecretNext = "SURG03"
+	Music = "D_SURG02"
+}
+
+map SURG03 "Supersonic"
+{
+	TitlePatch = "SURGV02"
+	Next = "SURG04"
+	SecretNext = "SURG04"
+	Music = "D_SURG03"
+}
+
+map SURG04 "Darkest Days"
+{
+	TitlePatch = "SURGV03"
+	Next = "SURG05"
+	SecretNext = "SURG05"
+	Music = "D_SURG04"
+}
+
+map SURG05 "Medevil"
+{
+	TitlePatch = "SURGV04"
+	Next = "SURG06"
+	SecretNext = "SURG06"
+	Music = "D_SURG05"
+}
+
+map SURG06 "Hangman"
+{
+	TitlePatch = "SURGV05"
+	Next = "SURG07"
+	SecretNext = "SURG07"
+	Music = "D_SURG06"
+}
+
+map SURG07 "Impossible Pain"
+{
+	TitlePatch = "SURGV06"
+	Next = "SURG08"
+	SecretNext = "SURG08"
+	Music = "D_SURG07"
+}
+
+map SURG08 "Shred"
+{
+	TitlePatch = "SURGV07"
+	Next = "SURG09"
+	SecretNext = "SURG09"
+	Music = "D_SURG08"
+}
+
+map SURG09 "Bloodshot"
+{
+	TitlePatch = "SURGV08"
+	Next = "SURG10"
+	SecretNext = "SURG10"
+	Music = "D_SURG09"
+}
+
+map SURG10 "Square O' Death"
+{
+	TitlePatch = "SURGV09"
+	Next = "SURG11"
+	SecretNext = "SURG11"
+	Music = "D_SURG10"
+}
+
+map SURG11 "Intense"
+{
+	TitlePatch = "SURGV10"
+	Next = "SURG12"
+	SecretNext = "SURG12"
+	Music = "D_SURG11"
+}
+
+map SURG12 "Tombstone"
+{
+	TitlePatch = "SURGV11"
+	Next = "SURG13"
+	SecretNext = "SURG13"
+	Music = "D_SURG12"
+}
+
+map SURG13 "Tower of the Decaying"
+{
+	TitlePatch = "SURGV12"
+	Next = "SURG14"
+	SecretNext = "SURG14"
+	Music = "D_SURG04"
+}
+
+map SURG14 "Speed"
+{
+	TitlePatch = "SURGV13"
+	Next = "SURG15"
+	SecretNext = "SURG15"
+	Music = "D_SURG14"
+}
+
+map SURG15 "Overkill"
+{
+	TitlePatch = "SURGV14"
+	Next = "SURG16"
+	SecretNext = "SURG31"
+	Music = "D_SURG15"
+}
+
+map SURG16 "X Squared"
+{
+	TitlePatch = "SURGV15"
+	Next = "SURG17"
+	SecretNext = "SURG17"
+	Music = "D_SURG02"
+}
+
+map SURG17 "Battlefields"
+{
+	TitlePatch = "SURGV16"
+	Next = "SURG18"
+	SecretNext = "SURG18"
+	Music = "D_SURG03"
+}
+
+map SURG18 "Shameless Destruction"
+{
+	TitlePatch = "SURGV17"
+	Next = "SURG19"
+	SecretNext = "SURG19"
+	Music = "D_SURG04"
+}
+
+map SURG19 "Arena of Fire"
+{
+	TitlePatch = "SURGV18"
+	Next = "SURG20"
+	SecretNext = "SURG20"
+	Music = "D_SURG05"
+}
+
+map SURG20 "Singe"
+{
+	TitlePatch = "SURGV19"
+	Next = "SURG21"
+	SecretNext = "SURG21"
+	Music = "D_SURG06"
+}
+
+map SURG21 "Close Quarters"
+{
+	TitlePatch = "SURGV20"
+	Next = "SURG22"
+	SecretNext = "SURG22"
+	Music = "D_SURG07"
+}
+
+map SURG22 "Skin"
+{
+	TitlePatch = "SURGV21"
+	Next = "SURG23"
+	SecretNext = "SURG23"
+	Music = "D_SURG08"
+}
+
+map SURG23 "Top of the World"
+{
+	TitlePatch = "SURGV22"
+	Next = "SURG24"
+	SecretNext = "SURG24"
+	Music = "D_SURG09"
+}
+
+map SURG24 "Aurikan's Theatre"
+{
+	TitlePatch = "SURGV23"
+	Next = "SURG25"
+	SecretNext = "SURG25"
+	Music = "D_SURG10"
+}
+
+map SURG25 "Hidden Pain"
+{
+	TitlePatch = "SURGV24"
+	Next = "SURG26"
+	SecretNext = "SURG26"
+	Music = "D_SURG11"
+}
+
+map SURG26 "Catafrag"
+{
+	TitlePatch = "SURGV25"
+	Next = "SURG27"
+	SecretNext = "SURG27"
+	Music = "D_SURG12"
+}
+
+map SURG27 "Dance in the Darkness"
+{
+	TitlePatch = "SURGV26"
+	Next = "SURG28"
+	SecretNext = "SURG28"
+	Music = "D_SURG04"
+}
+
+map SURG28 "Head Rush"
+{
+	TitlePatch = "SURGV27"
+	Next = "SURG29"
+	SecretNext = "SURG29"
+	Music = "D_SURG14"
+}
+
+map SURG29 "Blow Through"
+{
+	TitlePatch = "SURGV28"
+	Next = "SURG30"
+	SecretNext = "SURG30"
+	Music = "D_SURG15"
+}
+
+map SURG30 "Storm Pipes"
+{
+	TitlePatch = "SURGV29"
+	Next = "VR"
+	SecretNext = "VR"
+	Music = "D_SURG30"
+}
+
+map SURG31 "Heat"
+{
+	TitlePatch = "SURGV30"
+	Next = "SURG16"
+	SecretNext = "SURG32"
+	Music = "D_SURG30"
+}
+
+map SURG32 "Death Flight"
+{
+	TitlePatch = "SURGV31"
+	Next = "SURG16"
+	SecretNext = "SURG16"
+	Music = "D_SURG01"
+}
