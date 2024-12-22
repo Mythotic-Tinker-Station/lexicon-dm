@@ -24,6 +24,7 @@ IPXMATCH: Jeannot "NUMBeRsiX" Langlois
 Eternal Deathmatch Set: Chris Couleur, Adam Landefeld, Lisa Moore
 Gothic DeathMatches: Gothic Crew
 Gothic DeathMatch II: Gothic Crew
+Grievance: TeamTNT
 Overload Deathmatches: Ola Bjorling, Tobias Forsberg, Nicklas Linnes, Martin Friberg
 Pyrrhic XL: hobomaster22
 Surge DM: Surge DM Team
