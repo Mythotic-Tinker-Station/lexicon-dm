@@ -179,6 +179,13 @@ GTH2_MAPSET_DATE = "1998";
 GTH2_MAPSET_MAPS = "32";
 GTH2_MAPSET_TITLE = "Gothic DeathMatch II";
 
+// Grievance
+GRVE_MAPSET_AUTHORS = "TeamTNT";
+GRVE_MAPSET_CUSTOM = "N";
+GRVE_MAPSET_DATE = "1996";
+GRVE_MAPSET_MAPS = "32";
+GRVE_MAPSET_TITLE = "Grievance";
+
 // Overload Deathmatches
 OVLD_MAPSET_AUTHORS = "Ola Bjorling, Tobias Forsberg, Nicklas Linnes, Martin Friberg";
 OVLD_MAPSET_CUSTOM = "N";

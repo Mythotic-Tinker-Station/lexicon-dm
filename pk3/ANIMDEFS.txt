@@ -163,6 +163,11 @@ switch GTH20313 on pic GTH20316 tics 0
 switch GTH20314 on pic GTH20317 tics 0
 switch GTH20315 on pic GTH20318 tics 0
 
+// Grievance
+texture GRVE0001 range GRVE0004 tics 8 allowdecals
+texture GRVE0035 range GRVE0038 tics 8
+switch GRVE0008 on pic GRVE0009 tics 0
+
 // IPXMATCH
 switch IPXM0004 on pic IPXM0013 tics 0
 switch IPXM0005 on pic IPXM0014 tics 0
