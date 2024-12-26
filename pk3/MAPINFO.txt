@@ -23,6 +23,7 @@ include "mapinfo/DWANGO!.txt" // DWANGO!.wad
 include "mapinfo/LBDWANGO.txt" // LBDWANGO.wad
 include "mapinfo/IPXMATCH.txt" // ipxmatch.zip
 include "mapinfo/EDM.txt" // edm.wad
+include "mapinfo/FINALFRG.txt" // FINALFRG.wad
 include "mapinfo/GOTHICDM.txt" // GOTHICDM.wad
 include "mapinfo/GOTHIC2.txt" // GOTHIC2.wad
 include "mapinfo/TNTGRVNC.txt" // TNTGRVNC.wad

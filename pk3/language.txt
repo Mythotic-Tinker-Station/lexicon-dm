@@ -165,6 +165,13 @@ EDMS_MAPSET_DATE = "1998";
 EDMS_MAPSET_MAPS = "19";
 EDMS_MAPSET_TITLE = "Eternal Deathmatch Set";
 
+// The Final Frag
+FNFG_MAPSET_AUTHORS = "Ian McPherson (FraGMarE)";
+FNFG_MAPSET_CUSTOM = "N";
+FNFG_MAPSET_DATE = "1997";
+FNFG_MAPSET_MAPS = "32";
+FNFG_MAPSET_TITLE = "The Final Frag";
+
 // Gothic DeathMatches
 GTH1_MAPSET_AUTHORS = "Gothic Crew";
 GTH1_MAPSET_CUSTOM = "N";
