@@ -186,6 +186,13 @@ GTH2_MAPSET_DATE = "1998";
 GTH2_MAPSET_MAPS = "32";
 GTH2_MAPSET_TITLE = "Gothic DeathMatch II";
 
+// Green War
+GWAR_MAPSET_AUTHORS = "Jason Root (Hellbent/Grotug/Jacobi)";
+GWAR_MAPSET_CUSTOM = "N";
+GWAR_MAPSET_DATE = "2002";
+GWAR_MAPSET_MAPS = "32";
+GWAR_MAPSET_TITLE = "Green War";
+
 // Grievance
 GRVE_MAPSET_AUTHORS = "TeamTNT";
 GRVE_MAPSET_CUSTOM = "N";

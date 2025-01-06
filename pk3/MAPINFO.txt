@@ -26,6 +26,7 @@ include "mapinfo/EDM.txt" // edm.wad
 include "mapinfo/FINALFRG.txt" // FINALFRG.wad
 include "mapinfo/GOTHICDM.txt" // GOTHICDM.wad
 include "mapinfo/GOTHIC2.txt" // GOTHIC2.wad
+include "mapinfo/GREENWAR.txt" // GreenWar.wad
 include "mapinfo/TNTGRVNC.txt" // TNTGRVNC.wad
 include "mapinfo/OVERLOAD.txt" // overload.wad
 include "mapinfo/OZWANGO.txt" // OZWANGO.wad
