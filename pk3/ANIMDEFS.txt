@@ -147,6 +147,11 @@ switch EDMS0231 on pic EDMS0237 tics 0
 switch EDMS0232 on pic EDMS0238 tics 0
 switch EDMS0233 on pic EDMS0239 tics 0
 
+// EXEC + Brit10 + Brit11
+texture BREX0073 range BREX0076 tics 8
+switch BREX0094 on pic BREX0096 tics 0
+switch BREX0095 on pic BREX0097 tics 0
+
 // Gothic DeathMatches
 texture GTH10178 range GTH10181 tics 8
 switch GTH10176 on pic GTH10177 tics 0

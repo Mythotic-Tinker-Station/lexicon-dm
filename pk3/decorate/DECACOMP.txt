@@ -1,15 +1,7 @@
-/*
-	Sound emitters which replace the ambient monster sounds in DECA and DECA 2
+// Sound emitters which replace the ambient monster sounds in DECA and DECA 2
 
-	A_Chase prevents the active sound from playing over itself, so the tic durations
-	next to A_PlaySound are calculated with the following formula:
-
-	Sound length (sec) * 35 tics/sec - # tics in first frame ≈ tic duration
-*/
-
-Actor LexiconDM_DECA_GeneratorSoundEmitter
+Actor LexiconDM_DECA_GeneratorSoundEmitter : LexiconDM_BaseSoundEmitter
 {
-	+NOINTERACTION
 	States
 	{
 		Spawn:
@@ -22,7 +14,7 @@ Actor LexiconDM_DECA_GeneratorSoundEmitter
 	}
 }
 
-Actor LexiconDM_DECA_Wind2SoundEmitter : LexiconDM_DECA_GeneratorSoundEmitter
+Actor LexiconDM_DECA_Wind2SoundEmitter : LexiconDM_BaseSoundEmitter
 {
 	States
 	{
@@ -36,7 +28,7 @@ Actor LexiconDM_DECA_Wind2SoundEmitter : LexiconDM_DECA_GeneratorSoundEmitter
 	}
 }
 
-Actor LexiconDM_DECA_Water2SoundEmitter : LexiconDM_DECA_GeneratorSoundEmitter
+Actor LexiconDM_DECA_Water2SoundEmitter : LexiconDM_BaseSoundEmitter
 {
 	States
 	{
@@ -50,7 +42,7 @@ Actor LexiconDM_DECA_Water2SoundEmitter : LexiconDM_DECA_GeneratorSoundEmitter
 	}
 }
 
-Actor LexiconDM_DECA_ComputerSoundEmitter : LexiconDM_DECA_GeneratorSoundEmitter
+Actor LexiconDM_DECA_ComputerSoundEmitter : LexiconDM_BaseSoundEmitter
 {
 	States
 	{

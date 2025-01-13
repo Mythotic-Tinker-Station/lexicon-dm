@@ -165,6 +165,24 @@ EDMS_MAPSET_DATE = "1998";
 EDMS_MAPSET_MAPS = "19";
 EDMS_MAPSET_TITLE = "Eternal Deathmatch Set";
 
+// EXEC + Brit10 + Brit11
+BREX_MAPSET_AUTHORS = "Doomkid, ExecutionDM Team, British Doom League";
+BREX_MAPSET_CUSTOM = "N";
+BREX_MAPSET_DATE = "2016 (Exec: 2000, Brit10: 1996, Brit11: 1997)";
+BREX_MAPSET_MAPS = "31";
+BREX_MAPSET_TITLE = "EXEC + Brit10 + Brit11";
+BREX_ACTOR_1 = "LexiconDM_BREX_HowlingWind2SoundEmitter";
+BREX_ACTOR_2 = "LexiconDM_BREX_FireSoundEmitter";
+BREX_ACTOR_3 = "LexiconDM_BREX_WaterSoundEmitter";
+BREX_ACTOR_4 = "LexiconDM_BREX_ScreamSoundEmitter";
+BREX_ACTOR_5 = "LexiconDM_BREX_FakeZombieman";
+BREX_ACTOR_6 = "LexiconDM_BREX_FakeWolfensteinSS";
+BREX_ACTOR_7 = "LexiconDM_BREX_ColdWindSoundEmitter";
+BREX_ACTOR_8 = "LexiconDM_BREX_HowlingWindSoundEmitter";
+BREX_ACTOR_9 = "LexiconDM_BREX_Fire2SoundEmitter";
+BREX_ACTOR_10 = "LexiconDM_BREX_MoanSoundEmitter";
+BREX_ACTOR_11 = "LexiconDM_BREX_LightningSoundEmitter";
+
 // The Final Frag
 FNFG_MAPSET_AUTHORS = "Ian McPherson (FraGMarE)";
 FNFG_MAPSET_CUSTOM = "N";
