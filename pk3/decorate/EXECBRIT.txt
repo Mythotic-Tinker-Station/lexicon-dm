@@ -118,6 +118,7 @@ Actor LexiconDM_BREX_ScreamSoundEmitter : LexiconDM_BaseSoundEmitter
 	}
 }
 
+// Actors for the scripted sequence at the end of BREX03
 Actor LexiconDM_BREX_FakeZombieman
 {
 	Health 20
@@ -158,6 +159,20 @@ Actor LexiconDM_BREX_FakeWolfensteinSS : LexiconDM_BREX_FakeZombieman
 			SSWV K 5 A_NoBlocking
 			SSWV L 5
 			SSWV M -1
+			Stop
+	}
+}
+
+Actor LexiconDM_BREX_NonRespawningExplosiveBarrel : ExplosiveBarrel
+{
+	States
+	{
+		Death:
+			BEXP A 5 Bright
+			BEXP B 5 Bright A_Scream
+			BEXP C 5 Bright
+			BEXP D 5 Bright A_Explode
+			BEXP E 10 Bright
 			Stop
 	}
 }

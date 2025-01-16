@@ -177,11 +177,12 @@ BREX_ACTOR_3 = "LexiconDM_BREX_WaterSoundEmitter";
 BREX_ACTOR_4 = "LexiconDM_BREX_ScreamSoundEmitter";
 BREX_ACTOR_5 = "LexiconDM_BREX_FakeZombieman";
 BREX_ACTOR_6 = "LexiconDM_BREX_FakeWolfensteinSS";
-BREX_ACTOR_7 = "LexiconDM_BREX_ColdWindSoundEmitter";
-BREX_ACTOR_8 = "LexiconDM_BREX_HowlingWindSoundEmitter";
-BREX_ACTOR_9 = "LexiconDM_BREX_Fire2SoundEmitter";
-BREX_ACTOR_10 = "LexiconDM_BREX_MoanSoundEmitter";
-BREX_ACTOR_11 = "LexiconDM_BREX_LightningSoundEmitter";
+BREX_ACTOR_7 = "LexiconDM_BREX_NonRespawningExplosiveBarrel";
+BREX_ACTOR_8 = "LexiconDM_BREX_ColdWindSoundEmitter";
+BREX_ACTOR_9 = "LexiconDM_BREX_HowlingWindSoundEmitter";
+BREX_ACTOR_10 = "LexiconDM_BREX_Fire2SoundEmitter";
+BREX_ACTOR_11 = "LexiconDM_BREX_MoanSoundEmitter";
+BREX_ACTOR_12 = "LexiconDM_BREX_LightningSoundEmitter";
 
 // The Final Frag
 FNFG_MAPSET_AUTHORS = "Ian McPherson (FraGMarE)";
