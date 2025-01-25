@@ -113,6 +113,9 @@ switch DW0X0005 on pic DW0X0010 tics 0
 switch DW0X0006 on pic DW0X0011 tics 0
 switch DW0X0007 on pic DW0X0012 tics 0
 
+// DWANGO 20th Anniversary Edition
+texture DW200005 range DW200006 tics 8 allowdecals
+
 // DWANGO!
 switch DWEX0003 on pic DWEX0008 tics 0
 switch DWEX0004 on pic DWEX0009 tics 0

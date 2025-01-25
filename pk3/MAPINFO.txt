@@ -19,6 +19,7 @@ include "mapinfo/DWANGO10.txt" // DWANGO10.wad
 include "mapinfo/DWANGO11.txt" // DWANGO11.wad
 include "mapinfo/DWANGO12.txt" // DWANGO12.wad
 include "mapinfo/DWANGOX.txt" // DWANGOX.wad
+include "mapinfo/DWANGO20.txt" // DWANGO20.wad
 include "mapinfo/DWANGO!.txt" // DWANGO!.wad
 include "mapinfo/LBDWANGO.txt" // LBDWANGO.wad
 include "mapinfo/IPXMATCH.txt" // ipxmatch.zip
