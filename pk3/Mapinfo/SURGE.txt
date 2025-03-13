@@ -245,8 +245,8 @@ map SURG29 "Blow Through"
 map SURG30 "Storm Pipes"
 {
 	TitlePatch = "SURGV29"
-	Next = "VR"
-	SecretNext = "VR"
+	next = "HUBMAP"
+	Secretnext = "HUBMAP"
 	Music = "D_SURG30"
 }
 

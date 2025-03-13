@@ -157,7 +157,7 @@ map EDMS18 "2400 Fulton Street"
 map EDMS19 "Deja Vu"
 {
 	TitlePatch = "EDMSV18"
-	Next = "VR"
-	SecretNext = "VR"
+	next = "HUBMAP"
+	Secretnext = "HUBMAP"
 	Music = "D_EDMS08"
 }

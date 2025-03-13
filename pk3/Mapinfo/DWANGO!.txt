@@ -136,8 +136,8 @@ map DWEX14 "DWANGO! Map 14"
 map DWEX15 "DWANGO! Map 15"
 {
 	titlepatch = "CWILV14"
-	next = "VR"
-	secretnext = "VR"
+	next = "HUBMAP"
+	secretnext = "HUBMAP"
 	sky1 = "SKY2"
 	music = "$MUSIC_RUNNI2"
 }

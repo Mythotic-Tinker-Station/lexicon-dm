@@ -243,8 +243,8 @@ map DW2029 "CHURCH of DOOM ]["
 
 map DW2030 "Death by Cyberdemon"
 {
-	Next = "VR"
-	SecretNext = "VR"
+	next = "HUBMAP"
+	Secretnext = "HUBMAP"
 	Sky1 = "DW200011"
 	Music = "D_DW2030"
 }

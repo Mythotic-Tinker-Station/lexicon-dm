@@ -296,8 +296,8 @@ map BREX30 "Bleed"
 map BREX31 "Author Room"
 {
 	TitlePatch = "BREXV30"
-	Next = "VR"
-	SecretNext = "VR"
+	next = "HUBMAP"
+	Secretnext = "HUBMAP"
 	Sky1 = "BREX0081"
 	Music = "D_BREX31"
 }

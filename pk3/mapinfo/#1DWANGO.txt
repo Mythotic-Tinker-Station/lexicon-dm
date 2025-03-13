@@ -118,8 +118,8 @@ map DW1D12 "#1DWANGO Map 12"
 map DW1D13 "#1DWANGO Map 13"
 {
 	titlepatch = "CWILV12"
-	next = "VR"
-	secretnext = "VR"
+	next = "HUBMAP"
+	secretnext = "HUBMAP"
 	sky1 = "SKY2"
 	music = "D_DW1D13"
 }

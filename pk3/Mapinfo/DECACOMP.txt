@@ -172,7 +172,7 @@ map DECA19 "Installation"
 map DECA20 "Future Zone"
 {
 	TitlePatch = "DECAV19"
-	Next = "VR"
-	SecretNext = "VR"
+	next = "HUBMAP"
+	Secretnext = "HUBMAP"
 	Music = "D_DECA20"
 }

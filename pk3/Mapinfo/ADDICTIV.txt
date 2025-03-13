@@ -69,7 +69,7 @@ map ADMS07 "Deadly Architecture"
 map ADMS08 "Snipe Spots"
 {
 	TitlePatch = "ADMSV07"
-	Next = "VR"
-	SecretNext = "VR"
+	next = "HUBMAP"
+	Secretnext = "HUBMAP"
 	Music = "D_ADMS08"
 }

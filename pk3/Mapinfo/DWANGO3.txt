@@ -127,8 +127,8 @@ map DW0313 "DWANGO3 Map 13"
 map DW0331 "DWANGO3 Map 31"
 {
 	titlepatch = "CWILV30"
-	next = "VR"
-	secretnext = "VR"
+	next = "HUBMAP"
+	secretnext = "HUBMAP"
 	sky1 = "DW030003"
 	music = "D_DW0331"
 }
