@@ -100,8 +100,8 @@ map DW0110 "DWANGO1 Map 10"
 map DW0111 "DWANGO1 Map 11"
 {
 	titlepatch = "CWILV10"
-	next = "HUBMAP"
-	secretnext = "HUBMAP"
+	next = "VR"
+	secretnext = "VR"
 	sky1 = "SKY1"
 	music = "D_DW0111"
 }

@@ -273,8 +273,8 @@ map GTH229 "Apocolyptopolis"
 map GTH230 "Quake 3:16"
 {
 	TitlePatch = "GTH2V29"
-	next = "HUBMAP"
-	Secretnext = "HUBMAP"
+	next = "VR"
+	Secretnext = "VR"
 	Sky1 = "GTH20312"
 	Music = "D_GTH230"
 }

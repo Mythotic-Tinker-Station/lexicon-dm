@@ -273,8 +273,8 @@ map BKT229 "...And I Must Scream"
 map BKT230 "BFG Arena"
 {
 	TitlePatch = "BKT2V29"
-	next = "HUBMAP"
-	Secretnext = "HUBMAP"
+	next = "VR"
+	Secretnext = "VR"
 	Sky1 = "SKY3"
 	Music = "D_BKT230"
 }

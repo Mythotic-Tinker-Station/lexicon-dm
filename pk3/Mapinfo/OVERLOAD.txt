@@ -133,7 +133,7 @@ map OVLD15 "High Fragquency"
 map OVLD31 "Fragmageddon"
 {
 	TitlePatch = "OVLDV30"
-	next = "HUBMAP"
-	Secretnext = "HUBMAP"
+	next = "VR"
+	Secretnext = "VR"
 	Music = "D_EVIL"
 }

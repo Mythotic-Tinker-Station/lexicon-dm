@@ -273,8 +273,8 @@ map GRVE29 "Roundabout"
 map GRVE30 "Finale"
 {
 	TitlePatch = "GRVEV29"
-	next = "HUBMAP"
-	Secretnext = "HUBMAP"
+	next = "VR"
+	Secretnext = "VR"
 	Sky1 = "GRVE0005"
 	Music = "D_OPENIN"
 }

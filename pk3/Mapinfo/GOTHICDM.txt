@@ -273,8 +273,8 @@ map GTH129 "Everything Explodes"
 map GTH130 "Beyond Good and Evil"
 {
 	TitlePatch = "GTH1V29"
-	next = "HUBMAP"
-	Secretnext = "HUBMAP"
+	next = "VR"
+	Secretnext = "VR"
 	Sky1 = "GTH10175"
 	Music = "D_GTH108"
 }

@@ -1,6 +1,6 @@
 // Sound emitters which replace the ambient monster sounds in DECA and DECA 2
 
-Actor LexiconDM_DECA_GeneratorSoundEmitter : LexiconDM_BaseSoundEmitter
+Actor LexiconDM_DECA_GeneratorSoundEmitter : LexiconAmbientSoundEmitter
 {
 	States
 	{
@@ -14,7 +14,7 @@ Actor LexiconDM_DECA_GeneratorSoundEmitter : LexiconDM_BaseSoundEmitter
 	}
 }
 
-Actor LexiconDM_DECA_Wind2SoundEmitter : LexiconDM_BaseSoundEmitter
+Actor LexiconDM_DECA_Wind2SoundEmitter : LexiconAmbientSoundEmitter
 {
 	States
 	{
@@ -28,7 +28,7 @@ Actor LexiconDM_DECA_Wind2SoundEmitter : LexiconDM_BaseSoundEmitter
 	}
 }
 
-Actor LexiconDM_DECA_Water2SoundEmitter : LexiconDM_BaseSoundEmitter
+Actor LexiconDM_DECA_Water2SoundEmitter : LexiconAmbientSoundEmitter
 {
 	States
 	{
@@ -42,7 +42,7 @@ Actor LexiconDM_DECA_Water2SoundEmitter : LexiconDM_BaseSoundEmitter
 	}
 }
 
-Actor LexiconDM_DECA_ComputerSoundEmitter : LexiconDM_BaseSoundEmitter
+Actor LexiconDM_DECA_ComputerSoundEmitter : LexiconAmbientSoundEmitter
 {
 	States
 	{

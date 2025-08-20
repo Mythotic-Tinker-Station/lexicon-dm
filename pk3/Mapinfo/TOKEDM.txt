@@ -77,8 +77,8 @@ map TKDM08 "TokeDM Map 8"
 map TKDM09 "TokeDM Map 9"
 {
 	titlepatch = "CWILV08"
-	next = "HUBMAP"
-	secretnext = "HUBMAP"
+	next = "VR"
+	secretnext = "VR"
 	sky1 = "SKY1"
 	music = "$MUSIC_IN_CIT"
 }

@@ -39,8 +39,8 @@ map DZG219 "DANZIG2 Map 19"
 map DZG220 "DANZIG2 Map 20"
 {
 	titlepatch = "CWILV19"
-	next = "HUBMAP"
-	secretnext = "HUBMAP"
+	next = "VR"
+	secretnext = "VR"
 	sky1 = "SKY2"
 	music = "$MUSIC_MESSAG"
 }

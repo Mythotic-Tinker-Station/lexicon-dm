@@ -1,6 +1,6 @@
 // Sound emitters which replace the ambient monster sounds in Execution Deathmatch and Brit11
 
-Actor LexiconDM_BREX_Fire2SoundEmitter : LexiconDM_BaseSoundEmitter
+Actor LexiconDM_BREX_Fire2SoundEmitter : LexiconAmbientSoundEmitter
 {
 	States
 	{
@@ -14,7 +14,7 @@ Actor LexiconDM_BREX_Fire2SoundEmitter : LexiconDM_BaseSoundEmitter
 	}
 }
 
-Actor LexiconDM_BREX_HowlingWindSoundEmitter : LexiconDM_BaseSoundEmitter
+Actor LexiconDM_BREX_HowlingWindSoundEmitter : LexiconAmbientSoundEmitter
 {
 	States
 	{
@@ -28,7 +28,7 @@ Actor LexiconDM_BREX_HowlingWindSoundEmitter : LexiconDM_BaseSoundEmitter
 	}
 }
 
-Actor LexiconDM_BREX_ColdWindSoundEmitter : LexiconDM_BaseSoundEmitter
+Actor LexiconDM_BREX_ColdWindSoundEmitter : LexiconAmbientSoundEmitter
 {
 	States
 	{
@@ -102,7 +102,7 @@ Actor LexiconDM_BREX_WaterSoundEmitter : LexiconDM_BREX_Fire2SoundEmitter
 	}
 }
 
-Actor LexiconDM_BREX_ScreamSoundEmitter : LexiconDM_BaseSoundEmitter
+Actor LexiconDM_BREX_ScreamSoundEmitter : LexiconAmbientSoundEmitter
 {
 	Speed 0
 	SeeSound "BREX/SCREAM"

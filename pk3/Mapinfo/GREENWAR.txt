@@ -243,8 +243,8 @@ map GWAR29 "Green War 29"
 
 map GWAR30 "Green War 30"
 {
-	next = "HUBMAP"
-	Secretnext = "HUBMAP"
+	next = "VR"
+	Secretnext = "VR"
 	Sky1 = "SKY3"
 	Music = "D_OPENIN"
 }

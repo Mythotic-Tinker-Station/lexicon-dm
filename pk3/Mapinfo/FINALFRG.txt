@@ -273,8 +273,8 @@ map FNFG29 "Dead Simple"
 map FNFG30 "Halls of the Doomed"
 {
 	TitlePatch = "FNFGV29"
-	next = "HUBMAP"
-	Secretnext = "HUBMAP"
+	next = "VR"
+	Secretnext = "VR"
 	Sky1 = "FNFG0004"
 	Music = "D_FNFG30"
 }
