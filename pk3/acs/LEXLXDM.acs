@@ -1,0 +1,7 @@
+#library "LEXLXDM"
+#include "zcommon.acs"
+
+Script "Lexicon_DeathmatchPack_AddAcronym" OPEN
+{
+	ACS_NamedExecuteWithResult("Lexicon_AddMapSet","LXDM",2);
+}
