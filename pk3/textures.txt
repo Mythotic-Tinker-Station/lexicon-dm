@@ -1,0 +1,76 @@
+Graphic "DUGOTN", 320, 200
+{
+	Patch "DUGOINT", 0, 0
+}
+
+Graphic "DW05TN", 320, 200
+{
+	Patch "DW05INT", 0, 0
+}
+
+Graphic "DW06TN", 320, 200
+{
+	Patch "DW06INT", 0, 0
+}
+
+Graphic "DW07TN", 320, 200
+{
+	Patch "DW07INT", 0, 0
+}
+
+Graphic "DW08TN", 320, 200
+{
+	Patch "DW08INT", 0, 0
+}
+
+Graphic "DW0XTN", 320, 200
+{
+	Patch "DW0XINT", 0, 0
+}
+
+Graphic "DW11TN", 320, 200
+{
+	Patch "DW11INT", 0, 0
+}
+
+Graphic "DW12TN", 320, 200
+{
+	Patch "DW12INT", 0, 0
+}
+
+Graphic "DW20TN", 320, 200
+{
+	Patch "DW20INT", 0, 0
+}
+
+Graphic "DWAZTN", 320, 200
+{
+	Patch "DWAZINT", 0, 0
+}
+
+Graphic "DWDCTN", 320, 200
+{
+	Patch "DWDCINT", 0, 0
+}
+
+Graphic "DWLBTN", 320, 200
+{
+	Patch "DWLBINT", 0, 0
+}
+
+Graphic "DWOZTN", 320, 200
+{
+	Patch "DWOZINT", 0, 0
+}
+
+Graphic "PRHCTN", 800, 600
+{
+	XScale 2.500
+	YScale 3.000
+	Patch "PRHCINT", 0, 0
+}
+
+Graphic "WANGTN", 320, 200
+{
+	Patch "WANGINT", 0, 0
+}
