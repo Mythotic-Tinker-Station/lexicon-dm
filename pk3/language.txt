@@ -1,6 +1,5 @@
 [default]
 LEX_LXDM_PACKNAME = "Deathmatch (Doom 2)";
-LEX_LXDM_IWAD = "Doom2";
 LEX_LXDM_GAMETYPE = "COMP";
 
 LEX_LXDM_1 = "ADMS";

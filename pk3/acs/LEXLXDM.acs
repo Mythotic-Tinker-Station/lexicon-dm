@@ -3,5 +3,5 @@
 
 Script "Lexicon_DeathmatchPack_AddAcronym" OPEN
 {
-	ACS_NamedExecuteWithResult("Lexicon_AddMapSet","LXDM",2);
+	ACS_NamedExecuteWithResult("Lexicon_AddMapSet","LXDM",3);
 }
