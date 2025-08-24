@@ -63,6 +63,16 @@ Graphic "DWOZTN", 320, 200
 	Patch "DWOZINT", 0, 0
 }
 
+Graphic "OVLDTN", 320, 200
+{
+	Patch "OVLDINT", 0, 0
+}
+
+Graphic "IPXMTN", 320, 200
+{
+	Patch "IPXMINT", 0, 0
+}
+
 Graphic "PRHCTN", 800, 600
 {
 	XScale 2.500
