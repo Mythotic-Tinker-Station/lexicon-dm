@@ -23,6 +23,11 @@ Graphic "DW08TN", 320, 200
 	Patch "DW08INT", 0, 0
 }
 
+Graphic "DW10TN", 320, 200
+{
+	Patch "DW10INT", 0, 0
+}
+
 Graphic "DW0XTN", 320, 200
 {
 	Patch "DW0XINT", 0, 0
