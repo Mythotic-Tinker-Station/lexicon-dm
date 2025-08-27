@@ -19,7 +19,7 @@ DWANGO11: DWANGO Team
 DWANGO12: DWANGO Team
 #1DWANGO: DWANGO Team
 DWANGOX: DWANGO Team
-DWANGO20: Doomkid, Various Authors
+DWANGO 20th Anniversary Edition: Doomkid, Various Authors
 DWANGO!: DWANGO Team
 IPXMATCH: Jeannot "NUMBeRsiX" Langlois
 Eternal Deathmatch Set: Chris Couleur, Adam Landefeld, Lisa Moore
