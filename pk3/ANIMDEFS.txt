@@ -123,6 +123,11 @@ switch DWEX0005 on pic DWEX0010 tics 0
 switch DWEX0006 on pic DWEX0011 tics 0
 switch DWEX0007 on pic DWEX0012 tics 0
 
+// FreeDM: Classic Edition
+texture FRDM0018 range FRDM0021 tics 8
+switch FRDM0002 on pic FRDM0007 tics 0
+switch FRDM0003 on pic FRDM0008 tics 0
+
 // LBDWANGO
 texture DWLB0002 range DWLB0005 tics 8
 switch DWLB0010 on pic DWLB0015 tics 0
