@@ -1,3 +1,4 @@
+#include "decorate/BOURGDM.txt" // Bourgeois Megawad
 #include "decorate/DECACOMP.txt" // Decamatch Complete
 #include "decorate/DW11.txt" // DWANGO11
 #include "decorate/EXECBRIT.txt" // EXEC + Brit10 + Brit11

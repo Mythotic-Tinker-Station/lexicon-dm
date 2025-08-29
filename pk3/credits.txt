@@ -1,10 +1,14 @@
 Lexicon Deathmatch Authors
 ---------------
 Addictive Deathmatch Series: Iikka "Fingers" Kernen
+AZDWANGO: DWANGO Team
+The Bigger Thirty-Two: Yuzz
+Bourgeois Megawad: Decay, Doomkid, Razgriz
 Brexicution: Doomkid, ExecutionDM Team, British Doom League
 BUCKET DM 2: Brendan "bucket" Bradley
 DANZIG1: B. Vannatta and B. Weldon
 DANZIG2: B. Vannatta and B. Weldon
+DCDWANGO: DWANGO Team
 Decamatch Complete: Team Onslaught, combinebobnt
 Durango: Durango Team
 DWANGO1: DWANGO Team
@@ -22,7 +26,8 @@ DWANGO12: DWANGO Team
 DWANGOX: DWANGO Team
 DWANGO 20th Anniversary Edition: Doomkid, Various Authors
 DWANGO!: DWANGO Team
-FreeDM: Classic Edition: Alex Harrison
+FreeDM: Classic Edition: Alex Harrison, FreeDM Team
+Intrinsic Violence: Dylan McIntosh (Toke)
 IPXMATCH: Jeannot "NUMBeRsiX" Langlois
 Eternal Deathmatch Set: Chris Couleur, Adam Landefeld, Lisa Moore
 The Final Frag: Ian "FraGMarE" McPherson
@@ -30,7 +35,9 @@ Gothic DeathMatches: Gothic Crew
 Gothic DeathMatch II: Gothic Crew
 Green War: Jason "Hellbent/Grotug/Jacobi" Root
 Grievance: TeamTNT
+LBDWANGO: DWANGO Team
 Overload Deathmatches: Ola Bjorling, Tobias Forsberg, Nicklas Linnes, Martin Friberg
+OZWANGO: DWANGO Team
 Pyrrhic XL: hobomaster22
 Surge DM: Surge DM Team
 TokeDM: Dylan McIntosh (Toke)

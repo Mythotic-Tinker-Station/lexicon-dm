@@ -15,6 +15,9 @@ switch DWAZ0006 on pic DWAZ0011 tics 0
 switch DWAZ0007 on pic DWAZ0012 tics 0
 switch DWAZ0008 on pic DWAZ0013 tics 0
 
+// Bourgeois Megawad
+texture BOUR0074 range BOUR0077 tics 8
+
 // DCDWANGO
 texture DWDC0001 range DWDC0004 tics 8 allowdecals
 switch DWDC0006 on pic DWDC0011 tics 0
@@ -180,6 +183,9 @@ switch GTH20315 on pic GTH20318 tics 0
 texture GRVE0001 range GRVE0004 tics 8 allowdecals
 texture GRVE0035 range GRVE0038 tics 8
 switch GRVE0008 on pic GRVE0009 tics 0
+
+// Intrinsic Violence
+switch TVOX0075 on pic TVOX0080 tics 0
 
 // IPXMATCH
 switch IPXM0004 on pic IPXM0013 tics 0

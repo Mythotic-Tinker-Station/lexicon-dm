@@ -1,6 +1,8 @@
 include "mapinfo/ADDICTIV.txt" // ADDICTIV.wad
 include "mapinfo/#1DWANGO.txt" // #1DWANGO.wad
 include "mapinfo/AZDWANGO.txt" // AZDWANGO.wad
+include "mapinfo/BIGGER32.txt" // BIGGER32.wad
+include "mapinfo/BOURGDM.txt" // BOURGFIX.WAD
 include "mapinfo/BUKETDM2.txt" // buketdm2.wad
 include "mapinfo/DANZIG1.txt" // DANZIG1.wad
 include "mapinfo/DANZIG2.txt" // DANZIG2.wad
@@ -21,6 +23,7 @@ include "mapinfo/DWANGO12.txt" // DWANGO12.wad
 include "mapinfo/DWANGOX.txt" // DWANGOX.wad
 include "mapinfo/DWANGO20.txt" // DWANGO20.wad
 include "mapinfo/DWANGO!.txt" // DWANGO!.wad
+include "mapinfo/FREEDMCE.TXT" // FREEDMCE.wad
 include "mapinfo/LBDWANGO.txt" // LBDWANGO.wad
 include "mapinfo/IPXMATCH.txt" // ipxmatch.zip
 include "mapinfo/EDM.txt" // edm.wad
@@ -36,3 +39,4 @@ include "mapinfo/PYRRHIC.txt" // pyrrhicxl.wad
 include "mapinfo/SURGE.txt" // surge.wad
 include "mapinfo/TOKEDM.txt" // TOKEDM.wad
 include "mapinfo/WANG.txt" // wang.wad
+include "mapinfo/VEXDOOM.txt" // vex-doom.wad
