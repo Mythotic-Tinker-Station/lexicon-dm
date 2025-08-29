@@ -8,6 +8,7 @@ include "mapinfo/DANZIG1.txt" // DANZIG1.wad
 include "mapinfo/DANZIG2.txt" // DANZIG2.wad
 include "mapinfo/DCDWANGO.txt" // DCDWANGO.wad
 include "mapinfo/DECACOMP.txt" // deca-complete.wad
+include "mapinfo/DOOMKID.txt" // dk_dm_pack.wad
 include "mapinfo/DURANGO.txt" // Durangov1.wad
 include "mapinfo/DWANGO1.txt" // DWANGO1.wad
 include "mapinfo/DWANGO2.txt" // DWANGO2.wad

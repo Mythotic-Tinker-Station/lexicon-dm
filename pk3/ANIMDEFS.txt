@@ -34,6 +34,19 @@ switch DECA0024 on pic DECA0026 tics 0
 switch DECA0058 on pic DECA0059 tics 0
 switch DECA0060 on pic DECA0061 tics 0
 
+// Doomkid's Deathmatch Series
+texture DKDS0037 range DKDS0040 tics 8 allowdecals
+texture DKDS0077 range DKDS0080 tics 8 allowdecals
+texture DKDS0041 range DKDS0044 tics 8
+texture DKDS0045 range DKDS0046 tics 8
+texture DKDS0114 range DKDS0117 tics 8
+texture DKDS0193 range DKDS0195 tics 8 allowdecals
+texture DKDS0211 range DKDS0214 tics 8
+flat DKDS0013 range DKDS0016 tics 8
+flat DKDS0024 range DKDS0027 tics 8
+flat DKDS0031 range DKDS0034 tics 8
+switch DKDS0051 on pic DKDS0056 tics 0
+
 // Durango
 texture DUGO0438 range DUGO0441 tics 8
 

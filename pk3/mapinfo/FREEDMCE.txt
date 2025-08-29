@@ -1,5 +1,11 @@
 // FreeDM: Classic Edition Mapinfo
 
+defaultmap
+{
+	nojump
+	nocrouch
+}
+
 map FRDM01 "Tech Test"
 {
 	titlepatch = "FRDMV00"

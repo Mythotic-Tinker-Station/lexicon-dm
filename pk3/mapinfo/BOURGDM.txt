@@ -1,5 +1,11 @@
 // Bourgeois Deathmatch Mapinfo
 
+defaultmap
+{
+	nojump
+	nocrouch
+}
+
 map BOUR01 "Darken"
 {
 	titlepatch = "BOURV00"

@@ -1,5 +1,11 @@
 // The Bigger Thirty-Two Mapinfo
 
+defaultmap
+{
+	nojump
+	nocrouch
+}
+
 map BG3201 "BIGGER32 Map 1"
 {
 	titlepatch = "CWILV00"

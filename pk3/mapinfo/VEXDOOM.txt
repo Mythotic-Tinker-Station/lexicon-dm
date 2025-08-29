@@ -1,5 +1,11 @@
 // Intrinsic Violence Mapinfo
 
+defaultmap
+{
+	nojump
+	nocrouch
+}
+
 map TVOX01 "Intrinsic Violence Map 1"
 {
 	titlepatch = "CWILV00"
