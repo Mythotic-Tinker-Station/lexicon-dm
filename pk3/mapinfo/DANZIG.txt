@@ -1,5 +1,11 @@
 // DANZIG1 + DANZIG2 Mapinfo
 
+defaultmap
+{
+	nojump
+	nocrouch
+}
+
 map DNZG01 "DANZIG1 #11"
 {
 	titlepatch = "CWILV10"
