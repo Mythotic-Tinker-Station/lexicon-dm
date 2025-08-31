@@ -2,6 +2,7 @@ Lexicon Deathmatch Authors
 ---------------
 Addictive Deathmatch Series: Iikka "Fingers" Kernen
 AZDWANGO: DWANGO Team
+BeeJay's DooM 2 Deathmatch Party: _BeeJay_
 The Bigger Thirty-Two: Yuzz
 Bourgeois Megawad: Decay, Doomkid, Razgriz
 Brexicution: Doomkid, ExecutionDM Team, British Doom League
