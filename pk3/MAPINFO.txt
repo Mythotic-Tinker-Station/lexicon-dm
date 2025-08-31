@@ -3,6 +3,7 @@ include "mapinfo/#1DWANGO.txt" // #1DWANGO.wad
 include "mapinfo/AZDWANGO.txt" // AZDWANGO.wad
 include "mapinfo/BIGGER32.txt" // BIGGER32.wad
 include "mapinfo/BJAY_F3.txt" // BJAY_F3.WAD
+include "mapinfo/BLUDBATH.txt" // BLUDBATH.WAD
 include "mapinfo/BOURGDM.txt" // BOURGFIX.WAD
 include "mapinfo/BUKETDM2.txt" // buketdm2.wad
 include "mapinfo/DANZIG.txt" // DANZIG1.wad + DANZIG2.wad

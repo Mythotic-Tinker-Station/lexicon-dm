@@ -1,5 +1,11 @@
 // SynJ. Series Mapinfo
 
+defaultmap
+{
+	nojump
+	nocrouch
+}
+
 map SYNJ01 "SYNJ08 Map 1"
 {
 	titlepatch = "CWILV00"

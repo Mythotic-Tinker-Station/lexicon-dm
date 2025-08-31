@@ -15,6 +15,10 @@ switch DWAZ0006 on pic DWAZ0011 tics 0
 switch DWAZ0007 on pic DWAZ0012 tics 0
 switch DWAZ0008 on pic DWAZ0013 tics 0
 
+// BLUDBATH
+texture BLDB0002 range BLDB0005 tics 8
+switch BLDB0010 on pic BLDB0015 tics 0
+
 // Bourgeois Megawad
 texture BOUR0074 range BOUR0077 tics 8
 
