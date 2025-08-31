@@ -197,6 +197,13 @@ texture GRVE0001 range GRVE0004 tics 8 allowdecals
 texture GRVE0035 range GRVE0038 tics 8
 switch GRVE0008 on pic GRVE0009 tics 0
 
+// Houses 1.4
+switch HS140012 on pic HS140027 tics 0
+switch HS140016 on pic HS140031 tics 0
+switch HS140017 on pic HS140032 tics 0
+switch HS140021 on pic HS140036 tics 0
+switch HS140023 on pic HS140038 tics 0
+
 // Intrinsic Violence
 switch TVOX0075 on pic TVOX0080 tics 0
 
