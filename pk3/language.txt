@@ -44,8 +44,9 @@ LEX_DTHM_39 = "OVLD";
 LEX_DTHM_40 = "DWOZ";
 LEX_DTHM_41 = "PRHC";
 LEX_DTHM_42 = "SURG";
-LEX_DTHM_43 = "TKDM";
-LEX_DTHM_44 = "WANG";
+LEX_DTHM_43 = "SYNJ";
+LEX_DTHM_44 = "TKDM";
+LEX_DTHM_45 = "WANG";
 
 // Custom actors and metadata for Lexicon Deathmatch mapsets
 // Addictive Deathmatch Series
@@ -452,6 +453,14 @@ SURG_MAPSET_DATE = "1998";
 SURG_MAPSET_MAPS = "32";
 SURG_MAPSET_TITLE = "Surge DM";
 SURG_MAPSET_PACK = "DTHM";
+
+// SynJ. Series: SynJ
+SYNJ_MAPSET_AUTHORS = "SynJ";
+SYNJ_MAPSET_CUSTOM = "N";
+SYNJ_MAPSET_DATE = "1994";
+SYNJ_MAPSET_MAPS = "8";
+SYNJ_MAPSET_TITLE = "SynJ. Series";
+SYNJ_MAPSET_PACK = "DTHM";
 
 // TokeDM
 TKDM_MAPSET_AUTHORS = "Dylan McIntosh (Toke)";

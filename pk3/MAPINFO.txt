@@ -39,6 +39,7 @@ include "mapinfo/OVERLOAD.txt" // overload.wad
 include "mapinfo/OZWANGO.txt" // OZWANGO.wad
 include "mapinfo/PYRRHIC.txt" // pyrrhicxl.wad
 include "mapinfo/SURGE.txt" // surge.wad
+include "mapinfo/SYNJ1994.txt" // SYNJ1994.WAD
 include "mapinfo/TOKEDM.txt" // TOKEDM.wad
 include "mapinfo/WANG.txt" // wang.wad
 include "mapinfo/VEXDOOM.txt" // vex-doom.wad
