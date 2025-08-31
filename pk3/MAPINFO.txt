@@ -4,8 +4,7 @@ include "mapinfo/AZDWANGO.txt" // AZDWANGO.wad
 include "mapinfo/BIGGER32.txt" // BIGGER32.wad
 include "mapinfo/BOURGDM.txt" // BOURGFIX.WAD
 include "mapinfo/BUKETDM2.txt" // buketdm2.wad
-include "mapinfo/DANZIG1.txt" // DANZIG1.wad
-include "mapinfo/DANZIG2.txt" // DANZIG2.wad
+include "mapinfo/DANZIG.txt" // DANZIG1.wad + DANZIG2.wad
 include "mapinfo/DCDWANGO.txt" // DCDWANGO.wad
 include "mapinfo/DECACOMP.txt" // deca-complete.wad
 include "mapinfo/DOOMKID.txt" // dk_dm_pack.wad

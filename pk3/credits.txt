@@ -6,8 +6,7 @@ The Bigger Thirty-Two: Yuzz
 Bourgeois Megawad: Decay, Doomkid, Razgriz
 Brexicution: Doomkid, ExecutionDM Team, British Doom League
 BUCKET DM 2: Brendan "bucket" Bradley
-DANZIG1: B. Vannatta and B. Weldon
-DANZIG2: B. Vannatta and B. Weldon
+DANZIG1 + DANZIG2: B. Vannatta and B. Weldon
 DCDWANGO: DWANGO Team
 Decamatch Complete: Team Onslaught, combinebobnt
 Doomkid's Deathmatch Series: Doomkid
