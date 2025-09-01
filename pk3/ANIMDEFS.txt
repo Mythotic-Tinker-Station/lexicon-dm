@@ -15,6 +15,10 @@ switch DWAZ0006 on pic DWAZ0011 tics 0
 switch DWAZ0007 on pic DWAZ0012 tics 0
 switch DWAZ0008 on pic DWAZ0013 tics 0
 
+// Bloodlands
+texture BLDL0041 range BLDL0044 tics 8
+switch BLDL0006 on pic BLDL0012 tics 0
+
 // BLUDBATH
 texture BLDB0002 range BLDB0005 tics 8
 switch BLDB0010 on pic BLDB0015 tics 0
@@ -222,6 +226,15 @@ switch IPXM0010 on pic IPXM0019 tics 0
 switch IPXM0011 on pic IPXM0020 tics 0
 switch IPXM0012 on pic IPXM0021 tics 0
 
+// Lazarus
+texture LZRS0035 range LZRS0038 tics 6
+texture LZRS0039 range LZRS0042 tics 8
+texture LZRS0054 range LZRS0056 tics 6
+texture LZRS0079 range LZRS0087 tics 4
+flat LZRS0010 range LZRS0013 tics 8
+switch LZRS0022 on pic LZRS0027 tics 0
+switch LZRS0023 on pic LZRS0028 tics 0
+
 // Overload Deathmatches
 texture OVLD0012 range OVLD0015 tics 8
 texture OVLD0039 range OVLD0042 tics 8
@@ -233,6 +246,27 @@ switch DWOZ0002 on pic DWOZ0007 tics 0
 switch DWOZ0003 on pic DWOZ0008 tics 0
 switch DWOZ0004 on pic DWOZ0009 tics 0
 switch DWOZ0005 on pic DWOZ0010 tics 0
+
+// Pursuit
+texture PRSU0067 range PRSU0070 tics 8 allowdecals
+texture PRSU0086 range PRSU0089 tics 8
+switch PRSU0075 on pic PRSU0081 tics 0
+switch PRSU0076 on pic PRSU0082 tics 0
+
+// Reclamation
+texture RCLM0056 range RCLM0059 tics 8
+texture RCLM0083 range RCLM0086 tics 8 allowdecals
+texture RCLM0096 range RCLM0099 tics 8
+texture RCLM0112 range RCLM0115 tics 8
+flat RCLM0002 range RCLM0005 tics 8
+flat RCLM0006 range RCLM0009 tics 8
+flat RCLM0010 range RCLM0013 tics 4
+switch RCLM0024 on pic RCLM0030 tics 0
+switch RCLM0101 on pic RCLM0102 tics 0
+switch RCLM0103 on pic RCLM0104 tics 0
+switch RCLM0105 on pic RCLM0106 tics 0
+switch RCLM0135 on pic RCLM0136 tics 0
+switch RCLM0138 on pic RCLM0139 tics 0
 
 // Surge DM
 texture SURG0045 range SURG0047 tics 8
@@ -254,3 +288,18 @@ switch TKDM0340 on pic TKDM0380 tics 0
 switch TKDM0341 on pic TKDM0381 tics 0
 switch TKDM0342 on pic TKDM0382 tics 0
 switch TKDM0346 on pic TKDM0386 tics 0
+
+// TWANGO1
+texture TWN10106 range TWN10109 tics 8
+texture TWN10210 range TWN10213 tics 8
+switch TWN10189 on pic TWN10194 tics 0
+switch TWN10190 on pic TWN10195 tics 0
+
+// UDMX + UDM3
+texture UDMX0926 range UDMX0929 tics 8
+flat UDMX0240 range UDMX0242 tics 8
+flat UDMX0279 range UDMX0281 tics 8
+flat UDMX0398 range UDMX0401 tics 8
+switch UDMX0410 on pic UDMX0415 tics 0
+switch UDMX0411 on pic UDMX0416 tics 0
+switch UDMX0413 on pic UDMX0418 tics 0

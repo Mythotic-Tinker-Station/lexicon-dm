@@ -4,8 +4,9 @@ Addictive Deathmatch Series: Iikka "Fingers" Kernen
 AZDWANGO: DWANGO Team
 BeeJay's DooM 2 Deathmatch Party: _BeeJay_
 The Bigger Thirty-Two: Yuzz
-Bourgeois Megawad: Decay, Doomkid, Razgriz
+Bloodlands: TeamTNT
 BLUDBATH: Olympus BBS
+Bourgeois Megawad: Decay, Doomkid, Razgriz
 Brexicution: Doomkid, ExecutionDM Team, British Doom League
 BUCKET DM 2: Brendan "bucket" Bradley
 DANZIG1 + DANZIG2: B. Vannatta and B. Weldon
@@ -38,11 +39,16 @@ Gothic DeathMatches: Gothic Crew
 Gothic DeathMatch II: Gothic Crew
 Green War: Jason "Hellbent/Grotug/Jacobi" Root
 Grievance: TeamTNT
+Lazarus: Chaindude, Midian, GhoulSlayer, Cybershark, Mephisto, HoboMaster22, Devi
 LBDWANGO: DWANGO Team
 Overload Deathmatches: Ola Bjorling, Tobias Forsberg, Nicklas Linnes, Martin Friberg
 OZWANGO: DWANGO Team
+Pursuit: TeamTNT
 Pyrrhic XL: hobomaster22
+Reclamation: TeamTNT
 Surge DM: Surge DM Team
 SynJ. Series: SynJ
 TokeDM: Dylan McIntosh (Toke)
+TWANGO1: TWANGO1 Team
+UDMX + UDM3: Clan UniDooM
 WANG: Argent Agent, Decay, HeavenWraith, Razgriz, Synami

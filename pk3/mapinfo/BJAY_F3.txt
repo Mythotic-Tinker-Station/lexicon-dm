@@ -150,7 +150,7 @@ map BJF315 "BJAY_F3 Map 15"
 {
 	titlepatch = "CWILV14"
 	next = "BJF316"
-	secretnext = "BJF331"
+	secretnext = "BJF316"
 	sky1 = "BJF30002"
 	music = "D_BJF315"
 	intermusic = "D_BJF3IN"

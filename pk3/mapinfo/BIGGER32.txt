@@ -178,7 +178,7 @@ map BG3215 "BIGGER32 Map 15"
 {
 	titlepatch = "CWILV14"
 	next = "BG3216"
-	secretnext = "BG3231"
+	secretnext = "BG3216"
 	sky1 = "SKY2"
 	music = "D_BG3215"
 	intermusic = "D_BG32IN"

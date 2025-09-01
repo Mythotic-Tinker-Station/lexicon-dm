@@ -139,7 +139,7 @@ map GRVE15 "The Diner"
 {
 	TitlePatch = "GRVEV14"
 	Next = "GRVE16"
-	SecretNext = "GRVE31"
+	SecretNext = "GRVE16"
 	Sky1 = "GRVE0007"
 	Music = "D_RUNNI2"
 }

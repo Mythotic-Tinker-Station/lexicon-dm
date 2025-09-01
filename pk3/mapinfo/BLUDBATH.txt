@@ -178,7 +178,7 @@ map BLDB15 "BLUDBATH Map 15"
 {
 	titlepatch = "CWILV14"
 	next = "BLDB16"
-	secretnext = "BLDB31"
+	secretnext = "BLDB16"
 	sky1 = "BLDB0024"
 	music = "D_BLDB15"
 	intermusic = "D_BLDBIN"
