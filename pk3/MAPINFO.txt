@@ -40,6 +40,7 @@ include "mapinfo/TNTBLOOD.txt" // TNTBLOOD.WAD
 include "mapinfo/TNTGRVNC.txt" // TNTGRVNC.wad
 include "mapinfo/TNTPURST.txt" // TNTPURST.WAD
 include "mapinfo/TNTRECL.txt" // TNTRECL.WAD
+include "mapinfo/ONSLAUGHT.txt" // onslpack.wad
 include "mapinfo/OVERLOAD.txt" // overload.wad
 include "mapinfo/OZWANGO.txt" // OZWANGO.wad
 include "mapinfo/PYRRHIC.txt" // pyrrhicxl.wad

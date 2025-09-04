@@ -235,6 +235,11 @@ flat LZRS0010 range LZRS0013 tics 8
 switch LZRS0022 on pic LZRS0027 tics 0
 switch LZRS0023 on pic LZRS0028 tics 0
 
+// Onslaught DM Pack
+texture OSLP0147 range OSLP0150 tics 8
+switch OSLP0200 on pic OSLP0206 tics 0
+switch OSLP0204 on pic OSLP0210 tics 0
+
 // Overload Deathmatches
 texture OVLD0012 range OVLD0015 tics 8
 texture OVLD0039 range OVLD0042 tics 8
