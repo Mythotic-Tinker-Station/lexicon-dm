@@ -274,10 +274,18 @@ switch RCLM0135 on pic RCLM0136 tics 0
 switch RCLM0138 on pic RCLM0139 tics 0
 
 // Surge DM
-texture SURG0045 range SURG0047 tics 8
-texture SURG0048 range SURG0051 tics 8
-texture SURG0052 range SURG0055 tics 8
-switch SURG0079 on pic SURG0080 tics 0
+texture SRG10045 range SRG10047 tics 8
+texture SRG10048 range SRG10051 tics 8
+texture SRG10052 range SRG10055 tics 8
+switch SRG10082 on pic SRG10088 tics 0
+
+// Surge DM II
+texture SRG20049 range SRG20052 tics 8
+texture SRG20088 range SRG20090 tics 8
+texture SRG20191 range SRG20206 tics 8
+texture SRG20236 range SRG20239 tics 8
+texture SRG20253 range SRG20256 tics 8
+switch SRG20244 on pic SRG20249 tics 0
 
 // TokeDM
 texture TKDM0033 range TKDM0036 tics 8 allowdecals
