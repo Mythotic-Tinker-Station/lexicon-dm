@@ -6,6 +6,7 @@ include "mapinfo/BJAY_F3.txt" // BJAY_F3.WAD
 include "mapinfo/BLUDBATH.txt" // BLUDBATH.WAD
 include "mapinfo/BOURGDM.txt" // BOURGFIX.WAD
 include "mapinfo/BUKETDM2.txt" // buketdm2.wad
+include "mapinfo/COUNTERGOAT.txt" // CGI1.wad
 include "mapinfo/DANZIG.txt" // DANZIG1.wad + DANZIG2.wad
 include "mapinfo/DCDWANGO.txt" // DCDWANGO.wad
 include "mapinfo/DECACOMP.txt" // deca-complete.wad

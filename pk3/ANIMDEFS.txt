@@ -26,6 +26,23 @@ switch BLDB0010 on pic BLDB0015 tics 0
 // Bourgeois Megawad
 texture BOUR0074 range BOUR0077 tics 8
 
+// Countergoat Initiative
+texture CGIN0132 range CGIN0135 tics 8
+texture CGIN0140 range CGIN0141 tics 8
+texture CGIN0224 range CGIN0227 tics 8
+texture CGIN0305 range CGIN0320 tics 8
+texture CGIN0321 range CGIN0336 tics 8
+texture CGIN0337 range CGIN0352 tics 8
+texture CGIN0493 range CGIN0496 tics 8
+texture CGIN0601 range CGIN0602 tics 8
+flat CGIN0001 range CGIN0003 tics 8
+flat CGIN0024 range CGIN0026 tics 8
+flat CGIN0099 range CGIN0102 tics 8
+flat CGIN0128 range CGIN0131 tics 8
+switch CGIN0146 on pic CGIN0149 tics 0
+switch CGIN0147 on pic CGIN0150 tics 0
+switch CGIN0148 on pic CGIN0151 tics 0
+
 // DCDWANGO
 texture DWDC0001 range DWDC0004 tics 8 allowdecals
 switch DWDC0006 on pic DWDC0011 tics 0

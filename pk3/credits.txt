@@ -9,6 +9,7 @@ BLUDBATH: Olympus BBS
 Bourgeois Megawad: Decay, Doomkid, Razgriz
 Brexicution: Doomkid, ExecutionDM Team, British Doom League
 BUCKET DM 2: Brendan "bucket" Bradley
+Countergoat Initiative: Team Countergoat Initiative
 DANZIG1 + DANZIG2: B. Vannatta and B. Weldon
 DCDWANGO: DWANGO Team
 Decamatch Complete: Team Onslaught, combinebobnt
