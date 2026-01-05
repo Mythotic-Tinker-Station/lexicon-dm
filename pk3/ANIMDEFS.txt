@@ -333,3 +333,9 @@ flat UDMX0398 range UDMX0401 tics 8
 switch UDMX0410 on pic UDMX0415 tics 0
 switch UDMX0411 on pic UDMX0416 tics 0
 switch UDMX0413 on pic UDMX0418 tics 0
+
+// Vignettes of Deathmatch
+texture VODM0073 range VODM0076 tics 8
+flat VODM0053 range VODM0040 tics 6
+switch VODM0088 on pic VODM0089 tics 0
+texture VODM0069 range VODM0072 tics 8
