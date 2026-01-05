@@ -57,6 +57,7 @@ LEX_DTHM_52 = "TKDM";
 LEX_DTHM_53 = "TWN1";
 LEX_DTHM_54 = "UDMX";
 LEX_DTHM_55 = "WANG";
+LEX_DTHM_56 = "VODM";
 
 // Custom actors and metadata for Lexicon Deathmatch mapsets
 // Addictive Deathmatch Series
@@ -571,3 +572,11 @@ WANG_MAPSET_DATE = "2024";
 WANG_MAPSET_MAPS = "32";
 WANG_MAPSET_TITLE = "WANG";
 WANG_MAPSET_PACK = "DTHM";
+
+// Vignettes of Deathmatch
+VODM_MAPSET_AUTHORS = "EmZee712";
+VODM_MAPSET_CUSTOM = "N";
+VODM_MAPSET_DATE = "2023";
+VODM_MAPSET_MAPS = "23";
+VODM_MAPSET_TITLE = "Vignettes of Deathmatch";
+VODM_MAPSET_PACK = "DTHM";

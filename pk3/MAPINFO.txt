@@ -53,3 +53,4 @@ include "mapinfo/TWANGO1.txt" // TWANGO1.wad
 include "mapinfo/UDMX.txt" // udmx_udm3.wad
 include "mapinfo/WANG.txt" // wang.wad
 include "mapinfo/VEXDOOM.txt" // vex-doom.wad
+include "mapinfo/VODM.txt" // vodm.wad
