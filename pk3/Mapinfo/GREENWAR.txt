@@ -124,7 +124,7 @@ map GWAR14 "Green War 14"
 map GWAR15 "Green War 15"
 {
 	Next = "GWAR16"
-	SecretNext = "GWAR31"
+	SecretNext = "GWAR16"
 	Sky1 = "SKY2"
 	Music = "D_RUNNI2"
 }
@@ -243,15 +243,15 @@ map GWAR29 "Green War 29"
 
 map GWAR30 "Green War 30"
 {
-	next = "VR"
-	Secretnext = "VR"
+	next = "GWAR31"
+	Secretnext = "GWAR31"
 	Sky1 = "SKY3"
 	Music = "D_OPENIN"
 }
 
 map GWAR31 "Green War 31"
 {
-	Next = "GWAR16"
+	Next = "GWAR32"
 	SecretNext = "GWAR32"
 	Sky1 = "SKY3"
 	Music = "D_EVIL"
@@ -259,8 +259,8 @@ map GWAR31 "Green War 31"
 
 map GWAR32 "Green War 32"
 {
-	Next = "GWAR16"
-	SecretNext = "GWAR16"
+	Next = "VR"
+	SecretNext = "VR"
 	Sky1 = "SKY3"
 	Music = "D_ULTIMA"
 }
