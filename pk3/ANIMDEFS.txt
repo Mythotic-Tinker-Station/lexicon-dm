@@ -217,6 +217,36 @@ switch GTH20313 on pic GTH20316 tics 0
 switch GTH20314 on pic GTH20317 tics 0
 switch GTH20315 on pic GTH20318 tics 0
 
+// Green War 2
+texture GWR20364 range GWR20367 tics 8
+texture GWR20729 range GWR20732 tics 8
+texture GWR20733 range GWR20736 tics 8
+texture GWR20737 range GWR20740 tics 8 allowdecals
+texture GWR20741 range GWR20744 tics 8 allowdecals
+texture GWR20840 range GWR20842 tics 8 allowdecals
+flat GWR20061 range GWR20064 tics 8
+flat GWR20177 range GWR20180 tics 8
+flat GWR20253 range GWR20255 tics 8
+flat GWR20257 range GWR20260 tics 8
+switch GWR20400 on pic GWR20432 tics 0
+switch GWR20401 on pic GWR20433 tics 0
+switch GWR20402 on pic GWR20434 tics 0
+switch GWR20405 on pic GWR20437 tics 0
+switch GWR20406 on pic GWR20438 tics 0
+switch GWR20407 on pic GWR20439 tics 0
+switch GWR20408 on pic GWR20440 tics 0
+switch GWR20409 on pic GWR20441 tics 0
+switch GWR20410 on pic GWR20442 tics 0
+switch GWR20411 on pic GWR20443 tics 0
+switch GWR20413 on pic GWR20445 tics 0
+switch GWR20414 on pic GWR20446 tics 0
+switch GWR20415 on pic GWR20447 tics 0
+switch GWR20416 on pic GWR20448 tics 0
+switch GWR20419 on pic GWR20451 tics 0
+switch GWR20420 on pic GWR20452 tics 0
+switch GWR20428 on pic GWR20461 tics 0
+switch GWR20430 on pic GWR20463 tics 0
+
 // Grievance
 texture GRVE0001 range GRVE0004 tics 8 allowdecals
 texture GRVE0035 range GRVE0038 tics 8
